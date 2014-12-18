@@ -14,4 +14,4 @@ console.log(domainNameParser.parse('www.example.co.uk'));
 ```
 
 ## Updating list of effective TLDs
-The list of TLDs used by the library is built with `node buildPLS.json`. This package should get updated each time the list is.
+The list of TLDs used by the library is built with `node buildPLS.js`. This package should get updated each time the list is.
