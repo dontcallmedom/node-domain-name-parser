@@ -5,9 +5,9 @@
     "dependencies": {
     },
     "devDependencies": {
-        "mocha": "1.20.1",
-        "request": "",
-        "expect.js": "0.3.1"
+        "expect.js": "^0.3.1",
+        "mocha": "^2.2.5",
+        "request": "^2.56.0"
     },
     "scripts": {
        "test": "mocha"
