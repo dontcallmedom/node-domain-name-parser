@@ -1,3 +1,5 @@
+[![devDependency Status](https://david-dm.org/dontcallmedom/node-domain-name-parser/dev-status.svg)](https://david-dm.org/dontcallmedom/node-domain-name-parser#info=devDependencies)
+
 # Domain name parser
 
 This is very simple library for Node to parse a domain name into Top Level Domain / Second Level Domain / Subdomains based on the list of [effective Top Level Domains](https://publicsuffix.org/list/effective_tld_names.dat) maintained by Mozilla.
