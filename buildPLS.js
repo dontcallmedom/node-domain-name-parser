@@ -20,7 +20,7 @@ request(plsUrl ,
                          parent = parent[tld[i]];
                      }
                  });
-                 fs.writeFileSync("pls.json", JSON.stringify(pls));
+                 fs.writeFileSync("pls.json", JSON.stringify(pls, null, 2));
              } else {
                  console.error("Failed to load " + plsUrl);
              }
