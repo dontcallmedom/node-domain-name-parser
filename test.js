@@ -19,8 +19,8 @@ var tests = [
     {desc: "multiple subdomain", inp: "we.love.subdomains.example.org",
      out: ["org", "example", "we.love.subdomains"]
     },
-    {desc: "long tld", inp: "www.example.ap-southeast-2.compute.amazonaws.com",
-     out: ["ap-southeast-2.compute.amazonaws.com", "example", "www"]
+    {desc: "long tld", inp: "www.example.ap-southeast-2.amazonaws.com",
+     out: ["ap-southeast-2.amazonaws.com", "example", "www"]
     },
     {desc: "I18N tld", inp: "www.example.娱乐",
      out: ["娱乐", "example", "www"]
