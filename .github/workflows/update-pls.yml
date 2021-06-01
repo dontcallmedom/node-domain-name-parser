@@ -1,0 +1,28 @@
+name: Update list of effective TLDs
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+
+jobs:
+  update-pls:
+    name: Update based on latest version of PLS
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+      - name: Setup dependencies
+        run:  npm install
+      - name: Commit changes
+        run: |
+          git config user.name "pls-bot"
+          git config user.email "<>"
+          git add pls.json
+          git commit -m "Update pls.json"
+          git show
+      - name: Push changes
+        run: |
+          git remote set-url --push origin https://$GITHUB_ACTOR:${{ GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git push origin HEAD:main
+
