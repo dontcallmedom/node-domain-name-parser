@@ -1,6 +1,6 @@
 {
     "name": "effective-domain-name-parser",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "license": "MIT",
     "repository": {
         "type": "git",
@@ -9,6 +9,10 @@
     "bugs": {
         "url": "https://github.com/dontcallmedom/node-domain-name-parser/issues"
     },
+    "files": [
+	"index.js",
+	"pls.json"
+    ],
     "dependencies": {},
     "devDependencies": {
         "expect.js": "^0.3.1",
