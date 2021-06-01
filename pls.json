@@ -148,7 +148,10 @@
     "commune": {},
     "net": {},
     "org": {},
-    "blogspot": {}
+    "radio": {},
+    "blogspot": {},
+    "neko": {},
+    "nyaa": {}
   },
   "ao": {
     "ed": {},
@@ -188,12 +191,17 @@
     "cloudns": {}
   },
   "at": {
-    "ac": {},
+    "ac": {
+      "sth": {}
+    },
     "co": {
       "blogspot": {}
     },
     "gv": {},
     "or": {},
+    "funkfeuer": {
+      "wien": {}
+    },
     "futurecms": {
       "*": {},
       "ex": {
@@ -223,7 +231,10 @@
   },
   "au": {
     "com": {
-      "blogspot": {}
+      "blogspot": {},
+      "cloudlets": {
+        "mel": {}
+      }
     },
     "net": {},
     "org": {},
@@ -236,9 +247,7 @@
       "nt": {},
       "qld": {},
       "sa": {},
-      "tas": {
-        "education": {}
-      },
+      "tas": {},
       "vic": {},
       "wa": {}
     },
@@ -266,7 +275,16 @@
   "aw": {
     "com": {}
   },
-  "ax": {},
+  "ax": {
+    "be": {},
+    "cat": {},
+    "es": {},
+    "eu": {},
+    "gg": {},
+    "mc": {},
+    "us": {},
+    "xy": {}
+  },
   "az": {
     "com": {},
     "net": {},
@@ -309,6 +327,12 @@
     "ac": {},
     "webhosting": {},
     "blogspot": {},
+    "interhostsolutions": {
+      "cloud": {}
+    },
+    "kuleuven": {
+      "ezproxy": {}
+    },
     "transurl": {
       "*": {}
     }
@@ -372,6 +396,7 @@
   },
   "biz": {
     "cloudns": {},
+    "jozi": {},
     "dyndns": {},
     "for-better": {},
     "for-more": {},
@@ -379,7 +404,6 @@
     "for-the": {},
     "selfip": {},
     "webhop": {},
-    "bpl": {},
     "orx": {},
     "mmafan": {},
     "myftp": {},
@@ -460,6 +484,7 @@
     "am": {},
     "anani": {},
     "aparecida": {},
+    "app": {},
     "arq": {},
     "art": {},
     "ato": {},
@@ -467,6 +492,7 @@
     "barueri": {},
     "belem": {},
     "bhz": {},
+    "bib": {},
     "bio": {},
     "blog": {},
     "bmd": {},
@@ -479,18 +505,28 @@
     "cng": {},
     "cnt": {},
     "com": {
-      "blogspot": {}
+      "blogspot": {},
+      "virtualcloud": {
+        "scale": {
+          "users": {}
+        }
+      }
     },
     "contagem": {},
     "coop": {},
+    "coz": {},
     "cri": {},
     "cuiaba": {},
     "curitiba": {},
     "def": {},
+    "des": {},
+    "det": {},
+    "dev": {},
     "ecn": {},
     "eco": {},
     "edu": {},
     "emp": {},
+    "enf": {},
     "eng": {},
     "esp": {},
     "etc": {},
@@ -506,6 +542,7 @@
     "foz": {},
     "fst": {},
     "g12": {},
+    "geo": {},
     "ggf": {},
     "goiania": {},
     "gov": {
@@ -577,6 +614,7 @@
       "to": {}
     },
     "lel": {},
+    "log": {},
     "londrina": {},
     "macapa": {},
     "maceio": {},
@@ -611,6 +649,7 @@
     "radio": {},
     "rec": {},
     "recife": {},
+    "rep": {},
     "ribeirao": {},
     "rio": {},
     "riobranco": {},
@@ -621,6 +660,7 @@
     "santoandre": {},
     "saobernardo": {},
     "saogonca": {},
+    "seg": {},
     "sjc": {},
     "slg": {},
     "slz": {},
@@ -628,6 +668,7 @@
     "srv": {},
     "taxi": {},
     "tc": {},
+    "tec": {},
     "teo": {},
     "the": {},
     "tmp": {},
@@ -668,6 +709,7 @@
       "blogspot": {}
     },
     "of": {},
+    "mycloud": {},
     "nym": {}
   },
   "bz": {
@@ -677,6 +719,7 @@
     "edu": {},
     "gov": {},
     "za": {},
+    "gsj": {},
     "nom": {},
     "nym": {}
   },
@@ -712,6 +755,7 @@
     "myphotos": {},
     "scrapping": {},
     "twmail": {},
+    "csx": {},
     "fantasyleague": {}
   },
   "cd": {
@@ -724,9 +768,21 @@
   "ch": {
     "square7": {},
     "blogspot": {},
+    "flow": {
+      "ae": {
+        "alp1": {}
+      },
+      "appengine": {}
+    },
     "linkyard-cloud": {},
     "dnsking": {},
     "gotdns": {},
+    "firenet": {
+      "*": {},
+      "svc": {
+        "*": {}
+      }
+    },
     "12hp": {},
     "2ix": {},
     "4lima": {},
@@ -748,7 +804,8 @@
     "presse": {},
     "md": {},
     "gouv": {},
-    "fin": {}
+    "fin": {},
+    "nl": {}
   },
   "ck": {
     "*": {},
@@ -858,14 +915,20 @@
     "mypi": {},
     "n4t": {},
     "nodum": {},
-    "repl": {}
+    "repl": {
+      "id": {}
+    }
   },
   "com": {
+    "devcdnaccesso": {
+      "*": {}
+    },
     "adobeaemcloud": {
       "dev": {
         "*": {}
       }
     },
+    "kasserver": {},
     "amazonaws": {
       "compute": {
         "*": {}
@@ -1001,38 +1064,43 @@
       "us-west-1": {},
       "us-west-2": {}
     },
+    "awsglobalaccelerator": {},
+    "appspacehosted": {},
+    "appspaceusercontent": {},
     "on-aptible": {},
     "myasustor": {},
     "balena-devices": {},
     "betainabox": {},
+    "boutir": {},
     "bplaced": {},
-    "ar": {},
+    "cafjs": {},
     "br": {},
     "cn": {},
     "de": {},
     "eu": {},
-    "gb": {},
-    "hu": {},
     "jpn": {},
-    "kr": {},
     "mex": {},
-    "no": {},
-    "qc": {},
     "ru": {},
     "sa": {},
     "uk": {},
     "us": {},
-    "uy": {},
     "za": {},
+    "ar": {},
+    "gb": {},
+    "hu": {},
+    "kr": {},
+    "no": {},
+    "qc": {},
+    "uy": {},
     "africa": {},
     "gr": {},
     "co": {},
-    "xenapponazure": {},
     "jdevcloud": {},
     "wpdevcloud": {},
     "cloudcontrolled": {},
     "cloudcontrolapp": {},
     "trycloudflare": {},
+    "multibaas": {},
     "customer-oci": {
       "*": {},
       "oci": {
@@ -1222,6 +1290,7 @@
       "us-3": {},
       "us-4": {}
     },
+    "onfabrica": {},
     "fbsbx": {
       "apps": {}
     },
@@ -1229,9 +1298,13 @@
     "fastvps-server": {},
     "mydobiss": {},
     "firebaseapp": {},
+    "forgeblocks": {},
+    "framercanvas": {},
     "freebox-os": {},
     "freeboxos": {},
+    "freemyip": {},
     "gentapps": {},
+    "gentlentapis": {},
     "githubusercontent": {},
     "0emm": {
       "*": {}
@@ -1241,7 +1314,6 @@
         "*": {}
       }
     },
-    "blogspot": {},
     "codespot": {},
     "googleapis": {},
     "googlecode": {},
@@ -1249,11 +1321,44 @@
     "publishproxy": {},
     "withgoogle": {},
     "withyoutube": {},
+    "blogspot": {},
     "awsmppl": {},
     "herokuapp": {},
     "herokussl": {},
     "myravendb": {},
+    "impertrixcdn": {},
+    "impertrix": {},
+    "smushcdn": {},
+    "wphostedmail": {},
+    "wpmucdn": {},
     "pixolino": {},
+    "amscompute": {},
+    "clicketcloud": {},
+    "dopaas": {},
+    "hidora": {},
+    "hosted-by-previder": {
+      "paas": {}
+    },
+    "hosteur": {
+      "rag-cloud": {},
+      "rag-cloud-ch": {}
+    },
+    "ik-server": {
+      "jcloud": {},
+      "jcloud-ver-jpc": {}
+    },
+    "jelastic": {
+      "demo": {}
+    },
+    "kilatiron": {},
+    "massivegrid": {
+      "paas": {}
+    },
+    "wafaicloud": {
+      "jed": {},
+      "lon": {},
+      "ryd": {}
+    },
     "joyent": {
       "cns": {
         "*": {}
@@ -1265,16 +1370,34 @@
     },
     "linode": {
       "members": {},
-      "nodebalancer": {}
+      "nodebalancer": {
+        "*": {}
+      }
+    },
+    "linodeobjects": {
+      "*": {}
     },
     "barsycenter": {},
     "barsyonline": {},
+    "mazeplay": {},
     "miniserver": {},
     "meteorapp": {
       "eu": {}
     },
-    "bitballoon": {},
-    "netlify": {},
+    "hostedpi": {},
+    "mythic-beasts": {
+      "customer": {},
+      "caracal": {},
+      "fentiger": {},
+      "lynx": {},
+      "ocelot": {},
+      "oncilla": {},
+      "onza": {},
+      "sphinx": {},
+      "vs": {},
+      "x": {},
+      "yali": {}
+    },
     "4u": {},
     "nfshost": {},
     "001www": {},
@@ -1320,16 +1443,27 @@
     "observableusercontent": {
       "static": {}
     },
+    "orsites": {},
     "operaunite": {},
+    "authgear-staging": {},
+    "authgearapps": {},
     "skygearapp": {},
     "outsystemscloud": {},
     "ownprovider": {},
     "pgfog": {},
     "pagefrontapp": {},
+    "pagexl": {},
+    "paywhirl": {
+      "*": {}
+    },
     "gotpantheon": {},
     "platter-app": {},
+    "pleskns": {},
     "prgmr": {
       "xen": {}
+    },
+    "pythonanywhere": {
+      "eu": {}
     },
     "qualifioapp": {},
     "qbuser": {},
@@ -1350,6 +1484,7 @@
     "scrysec": {},
     "firewall-gateway": {},
     "myshopblocks": {},
+    "myshopify": {},
     "shopitsite": {},
     "1kapp": {},
     "appchizi": {},
@@ -1360,6 +1495,7 @@
       "alpha": {},
       "beta": {}
     },
+    "try-snowplow": {},
     "stackhero-network": {},
     "playstation-cloud": {},
     "stdlib": {
@@ -1373,7 +1509,19 @@
     "townnews-staging": {},
     "hk": {},
     "wafflecell": {},
+    "idnblogger": {},
+    "indowapblog": {},
+    "reserve-online": {},
+    "hotelwithflight": {},
     "remotewd": {},
+    "wiardweb": {
+      "pages": {}
+    },
+    "woltlab-demo": {},
+    "wpenginepowered": {
+      "js": {}
+    },
+    "wixsite": {},
     "xnbay": {
       "u2": {},
       "u2-local": {}
@@ -1416,7 +1564,10 @@
     "ac": {},
     "biz": {},
     "com": {
-      "blogspot": {}
+      "blogspot": {},
+      "scaleforce": {
+        "j": {}
+      }
     },
     "ekloges": {},
     "gov": {},
@@ -1435,7 +1586,9 @@
     "e4": {},
     "blogspot": {},
     "metacentrum": {
-      "cloud": {},
+      "cloud": {
+        "*": {}
+      },
       "custom": {}
     },
     "muni": {
@@ -1473,8 +1626,13 @@
       "dyn": {}
     },
     "myhome-server": {},
+    "frusky": {
+      "*": {}
+    },
     "goip": {},
     "blogspot": {},
+    "günstigbestellen": {},
+    "günstigliefern": {},
     "dyn-berlin": {},
     "in-berlin": {},
     "in-brb": {},
@@ -1482,6 +1640,7 @@
     "in-dsl": {},
     "in-vpn": {},
     "mein-iserv": {},
+    "schulserver": {},
     "test-iserv": {},
     "keymachine": {},
     "git-repos": {},
@@ -1549,14 +1708,16 @@
     "web": {}
   },
   "dz": {
+    "art": {},
+    "asso": {},
     "com": {},
+    "edu": {},
+    "gov": {},
     "org": {},
     "net": {},
-    "gov": {},
-    "edu": {},
-    "asso": {},
     "pol": {},
-    "art": {}
+    "soc": {},
+    "tm": {}
   },
   "ec": {
     "com": {},
@@ -1630,6 +1791,9 @@
   "eu": {
     "mycd": {},
     "cloudns": {},
+    "dogado": {
+      "jelastic": {}
+    },
     "barsy": {},
     "wellbeingzone": {},
     "spdns": {},
@@ -1643,7 +1807,14 @@
     "dy": {},
     "blogspot": {},
     "häkkinen": {},
-    "iki": {}
+    "iki": {},
+    "cloudplatform": {
+      "fi": {}
+    },
+    "datacenter": {
+      "demo": {},
+      "paas": {}
+    }
   },
   "fj": {
     "ac": {},
@@ -1660,7 +1831,13 @@
   "fk": {
     "*": {}
   },
-  "fm": {},
+  "fm": {
+    "com": {},
+    "edu": {},
+    "net": {},
+    "org": {},
+    "radio": {}
+  },
   "fo": {},
   "fr": {
     "asso": {},
@@ -1690,12 +1867,15 @@
     "freebox-os": {},
     "freeboxos": {},
     "blogspot": {},
+    "goupile": {},
     "on-web": {},
     "chirurgiens-dentistes-en-france": {}
   },
   "ga": {},
   "gb": {},
   "gd": {
+    "edu": {},
+    "gov": {},
     "nom": {}
   },
   "ge": {
@@ -1714,7 +1894,10 @@
     "net": {},
     "org": {},
     "kaas": {},
-    "cya": {}
+    "cya": {},
+    "panel": {
+      "daemon": {}
+    }
   },
   "gh": {
     "com": {},
@@ -1738,7 +1921,8 @@
     "net": {},
     "org": {},
     "biz": {},
-    "nom": {}
+    "nom": {},
+    "xx": {}
   },
   "gm": {},
   "gn": {
@@ -1756,7 +1940,8 @@
     "mobi": {},
     "edu": {},
     "org": {},
-    "asso": {}
+    "asso": {},
+    "app": {}
   },
   "gq": {},
   "gr": {
@@ -1777,7 +1962,10 @@
     "mil": {},
     "net": {},
     "org": {},
-    "nom": {}
+    "nom": {},
+    "blog": {},
+    "de": {},
+    "to": {}
   },
   "gu": {
     "com": {},
@@ -1797,7 +1985,8 @@
     "gov": {},
     "net": {},
     "org": {},
-    "nym": {}
+    "nym": {},
+    "be": {}
   },
   "hk": {
     "com": {},
@@ -1822,6 +2011,7 @@
     "組織": {},
     "組织": {},
     "blogspot": {},
+    "secaas": {},
     "nym": {},
     "ltd": {},
     "inc": {}
@@ -1834,7 +2024,8 @@
     "net": {},
     "mil": {},
     "gob": {},
-    "nom": {}
+    "nom": {},
+    "cc": {}
   },
   "hr": {
     "iz": {},
@@ -1911,7 +2102,11 @@
     "or": {},
     "ponpes": {},
     "sch": {},
-    "web": {}
+    "web": {},
+    "flap": {},
+    "forte": {},
+    "bloger": {},
+    "wblog": {}
   },
   "ie": {
     "gov": {},
@@ -1921,6 +2116,7 @@
   "il": {
     "ac": {},
     "co": {
+      "ravpage": {},
       "blogspot": {}
     },
     "gov": {},
@@ -1957,6 +2153,7 @@
     "res": {},
     "gov": {},
     "mil": {},
+    "web": {},
     "cloudns": {},
     "blogspot": {},
     "barsy": {}
@@ -1994,27 +2191,52 @@
     "b-data": {},
     "backplaneapp": {},
     "banzaicloud": {
-      "app": {}
+      "app": {},
+      "backyards": {
+        "*": {}
+      }
     },
+    "bluebite": {},
     "boxfuse": {},
     "browsersafetymark": {},
     "bigv": {
       "uk0": {}
     },
     "cleverapps": {},
+    "dappnode": {
+      "dyndns": {}
+    },
     "dedyn": {},
     "drud": {},
     "definima": {},
     "enonic": {
       "customer": {}
     },
+    "fh-muenster": {},
+    "shw": {},
+    "forgerock": {
+      "id": {}
+    },
+    "ghost": {},
     "github": {},
     "gitlab": {},
     "lolipop": {},
     "hasura-app": {},
+    "hostyhosting": {},
     "moonscale": {
       "*": {}
     },
+    "beebyte": {
+      "paas": {}
+    },
+    "beebyteapp": {
+      "sekd1": {}
+    },
+    "jele": {},
+    "unispace": {
+      "cloud-fr1": {}
+    },
+    "webthings": {},
     "loginline": {},
     "barsy": {},
     "azurecontainer": {
@@ -2029,12 +2251,16 @@
     "pantheonsite": {},
     "dyn53": {},
     "protonet": {},
+    "qoto": {},
     "qcx": {
       "sys": {
         "*": {}
       }
     },
     "vaporcloud": {},
+    "vbrplsbx": {
+      "g": {}
+    },
     "on-k3s": {
       "*": {}
     },
@@ -2048,6 +2274,7 @@
     },
     "hzc": {},
     "sandcats": {},
+    "shiftcrypto": {},
     "shiftedit": {},
     "mo-siemens": {},
     "lair": {
@@ -2058,8 +2285,6 @@
     },
     "spacekit": {},
     "utwente": {},
-    "applicationcloud": {},
-    "scapp": {},
     "s5y": {
       "*": {}
     },
@@ -2079,6 +2304,7 @@
       }
     },
     "wedeploy": {},
+    "editorx": {},
     "basicserver": {},
     "virtualserver": {}
   },
@@ -2519,6 +2745,16 @@
     "vt": {},
     "vv": {},
     "blogspot": {},
+    "neen": {
+      "jc": {}
+    },
+    "tim": {
+      "open": {
+        "jelastic": {
+          "cloud": {}
+        }
+      }
+    },
     "16-b": {},
     "32-b": {},
     "64-b": {},
@@ -2527,7 +2763,8 @@
   "je": {
     "co": {},
     "net": {},
-    "org": {}
+    "org": {},
+    "of": {}
   },
   "jm": {
     "*": {}
@@ -4423,7 +4660,13 @@
     "com": {},
     "edu": {},
     "gov": {},
-    "mil": {}
+    "mil": {},
+    "blog": {},
+    "io": {},
+    "jp": {},
+    "tv": {},
+    "uk": {},
+    "us": {}
   },
   "kh": {
     "*": {}
@@ -4525,6 +4768,10 @@
     "gov": {},
     "mil": {},
     "com": {},
+    "jcloud": {},
+    "kazteleport": {
+      "upaas": {}
+    },
     "nym": {}
   },
   "la": {
@@ -4596,7 +4843,8 @@
     "info": {},
     "net": {},
     "org": {},
-    "sc": {}
+    "sc": {},
+    "de": {}
   },
   "lt": {
     "gov": {},
@@ -4643,7 +4891,11 @@
     "asso": {}
   },
   "md": {
-    "blogspot": {}
+    "blogspot": {},
+    "at": {},
+    "de": {},
+    "jp": {},
+    "to": {}
   },
   "me": {
     "co": {},
@@ -4670,7 +4922,10 @@
     "filegear-sg": {},
     "glitch": {},
     "ravendb": {},
+    "lohmus": {},
     "barsy": {},
+    "mcpe": {},
+    "mcdir": {},
     "nctu": {},
     "soundcast": {},
     "tcp4": {},
@@ -4687,6 +4942,8 @@
     "i234": {},
     "myds": {},
     "synology": {},
+    "tbits": {},
+    "wbq": {},
     "wedeploy": {},
     "yombo": {},
     "nohost": {}
@@ -5363,13 +5620,14 @@
     "nym": {}
   },
   "my": {
+    "biz": {},
     "com": {},
-    "net": {},
-    "org": {},
-    "gov": {},
     "edu": {},
+    "gov": {},
     "mil": {},
     "name": {},
+    "net": {},
+    "org": {},
     "blogspot": {}
   },
   "mz": {
@@ -5420,6 +5678,7 @@
     "cloudfront": {},
     "t3l3p0rt": {},
     "myfritz": {},
+    "onavstack": {},
     "blackbaudcdn": {},
     "boomla": {},
     "bplaced": {},
@@ -5430,12 +5689,13 @@
     "se": {},
     "uk": {},
     "in": {},
+    "clic2000": {},
+    "clickrising": {},
     "cloudaccess": {},
     "cdn77-ssl": {},
     "cdn77": {
       "r": {}
     },
-    "cloudeity": {},
     "feste-ip": {},
     "knx-server": {},
     "static-access": {},
@@ -5445,6 +5705,7 @@
     "dattolocal": {},
     "mydatto": {},
     "debian": {},
+    "bitbridge": {},
     "at-band-camp": {},
     "blogdns": {},
     "broke-it": {},
@@ -5505,20 +5766,60 @@
         "global": {}
       }
     },
+    "edgeapp": {},
     "flynnhosting": {},
+    "cdn-edges": {},
     "cloudfunctions": {},
     "moonscale": {},
     "in-dsl": {},
     "in-vpn": {},
     "ipifony": {},
     "iobb": {},
+    "cloudjiffy": {
+      "fra1-de": {},
+      "west1-us": {}
+    },
+    "elastx": {
+      "jls-sto1": {},
+      "jls-sto2": {},
+      "jls-sto3": {}
+    },
+    "faststacks": {},
+    "massivegrid": {
+      "paas": {
+        "fr-1": {},
+        "lon-1": {},
+        "lon-2": {},
+        "ny-1": {},
+        "ny-2": {},
+        "sg-1": {}
+      }
+    },
+    "saveincloud": {
+      "jelastic": {},
+      "nordeste-idc": {}
+    },
+    "scaleforce": {
+      "j": {}
+    },
+    "tsukaeru": {
+      "jelastic": {}
+    },
     "kinghost": {},
     "uni5": {},
+    "krellian": {},
     "barsy": {},
     "memset": {},
     "azurewebsites": {},
     "azure-mobile": {},
     "cloudapp": {},
+    "azurestaticapps": {
+      "centralus": {},
+      "eastasia": {},
+      "eastus2": {},
+      "westeurope": {},
+      "westus2": {}
+    },
     "dnsup": {},
     "hicam": {},
     "now-dns": {},
@@ -5541,17 +5842,41 @@
     "serveminecraft": {},
     "sytes": {},
     "cloudycluster": {},
+    "ovh": {
+      "webpaas": {
+        "*": {}
+      },
+      "hosting": {
+        "*": {}
+      }
+    },
+    "bar0": {},
+    "bar1": {},
+    "bar2": {},
     "rackmaze": {},
     "schokokeks": {},
     "firewall-gateway": {},
+    "seidat": {},
     "senseering": {},
     "siteleaf": {},
+    "vps-host": {
+      "jelastic": {
+        "atl": {},
+        "njs": {},
+        "ric": {}
+      }
+    },
     "srcf": {
       "soc": {},
       "user": {}
     },
     "dsmynas": {},
     "familyds": {},
+    "torproject": {
+      "pages": {}
+    },
+    "fastblog": {},
+    "reserve-online": {},
     "community-pro": {},
     "meinforum": {},
     "yandexcloud": {
@@ -6437,6 +6762,7 @@
     "mine": {},
     "shacknet": {},
     "nom": {},
+    "uwu": {},
     "enterprisecloud": {}
   },
   "nz": {
@@ -6631,7 +6957,6 @@
     "in-dsl": {},
     "in-vpn": {},
     "js": {},
-    "uklugs": {},
     "barsy": {},
     "mayfirst": {},
     "mozilla-iot": {},
@@ -6654,6 +6979,7 @@
     "my-firewall": {},
     "myfirewall": {},
     "spdns": {},
+    "small-web": {},
     "dsmynas": {},
     "familyds": {},
     "edugit": {},
@@ -6926,6 +7252,9 @@
     "zgora": {},
     "zgorzelec": {},
     "beep": {},
+    "shoparena": {},
+    "sdscloud": {},
+    "unicloud": {},
     "krasnik": {},
     "leczna": {},
     "lubartow": {},
@@ -7060,6 +7389,7 @@
     "store": {},
     "tm": {},
     "www": {},
+    "co": {},
     "shop": {},
     "blogspot": {},
     "nym": {}
@@ -7083,6 +7413,7 @@
     "int": {},
     "mil": {},
     "test": {},
+    "eurodir": {},
     "adygeya": {},
     "bashkiria": {},
     "bir": {},
@@ -7103,6 +7434,11 @@
     "vladikavkaz": {},
     "vladimir": {},
     "blogspot": {},
+    "na4u": {},
+    "mircloud": {},
+    "regruhosting": {
+      "jelastic": {}
+    },
     "myjino": {
       "hosting": {
         "*": {}
@@ -7120,9 +7456,14 @@
     "cldmail": {
       "hb": {}
     },
+    "mcdir": {
+      "vps": {}
+    },
+    "mcpre": {},
     "net": {},
     "org": {},
     "pp": {},
+    "lk3": {},
     "ras": {}
   },
   "rw": {
@@ -7210,7 +7551,8 @@
     "z": {},
     "com": {},
     "blogspot": {},
-    "conf": {}
+    "conf": {},
+    "iopsys": {}
   },
   "sg": {
     "com": {},
@@ -7219,7 +7561,8 @@
     "gov": {},
     "edu": {},
     "per": {},
-    "blogspot": {}
+    "blogspot": {},
+    "enscaled": {}
   },
   "sh": {
     "com": {},
@@ -7227,14 +7570,21 @@
     "gov": {},
     "org": {},
     "mil": {},
+    "bip": {},
     "hashbang": {},
     "platform": {
-      "*": {}
+      "bc": {},
+      "ent": {},
+      "eu": {},
+      "us": {}
     },
-    "wedeploy": {},
-    "now": {}
+    "now": {},
+    "vxl": {},
+    "wedeploy": {}
   },
   "si": {
+    "gitapp": {},
+    "gitpage": {},
     "blogspot": {},
     "nom": {}
   },
@@ -7276,8 +7626,10 @@
     "com": {},
     "edu": {},
     "gov": {},
+    "me": {},
     "net": {},
-    "org": {}
+    "org": {},
+    "sch": {}
   },
   "st": {
     "co": {},
@@ -7285,7 +7637,6 @@
     "consulado": {},
     "edu": {},
     "embaixada": {},
-    "gov": {},
     "mil": {},
     "net": {},
     "org": {},
@@ -7374,7 +7725,11 @@
     "ac": {},
     "org": {}
   },
-  "tc": {},
+  "tc": {
+    "ch": {},
+    "me": {},
+    "we": {}
+  },
   "td": {
     "blogspot": {}
   },
@@ -7444,9 +7799,11 @@
     "mincom": {},
     "agrinet": {},
     "defense": {},
-    "turen": {}
+    "turen": {},
+    "orangecloud": {}
   },
   "to": {
+    "611": {},
     "com": {},
     "gov": {},
     "net": {},
@@ -7454,10 +7811,12 @@
     "edu": {},
     "mil": {},
     "oya": {},
+    "rdv": {},
     "vpnplus": {},
     "quickconnect": {
       "direct": {}
-    }
+    },
+    "nyan": {}
   },
   "tr": {
     "av": {},
@@ -7567,7 +7926,6 @@
     "dn": {},
     "dnepropetrovsk": {},
     "dnipropetrovsk": {},
-    "dominic": {},
     "donetsk": {},
     "dp": {},
     "if": {},
@@ -7626,6 +7984,7 @@
     "cc": {},
     "inf": {},
     "ltd": {},
+    "cx": {},
     "biz": {},
     "co": {},
     "pp": {},
@@ -7651,8 +8010,14 @@
         "vm": {}
       },
       "blogspot": {},
+      "layershift": {
+        "j": {}
+      },
       "barsy": {},
       "barsyonline": {},
+      "retrosnub": {
+        "cust": {}
+      },
       "nh-serv": {},
       "no-ip": {},
       "wellbeingzone": {},
@@ -7678,6 +8043,8 @@
     },
     "conn": {},
     "copro": {},
+    "hosp": {},
+    "pymnt": {},
     "barsy": {}
   },
   "us": {
@@ -7967,12 +8334,16 @@
       "cc": {},
       "lib": {}
     },
+    "graphox": {},
     "cloudns": {},
     "drud": {},
     "is-by": {},
     "land-4-sale": {},
     "stuff-4-sale": {},
-    "graphox": {},
+    "enscaled": {
+      "phx": {}
+    },
+    "mircloud": {},
     "freeddns": {},
     "golffan": {},
     "noip": {},
@@ -8030,7 +8401,8 @@
     "web": {}
   },
   "vg": {
-    "nom": {}
+    "nom": {},
+    "at": {}
   },
   "vi": {
     "co": {},
@@ -8058,7 +8430,11 @@
     "com": {},
     "edu": {},
     "net": {},
-    "org": {}
+    "org": {},
+    "cn": {},
+    "blog": {},
+    "dev": {},
+    "me": {}
   },
   "wf": {},
   "ws": {
@@ -8074,11 +8450,14 @@
     "dyndns": {},
     "mypets": {}
   },
-  "yt": {},
+  "yt": {
+    "org": {}
+  },
   "امارات": {},
   "հայ": {},
   "বাংলা": {},
   "бг": {},
+  "البحرين": {},
   "бел": {},
   "中国": {},
   "中國": {},
@@ -8118,6 +8497,7 @@
   "الاردن": {},
   "한국": {},
   "қаз": {},
+  "ລາວ": {},
   "ලංකා": {},
   "இலங்கை": {},
   "المغرب": {},
@@ -8165,7 +8545,12 @@
   "اليمن": {},
   "xxx": {},
   "ye": {
-    "*": {}
+    "com": {},
+    "edu": {},
+    "gov": {},
+    "net": {},
+    "mil": {},
+    "org": {}
   },
   "za": {
     "ac": {},
@@ -8238,7 +8623,6 @@
   "agakhan": {},
   "agency": {},
   "aig": {},
-  "aigo": {},
   "airbus": {},
   "airforce": {},
   "airtel": {},
@@ -8266,13 +8650,29 @@
   "apartments": {},
   "app": {
     "wnext": {},
+    "multibaas": {},
+    "platform0": {},
+    "ondigitalocean": {},
+    "edgecompute": {},
+    "fireweb": {},
+    "framer": {},
     "run": {
       "a": {}
     },
     "web": {},
     "hasura": {},
     "loginline": {},
-    "telebit": {}
+    "netlify": {},
+    "developer": {
+      "*": {}
+    },
+    "noop": {},
+    "northflank": {
+      "*": {}
+    },
+    "telebit": {},
+    "vercel": {},
+    "bookonline": {}
   },
   "apple": {},
   "aquarelle": {},
@@ -8311,7 +8711,10 @@
   "barefoot": {},
   "bargains": {},
   "baseball": {},
-  "basketball": {},
+  "basketball": {
+    "aus": {},
+    "nz": {}
+  },
   "bauhaus": {},
   "bayern": {},
   "bbc": {},
@@ -8366,7 +8769,9 @@
   "budapest": {},
   "bugatti": {},
   "build": {},
-  "builders": {},
+  "builders": {
+    "cloudsite": {}
+  },
   "business": {
     "co": {}
   },
@@ -8399,7 +8804,6 @@
     }
   },
   "case": {},
-  "caseih": {},
   "cash": {},
   "casino": {},
   "catering": {},
@@ -8408,7 +8812,6 @@
   "cbn": {},
   "cbre": {},
   "cbs": {},
-  "ceb": {},
   "center": {},
   "ceo": {},
   "cern": {},
@@ -8430,9 +8833,7 @@
   "citadel": {},
   "citi": {},
   "citic": {},
-  "city": {
-    "ng": {}
-  },
+  "city": {},
   "cityeats": {},
   "claims": {},
   "cleaning": {},
@@ -8441,9 +8842,49 @@
   "clinique": {},
   "clothing": {},
   "cloud": {
+    "banzai": {
+      "*": {}
+    },
     "statics": {
       "*": {}
     },
+    "axarnet": {
+      "es-1": {}
+    },
+    "diadem": {},
+    "jelastic": {
+      "vip": {}
+    },
+    "jele": {},
+    "jenv-aruba": {
+      "aruba": {
+        "eur": {
+          "it1": {}
+        }
+      },
+      "it1": {}
+    },
+    "keliweb": {
+      "cs": {}
+    },
+    "oxa": {
+      "tn": {},
+      "uk": {}
+    },
+    "primetel": {
+      "uk": {}
+    },
+    "reclaim": {
+      "ca": {},
+      "uk": {},
+      "us": {}
+    },
+    "trendhosting": {
+      "ch": {},
+      "de": {}
+    },
+    "jotelulu": {},
+    "kuleuven": {},
     "linkyard": {},
     "magentosite": {
       "*": {}
@@ -8462,12 +8903,17 @@
   },
   "club": {
     "cloudns": {},
+    "jele": {},
     "barsy": {},
     "pony": {}
   },
   "clubmed": {},
   "coach": {},
-  "codes": {},
+  "codes": {
+    "owo": {
+      "*": {}
+    }
+  },
   "coffee": {},
   "college": {},
   "cologne": {},
@@ -8538,13 +8984,30 @@
     "lcl": {
       "*": {}
     },
+    "lclstage": {
+      "*": {}
+    },
     "stg": {
       "*": {}
     },
+    "stgstage": {
+      "*": {}
+    },
+    "pages": {},
     "workers": {},
+    "curv": {},
+    "deno": {},
+    "deno-staging": {},
+    "fly": {},
+    "githubpreview": {},
+    "gateway": {
+      "*": {}
+    },
     "iserv": {},
     "loginline": {},
     "platter-app": {},
+    "shiftcrypto": {},
+    "vercel": {},
     "webhare": {
       "*": {}
     }
@@ -8557,9 +9020,7 @@
       "london": {}
     }
   },
-  "direct": {
-    "fastpanel": {}
-  },
+  "direct": {},
   "directory": {},
   "discount": {},
   "discover": {},
@@ -8611,7 +9072,6 @@
       "*": {}
     }
   },
-  "esurance": {},
   "etisalat": {},
   "eurovision": {},
   "eus": {
@@ -8641,8 +9101,7 @@
   },
   "farmers": {},
   "fashion": {
-    "of": {},
-    "on": {}
+    "of": {}
   },
   "fast": {},
   "fedex": {},
@@ -8663,9 +9122,7 @@
   "firmdale": {},
   "fish": {},
   "fishing": {},
-  "fit": {
-    "ptplus": {}
-  },
+  "fit": {},
   "fitness": {},
   "flickr": {},
   "flights": {},
@@ -8676,9 +9133,7 @@
   "foo": {},
   "food": {},
   "foodnetwork": {},
-  "football": {
-    "of": {}
-  },
+  "football": {},
   "ford": {},
   "forex": {},
   "forsale": {},
@@ -8693,7 +9148,6 @@
   "frontier": {},
   "ftr": {},
   "fujitsu": {},
-  "fujixerox": {},
   "fun": {},
   "fund": {},
   "furniture": {},
@@ -8737,7 +9191,8 @@
   "goo": {},
   "goodyear": {},
   "goog": {
-    "cloud": {}
+    "cloud": {},
+    "translate": {}
   },
   "google": {},
   "gop": {},
@@ -8764,7 +9219,9 @@
   "hbo": {},
   "hdfc": {},
   "hdfcbank": {},
-  "health": {},
+  "health": {
+    "hra": {}
+  },
   "healthcare": {},
   "help": {},
   "helsinki": {},
@@ -8789,8 +9246,12 @@
   "host": {
     "cloudaccess": {},
     "freesite": {},
-    "myfast": {},
     "fastvps": {},
+    "myfast": {},
+    "tempurl": {},
+    "wpmudev": {},
+    "jele": {},
+    "mircloud": {},
     "pcloud": {},
     "half": {}
   },
@@ -8822,13 +9283,10 @@
   "industries": {},
   "infiniti": {},
   "ing": {},
-  "ink": {
-    "ng": {}
-  },
+  "ink": {},
   "institute": {},
   "insurance": {},
   "insure": {},
-  "intel": {},
   "international": {},
   "intuit": {},
   "investments": {},
@@ -8839,11 +9297,9 @@
   "istanbul": {},
   "itau": {},
   "itv": {},
-  "iveco": {},
   "jaguar": {},
   "java": {},
   "jcb": {},
-  "jcp": {},
   "jeep": {},
   "jetzt": {},
   "jewelry": {},
@@ -8938,7 +9394,9 @@
   "locker": {},
   "locus": {},
   "loft": {},
-  "lol": {},
+  "lol": {
+    "omg": {}
+  },
   "london": {
     "in": {},
     "of": {}
@@ -8951,7 +9409,6 @@
   "ltd": {},
   "ltda": {},
   "lundbeck": {},
-  "lupin": {},
   "luxe": {},
   "luxury": {},
   "macys": {},
@@ -8966,7 +9423,10 @@
   "mango": {},
   "map": {},
   "market": {},
-  "marketing": {},
+  "marketing": {
+    "from": {},
+    "with": {}
+  },
   "markets": {},
   "marriott": {},
   "marshalls": {},
@@ -8981,13 +9441,13 @@
   "meme": {},
   "memorial": {},
   "men": {
-    "for": {}
+    "for": {},
+    "repair": {}
   },
   "menu": {
     "barsy": {}
   },
   "merckmsd": {},
-  "metlife": {},
   "miami": {},
   "microsoft": {},
   "mini": {},
@@ -9018,10 +9478,10 @@
   "msd": {},
   "mtn": {},
   "mtr": {},
+  "music": {},
   "mutual": {},
   "nab": {},
   "nagoya": {},
-  "nationwide": {},
   "natura": {},
   "navy": {},
   "nba": {},
@@ -9034,12 +9494,14 @@
     },
     "co": {},
     "arvo": {},
-    "azimuth": {}
+    "azimuth": {},
+    "tlon": {}
   },
   "neustar": {},
   "new": {},
-  "newholland": {},
-  "news": {},
+  "news": {
+    "noticeable": {}
+  },
   "next": {},
   "nextdirect": {},
   "nexus": {},
@@ -9076,7 +9538,9 @@
     "onred": {
       "staging": {}
     },
+    "service": {},
     "for": {},
+    "under": {},
     "homelink": {}
   },
   "ong": {},
@@ -9084,7 +9548,6 @@
   "online": {
     "barsy": {}
   },
-  "onyourside": {},
   "ooo": {},
   "open": {},
   "oracle": {},
@@ -9098,7 +9561,10 @@
     "nerdpol": {}
   },
   "page": {
-    "prvcy": {}
+    "pdns": {},
+    "plesk": {},
+    "prvcy": {},
+    "magnet": {}
   },
   "panasonic": {},
   "paris": {},
@@ -9143,7 +9609,9 @@
   "pohl": {},
   "poker": {},
   "politie": {},
-  "porn": {},
+  "porn": {
+    "indie": {}
+  },
   "pramerica": {},
   "praxi": {},
   "press": {},
@@ -9198,7 +9666,6 @@
   "rich": {},
   "richardli": {},
   "ricoh": {},
-  "rightathome": {},
   "ril": {},
   "rio": {},
   "rip": {
@@ -9221,6 +9688,9 @@
     "hs": {},
     "development": {},
     "ravendb": {},
+    "code": {
+      "*": {}
+    },
     "repl": {}
   },
   "rwe": {},
@@ -9250,18 +9720,18 @@
   "schaeffler": {},
   "schmidt": {},
   "scholarships": {},
-  "school": {
-    "ng": {}
-  },
+  "school": {},
   "schule": {},
   "schwarz": {},
   "science": {
     "ybo": {}
   },
   "scjohnson": {},
-  "scor": {},
   "scot": {
-    "gov": {}
+    "edu": {},
+    "gov": {
+      "service": {}
+    }
   },
   "search": {},
   "seat": {},
@@ -9293,21 +9763,31 @@
   "shouji": {},
   "show": {},
   "showtime": {},
-  "shriram": {},
   "silk": {},
   "sina": {},
   "singles": {},
   "site": {
     "cloudera": {},
     "cyon": {},
+    "fnwk": {},
+    "folionetwork": {},
     "fastvps": {},
+    "jele": {},
     "lelux": {},
     "loginline": {},
     "barsy": {},
+    "mintere": {},
+    "omniwe": {},
+    "opensocial": {},
     "platformsh": {
       "*": {}
     },
-    "byen": {}
+    "tst": {
+      "*": {}
+    },
+    "byen": {},
+    "srht": {},
+    "novecore": {}
   },
   "ski": {},
   "skin": {},
@@ -9330,13 +9810,11 @@
   "spa": {},
   "space": {
     "myfast": {},
-    "linkitools": {},
     "uber": {},
     "xs4all": {}
   },
   "sport": {},
   "spot": {},
-  "spreadbetting": {},
   "srl": {},
   "stada": {},
   "staples": {},
@@ -9347,7 +9825,10 @@
   "stcgroup": {},
   "stockholm": {},
   "storage": {},
-  "store": {},
+  "store": {
+    "shopware": {},
+    "storebase": {}
+  },
   "stream": {},
   "studio": {},
   "study": {},
@@ -9365,7 +9846,6 @@
   "swiftcover": {},
   "swiss": {},
   "sydney": {},
-  "symantec": {},
   "systems": {
     "knightpoint": {}
   },
@@ -9382,7 +9862,8 @@
   "tci": {},
   "tdk": {},
   "team": {
-    "discourse": {}
+    "discourse": {},
+    "jelastic": {}
   },
   "tech": {},
   "technology": {
@@ -9483,7 +9964,6 @@
   "webcam": {},
   "weber": {},
   "website": {},
-  "wed": {},
   "wedding": {},
   "weibo": {},
   "weir": {},
@@ -9491,7 +9971,9 @@
   "wien": {},
   "wiki": {},
   "williamhill": {},
-  "win": {},
+  "win": {
+    "that": {}
+  },
   "windows": {},
   "wine": {},
   "winners": {},
@@ -9499,7 +9981,7 @@
   "wolterskluwer": {},
   "woodside": {},
   "work": {
-    "of": {},
+    "from": {},
     "to": {}
   },
   "works": {},
@@ -9569,7 +10051,6 @@
   "诺基亚": {},
   "食品": {},
   "飞利浦": {},
-  "手表": {},
   "手机": {},
   "ارامكو": {},
   "العليان": {},
@@ -9587,8 +10068,18 @@
   "组织机构": {},
   "健康": {},
   "招聘": {},
-  "рус": {},
-  "珠宝": {},
+  "рус": {
+    "биз": {},
+    "ком": {},
+    "крым": {},
+    "мир": {},
+    "мск": {},
+    "орг": {},
+    "самара": {},
+    "сочи": {},
+    "спб": {},
+    "я": {}
+  },
   "大拿": {},
   "みんな": {},
   "グーグル": {},
@@ -9609,7 +10100,7 @@
   "政务": {},
   "xyz": {
     "blogsite": {},
-    "fhapp": {},
+    "localzone": {},
     "crafting": {},
     "zapto": {},
     "telebit": {
