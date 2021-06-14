@@ -20,7 +20,7 @@ jobs:
           git config user.name "pls-bot"
           git config user.email "<>"
           git add pls.json
-          git commit -m "Update pls.json"
+          git diff-index --quiet HEAD || git commit -m "Update pls.json"
           git show
       - name: Push changes
         run: |
