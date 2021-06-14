@@ -3,6 +3,7 @@ name: Update list of effective TLDs
 on:
   schedule:
     - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
   update-pls:
@@ -23,6 +24,6 @@ jobs:
           git show
       - name: Push changes
         run: |
-          git remote set-url --push origin https://$GITHUB_ACTOR:${{ GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git remote set-url --push origin https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY
           git push origin HEAD:main
 
