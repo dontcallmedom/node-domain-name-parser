@@ -1644,6 +1644,11 @@
     "blogspot": {},
     "günstigbestellen": {},
     "günstigliefern": {},
+    "hs-heilbronn": {
+      "it": {
+        "pages": {}
+      }
+    },
     "dyn-berlin": {},
     "in-berlin": {},
     "in-brb": {},
@@ -2105,7 +2110,11 @@
     "desa": {},
     "go": {},
     "mil": {},
-    "my": {},
+    "my": {
+      "rss": {
+        "*": {}
+      }
+    },
     "net": {},
     "or": {},
     "ponpes": {},
@@ -2125,7 +2134,8 @@
     "ac": {},
     "co": {
       "ravpage": {},
-      "blogspot": {}
+      "blogspot": {},
+      "tabitorder": {}
     },
     "gov": {},
     "idf": {},
@@ -2218,9 +2228,6 @@
     "dedyn": {},
     "drud": {},
     "definima": {},
-    "enonic": {
-      "customer": {}
-    },
     "fh-muenster": {},
     "shw": {},
     "forgerock": {
@@ -4933,7 +4940,6 @@
     "barsy": {},
     "mcpe": {},
     "mcdir": {},
-    "nctu": {},
     "soundcast": {},
     "tcp4": {},
     "brasilia": {},
@@ -7405,7 +7411,8 @@
     "www": {},
     "co": {},
     "shop": {},
-    "blogspot": {}
+    "blogspot": {},
+    "barsy": {}
   },
   "rs": {
     "ac": {},
@@ -8048,7 +8055,10 @@
     "org": {
       "glug": {},
       "lug": {},
-      "lugs": {}
+      "lugs": {},
+      "affinitylottery": {},
+      "raffleentry": {},
+      "weeklylottery": {}
     },
     "plc": {},
     "police": {},
@@ -9714,6 +9724,7 @@
     "hs": {},
     "development": {},
     "ravendb": {},
+    "servers": {},
     "code": {
       "*": {}
     },
@@ -9793,7 +9804,9 @@
   "sina": {},
   "singles": {},
   "site": {
-    "cloudera": {},
+    "cloudera": {
+      "*": {}
+    },
     "cyon": {},
     "fnwk": {},
     "folionetwork": {},
@@ -9829,7 +9842,11 @@
   "software": {},
   "sohu": {},
   "solar": {},
-  "solutions": {},
+  "solutions": {
+    "diher": {
+      "*": {}
+    }
+  },
   "song": {},
   "sony": {},
   "soy": {},
