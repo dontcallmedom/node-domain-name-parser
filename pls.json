@@ -160,17 +160,21 @@
   },
   "aq": {},
   "ar": {
+    "bet": {},
     "com": {
       "blogspot": {}
     },
+    "coop": {},
     "edu": {},
     "gob": {},
     "gov": {},
     "int": {},
     "mil": {},
     "musica": {},
+    "mutual": {},
     "net": {},
     "org": {},
+    "senasa": {},
     "tur": {}
   },
   "arpa": {
@@ -756,7 +760,10 @@
     "scrapping": {},
     "twmail": {},
     "csx": {},
-    "fantasyleague": {}
+    "fantasyleague": {},
+    "spawn": {
+      "instances": {}
+    }
   },
   "cd": {
     "gov": {}
