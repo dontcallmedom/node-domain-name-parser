@@ -1282,6 +1282,9 @@
     "space-to-rent": {},
     "teaches-yoga": {},
     "writesthisblog": {},
+    "digitaloceanspaces": {
+      "*": {}
+    },
     "ddnsfree": {},
     "ddnsgeek": {},
     "giize": {},
@@ -7813,21 +7816,14 @@
     "fin": {},
     "gov": {},
     "ind": {},
+    "info": {},
     "intl": {},
+    "mincom": {},
     "nat": {},
     "net": {},
     "org": {},
-    "info": {},
     "perso": {},
     "tourism": {},
-    "edunet": {},
-    "rnrt": {},
-    "rns": {},
-    "rnu": {},
-    "mincom": {},
-    "agrinet": {},
-    "defense": {},
-    "turen": {},
     "orangecloud": {}
   },
   "to": {
