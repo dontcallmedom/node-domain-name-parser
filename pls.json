@@ -1395,6 +1395,9 @@
     "linodeobjects": {
       "*": {}
     },
+    "linodeusercontent": {
+      "ip": {}
+    },
     "barsycenter": {},
     "barsyonline": {},
     "mazeplay": {},
@@ -2335,6 +2338,8 @@
         "reservd": {}
       }
     },
+    "tickets": {},
+    "upli": {},
     "wedeploy": {},
     "editorx": {},
     "basicserver": {},
@@ -9674,7 +9679,6 @@
   "qpon": {},
   "quebec": {},
   "quest": {},
-  "qvc": {},
   "racing": {},
   "radio": {},
   "raid": {},
@@ -9891,7 +9895,6 @@
   "surgery": {},
   "suzuki": {},
   "swatch": {},
-  "swiftcover": {},
   "swiss": {},
   "sydney": {},
   "systems": {
