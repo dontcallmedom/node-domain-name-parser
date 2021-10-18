@@ -1072,6 +1072,7 @@
       "us-west-2": {}
     },
     "awsglobalaccelerator": {},
+    "siiites": {},
     "appspacehosted": {},
     "appspaceusercontent": {},
     "on-aptible": {},
@@ -1571,6 +1572,11 @@
     "inf": {}
   },
   "cv": {
+    "com": {},
+    "edu": {},
+    "int": {},
+    "nome": {},
+    "org": {},
     "blogspot": {}
   },
   "cw": {
@@ -5907,6 +5913,10 @@
     "supabase": {},
     "dsmynas": {},
     "familyds": {},
+    "tailscale": {
+      "beta": {}
+    },
+    "ts": {},
     "torproject": {
       "pages": {}
     },
@@ -9580,9 +9590,9 @@
     "onred": {
       "staging": {}
     },
-    "service": {},
     "for": {},
     "under": {},
+    "service": {},
     "homelink": {}
   },
   "ong": {},
