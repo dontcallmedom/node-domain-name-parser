@@ -920,7 +920,6 @@
     "lpages": {},
     "mypi": {},
     "n4t": {},
-    "nodum": {},
     "repl": {
       "id": {}
     },
@@ -1765,7 +1764,9 @@
     "edu": {},
     "gov": {},
     "gob": {},
-    "mil": {}
+    "mil": {},
+    "base": {},
+    "official": {}
   },
   "edu": {
     "rit": {
@@ -2278,7 +2279,6 @@
     "nodeart": {
       "stage": {}
     },
-    "nodum": {},
     "nid": {},
     "pantheonsite": {},
     "dyn53": {},
@@ -2323,6 +2323,7 @@
     "s5y": {
       "*": {}
     },
+    "edugit": {},
     "telebit": {},
     "thingdust": {
       "dev": {
@@ -4678,6 +4679,12 @@
       "*": {},
       "!city": {}
     },
+    "buyshop": {},
+    "fashionstore": {},
+    "handcrafted": {},
+    "kawaiishop": {},
+    "supersale": {},
+    "theshop": {},
     "usercontent": {},
     "blogspot": {}
   },
@@ -5716,6 +5723,7 @@
     },
     "myfritz": {},
     "onavstack": {},
+    "shopselect": {},
     "blackbaudcdn": {},
     "boomla": {},
     "bplaced": {},
@@ -7022,7 +7030,9 @@
     "small-web": {},
     "dsmynas": {},
     "familyds": {},
-    "edugit": {},
+    "teckids": {
+      "s3": {}
+    },
     "tuxfamily": {},
     "diskstation": {},
     "hk": {},
@@ -8653,7 +8663,6 @@
   "adult": {},
   "aeg": {},
   "aetna": {},
-  "afamilycompany": {},
   "afl": {},
   "africa": {},
   "agakhan": {},
@@ -9078,7 +9087,6 @@
   "drive": {},
   "dtv": {},
   "dubai": {},
-  "duck": {},
   "dunlop": {},
   "dupont": {},
   "durban": {},
@@ -9122,6 +9130,7 @@
     }
   },
   "events": {
+    "koobin": {},
     "co": {}
   },
   "exchange": {},
@@ -9217,7 +9226,6 @@
   "gifts": {},
   "gives": {},
   "giving": {},
-  "glade": {},
   "glass": {},
   "gle": {},
   "global": {},
@@ -9574,7 +9582,6 @@
   "nyc": {},
   "obi": {},
   "observer": {},
-  "off": {},
   "office": {},
   "okinawa": {},
   "olayan": {},
@@ -9687,7 +9694,6 @@
   "quest": {},
   "racing": {},
   "radio": {},
-  "raid": {},
   "read": {},
   "realestate": {},
   "realtor": {},
@@ -9777,7 +9783,6 @@
   "science": {
     "ybo": {}
   },
-  "scjohnson": {},
   "scot": {
     "edu": {},
     "gov": {
@@ -9808,6 +9813,8 @@
   "shiksha": {},
   "shoes": {},
   "shop": {
+    "base": {},
+    "hoplix": {},
     "barsy": {}
   },
   "shopping": {},
