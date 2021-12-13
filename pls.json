@@ -1416,6 +1416,9 @@
       "x": {},
       "yali": {}
     },
+    "nospamproxy": {
+      "cloud": {}
+    },
     "4u": {},
     "nfshost": {},
     "001www": {},
@@ -1528,6 +1531,9 @@
     "thingdustdata": {},
     "bloxcms": {},
     "townnews-staging": {},
+    "typeform": {
+      "pro": {}
+    },
     "hk": {},
     "wafflecell": {},
     "idnblogger": {},
@@ -8893,6 +8899,9 @@
       "*": {}
     },
     "elementor": {},
+    "encoway": {
+      "eu": {}
+    },
     "statics": {
       "*": {}
     },
