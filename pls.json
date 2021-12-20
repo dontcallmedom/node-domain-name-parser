@@ -8905,6 +8905,7 @@
     "statics": {
       "*": {}
     },
+    "ravendb": {},
     "axarnet": {
       "es-1": {}
     },
