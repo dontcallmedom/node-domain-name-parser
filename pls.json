@@ -1527,6 +1527,9 @@
     "temp-dns": {},
     "dsmynas": {},
     "familyds": {},
+    "tb-hosting": {
+      "site": {}
+    },
     "reservd": {},
     "thingdustdata": {},
     "bloxcms": {},
@@ -4808,11 +4811,10 @@
     "org": {}
   },
   "ky": {
-    "edu": {},
-    "gov": {},
     "com": {},
-    "org": {},
-    "net": {}
+    "edu": {},
+    "net": {},
+    "org": {}
   },
   "kz": {
     "org": {},
@@ -9629,6 +9631,7 @@
   "page": {
     "hlx": {},
     "hlx3": {},
+    "codeberg": {},
     "pdns": {},
     "plesk": {},
     "prvcy": {},
