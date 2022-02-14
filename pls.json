@@ -1538,6 +1538,9 @@
       "pro": {}
     },
     "hk": {},
+    "vultrobjects": {
+      "*": {}
+    },
     "wafflecell": {},
     "idnblogger": {},
     "indowapblog": {},
@@ -8710,6 +8713,9 @@
   "aol": {},
   "apartments": {},
   "app": {
+    "beget": {
+      "*": {}
+    },
     "clerk": {},
     "clerkstage": {},
     "wnext": {},
