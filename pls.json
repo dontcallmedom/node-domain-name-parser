@@ -1128,6 +1128,8 @@
       "instance": {}
     },
     "ddns5": {},
+    "discordsays": {},
+    "discordsez": {},
     "drayddns": {},
     "dreamhosters": {},
     "mydrobo": {},
@@ -1610,10 +1612,9 @@
     "ekloges": {},
     "gov": {},
     "ltd": {},
-    "name": {},
+    "mil": {},
     "net": {},
     "org": {},
-    "parliament": {},
     "press": {},
     "pro": {},
     "tm": {}
@@ -8835,7 +8836,6 @@
   "broker": {},
   "brother": {},
   "brussels": {},
-  "budapest": {},
   "bugatti": {},
   "build": {},
   "builders": {
@@ -9644,6 +9644,7 @@
   "page": {
     "hlx": {},
     "hlx3": {},
+    "translated": {},
     "codeberg": {},
     "pdns": {},
     "plesk": {},
@@ -9773,6 +9774,7 @@
     "code": {
       "*": {}
     },
+    "onporter": {},
     "repl": {}
   },
   "rwe": {},
