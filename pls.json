@@ -2325,6 +2325,7 @@
     "shiftcrypto": {},
     "shiftedit": {},
     "mo-siemens": {},
+    "musician": {},
     "lair": {
       "apps": {}
     },
@@ -5066,8 +5067,6 @@
       "localhost": {}
     },
     "edgestack": {},
-    "couk": {},
-    "ukco": {},
     "filegear": {},
     "filegear-au": {},
     "filegear-de": {},
@@ -8827,6 +8826,7 @@
     "clerkstage": {},
     "wnext": {},
     "platform0": {},
+    "deta": {},
     "ondigitalocean": {},
     "edgecompute": {},
     "fireweb": {},
@@ -8847,6 +8847,7 @@
       "*": {}
     },
     "telebit": {},
+    "typedream": {},
     "vercel": {},
     "bookonline": {}
   },
@@ -9179,6 +9180,7 @@
     "curv": {},
     "deno": {},
     "deno-staging": {},
+    "deta": {},
     "fly": {},
     "githubpreview": {},
     "gateway": {
@@ -9880,7 +9882,16 @@
     "development": {},
     "ravendb": {},
     "servers": {},
+    "build": {
+      "*": {}
+    },
     "code": {
+      "*": {}
+    },
+    "database": {
+      "*": {}
+    },
+    "migration": {
       "*": {}
     },
     "onporter": {},
