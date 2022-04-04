@@ -893,7 +893,10 @@
     "hk": {},
     "mo": {},
     "tw": {},
-    "instantcloud": {}
+    "instantcloud": {},
+    "quickconnect": {
+      "direct": {}
+    }
   },
   "co": {
     "arts": {},
