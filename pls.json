@@ -1512,6 +1512,11 @@
       "app": {}
     },
     "onrender": {},
+    "code": {
+      "builder": {},
+      "dev-builder": {},
+      "stg-builder": {}
+    },
     "logoip": {},
     "scrysec": {},
     "firewall-gateway": {},
@@ -6112,6 +6117,7 @@
     "co": {},
     "hosting-cluster": {},
     "blogspot": {},
+    "gov": {},
     "khplay": {},
     "myspreadshop": {},
     "transurl": {
@@ -7453,7 +7459,8 @@
     "sopot": {}
   },
   "pm": {
-    "own": {}
+    "own": {},
+    "name": {}
   },
   "pn": {
     "gov": {},
@@ -7911,7 +7918,9 @@
     "blogspot": {}
   },
   "tel": {},
-  "tf": {},
+  "tf": {
+    "sch": {}
+  },
   "tg": {},
   "th": {
     "ac": {},
@@ -8617,7 +8626,10 @@
     "dev": {},
     "me": {}
   },
-  "wf": {},
+  "wf": {
+    "biz": {},
+    "sch": {}
+  },
   "ws": {
     "com": {},
     "net": {},
