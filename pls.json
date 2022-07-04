@@ -1513,9 +1513,15 @@
     },
     "onrender": {},
     "code": {
-      "builder": {},
-      "dev-builder": {},
-      "stg-builder": {}
+      "builder": {
+        "*": {}
+      },
+      "dev-builder": {
+        "*": {}
+      },
+      "stg-builder": {
+        "*": {}
+      }
     },
     "logoip": {},
     "scrysec": {},
@@ -1695,7 +1701,9 @@
     "in-butter": {},
     "in-dsl": {},
     "in-vpn": {},
+    "iservschule": {},
     "mein-iserv": {},
+    "schulplattform": {},
     "schulserver": {},
     "test-iserv": {},
     "keymachine": {},
@@ -2813,6 +2821,8 @@
     "vt": {},
     "vv": {},
     "blogspot": {},
+    "ibxos": {},
+    "iliadboxos": {},
     "neen": {
       "jc": {}
     },
@@ -4769,6 +4779,7 @@
     "kilo": {},
     "kuron": {},
     "littlestar": {},
+    "lolipopmc": {},
     "lolitapunk": {},
     "lomo": {},
     "lovepop": {},
@@ -8861,6 +8872,7 @@
     "web": {},
     "hasura": {},
     "loginline": {},
+    "messerli": {},
     "netlify": {},
     "developer": {
       "*": {}
