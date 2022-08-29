@@ -1538,6 +1538,7 @@
       "alpha": {},
       "beta": {}
     },
+    "streamlitapp": {},
     "try-snowplow": {},
     "stackhero-network": {},
     "playstation-cloud": {},
@@ -2300,6 +2301,7 @@
         "*": {}
       }
     },
+    "beagleboard": {},
     "bitbucket": {},
     "bluebite": {},
     "boxfuse": {},
@@ -8896,6 +8898,7 @@
     "platform0": {},
     "deta": {},
     "ondigitalocean": {},
+    "easypanel": {},
     "encr": {},
     "edgecompute": {},
     "fireweb": {},
@@ -9547,6 +9550,7 @@
   "host": {
     "cloudaccess": {},
     "freesite": {},
+    "easypanel": {},
     "fastvps": {},
     "myfast": {},
     "tempurl": {},
@@ -9738,7 +9742,9 @@
   "mba": {},
   "mckinsey": {},
   "med": {},
-  "media": {},
+  "media": {
+    "framer": {}
+  },
   "meet": {},
   "melbourne": {},
   "meme": {},
@@ -9896,7 +9902,9 @@
   "phone": {},
   "photo": {},
   "photography": {},
-  "photos": {},
+  "photos": {
+    "framer": {}
+  },
   "physio": {},
   "pics": {},
   "pictet": {},
@@ -10291,13 +10299,17 @@
   "weatherchannel": {},
   "webcam": {},
   "weber": {},
-  "website": {},
+  "website": {
+    "framer": {}
+  },
   "wedding": {},
   "weibo": {},
   "weir": {},
   "whoswho": {},
   "wien": {},
-  "wiki": {},
+  "wiki": {
+    "framer": {}
+  },
   "williamhill": {},
   "win": {
     "that": {}
