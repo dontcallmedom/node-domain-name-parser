@@ -6012,6 +6012,7 @@
   "net": {
     "adobeaemcloud": {},
     "alwaysdata": {},
+    "myamaze": {},
     "cloudfront": {},
     "t3l3p0rt": {},
     "appudo": {},
@@ -8374,8 +8375,7 @@
       "no-ip": {},
       "wellbeingzone": {},
       "adimo": {},
-      "myspreadshop": {},
-      "gwiddle": {}
+      "myspreadshop": {}
     },
     "gov": {
       "campaign": {},
