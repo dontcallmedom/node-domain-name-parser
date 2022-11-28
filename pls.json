@@ -402,6 +402,7 @@
     "org": {}
   },
   "biz": {
+    "activetrail": {},
     "cloudns": {},
     "jozi": {},
     "dyndns": {},
@@ -1218,6 +1219,8 @@
     "wpdevcloud": {},
     "cloudcontrolled": {},
     "cloudcontrolapp": {},
+    "cf-ipfs": {},
+    "cloudflare-ipfs": {},
     "trycloudflare": {},
     "customer-oci": {
       "*": {},
@@ -1656,6 +1659,7 @@
     "temp-dns": {},
     "dsmynas": {},
     "familyds": {},
+    "mytabit": {},
     "tb-hosting": {
       "site": {}
     },
@@ -2303,7 +2307,8 @@
     "co": {
       "ravpage": {},
       "blogspot": {},
-      "tabitorder": {}
+      "tabitorder": {},
+      "mytabit": {}
     },
     "gov": {},
     "idf": {},
@@ -9413,6 +9418,7 @@
       "*": {}
     },
     "pages": {},
+    "r2": {},
     "workers": {},
     "curv": {},
     "deno": {},
