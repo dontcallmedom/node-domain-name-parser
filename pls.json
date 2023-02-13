@@ -915,6 +915,7 @@
     "hk": {},
     "mo": {},
     "tw": {},
+    "canva-apps": {},
     "instantcloud": {},
     "quickconnect": {
       "direct": {}
@@ -1212,6 +1213,7 @@
     "boutir": {},
     "bplaced": {},
     "cafjs": {},
+    "canva-apps": {},
     "br": {},
     "cn": {},
     "de": {},
@@ -1444,6 +1446,7 @@
     "fbsbx": {
       "apps": {}
     },
+    "fastly-edge": {},
     "fastly-terrarium": {},
     "fastvps-server": {},
     "mydobiss": {},
@@ -1688,6 +1691,7 @@
       "pro": {}
     },
     "hk": {},
+    "it": {},
     "vultrobjects": {
       "*": {}
     },
@@ -6032,6 +6036,23 @@
   "ne": {},
   "net": {
     "adobeaemcloud": {},
+    "adobeio-static": {},
+    "adobeioruntime": {},
+    "akadns": {},
+    "akamai": {},
+    "akamai-staging": {},
+    "akamaiedge": {},
+    "akamaiedge-staging": {},
+    "akamaihd": {},
+    "akamaihd-staging": {},
+    "akamaiorigin": {},
+    "akamaiorigin-staging": {},
+    "akamaized": {},
+    "akamaized-staging": {},
+    "edgekey": {},
+    "edgekey-staging": {},
+    "edgesuite": {},
+    "edgesuite-staging": {},
     "alwaysdata": {},
     "myamaze": {},
     "cloudfront": {},
@@ -9067,6 +9088,10 @@
     "northflank": {
       "*": {}
     },
+    "snowflake": {
+      "privatelink": {}
+    },
+    "streamlit": {},
     "telebit": {},
     "typedream": {},
     "vercel": {},
@@ -9421,6 +9446,7 @@
     "bss": {}
   },
   "dev": {
+    "autocode": {},
     "lcl": {
       "*": {}
     },
