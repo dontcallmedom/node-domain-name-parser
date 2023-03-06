@@ -1642,6 +1642,11 @@
       "app": {}
     },
     "onrender": {},
+    "180r": {},
+    "dojin": {},
+    "sakuratan": {},
+    "sakuraweb": {},
+    "x0": {},
     "code": {
       "builder": {
         "*": {}
@@ -2491,7 +2496,15 @@
     "azurecontainer": {
       "*": {}
     },
-    "ngrok": {},
+    "ngrok": {
+      "ap": {},
+      "au": {},
+      "eu": {},
+      "in": {},
+      "jp": {},
+      "sa": {},
+      "us": {}
+    },
     "nodeart": {
       "stage": {}
     },
@@ -3054,7 +3067,15 @@
       "aseinet": {
         "user": {}
       },
-      "gehirn": {}
+      "gehirn": {},
+      "ivory": {},
+      "mail-box": {},
+      "mints": {},
+      "mokuren": {},
+      "opal": {},
+      "sakura": {},
+      "sumomo": {},
+      "topaz": {}
     },
     "or": {},
     "aichi": {
@@ -5011,7 +5032,43 @@
     "weblike": {},
     "whitesnow": {},
     "zombie": {},
-    "blogspot": {}
+    "blogspot": {},
+    "2-d": {},
+    "bona": {},
+    "crap": {},
+    "daynight": {},
+    "eek": {},
+    "flop": {},
+    "halfmoon": {},
+    "jeez": {},
+    "matrix": {},
+    "mimoza": {},
+    "netgamers": {},
+    "nyanta": {},
+    "o0o0": {},
+    "rdy": {},
+    "rgr": {},
+    "rulez": {},
+    "sakurastorage": {
+      "isk01": {
+        "s3": {}
+      },
+      "isk02": {
+        "s3": {}
+      }
+    },
+    "saloon": {},
+    "sblo": {},
+    "skr": {},
+    "tank": {},
+    "uh-oh": {},
+    "undo": {},
+    "webaccel": {
+      "rs": {},
+      "user": {}
+    },
+    "websozai": {},
+    "xii": {}
   },
   "ke": {
     "ac": {},
@@ -6244,6 +6301,7 @@
     "bar1": {},
     "bar2": {},
     "rackmaze": {},
+    "squares": {},
     "schokokeks": {},
     "firewall-gateway": {},
     "seidat": {},
@@ -7372,6 +7430,7 @@
     "zapto": {},
     "httpbin": {},
     "pubtls": {},
+    "jpn": {},
     "my-firewall": {},
     "myfirewall": {},
     "spdns": {},
@@ -8050,6 +8109,7 @@
     "principe": {},
     "saotome": {},
     "store": {},
+    "kirara": {},
     "noho": {}
   },
   "su": {
@@ -8210,6 +8270,7 @@
     "mil": {},
     "oya": {},
     "rdv": {},
+    "x0": {},
     "vpnplus": {},
     "quickconnect": {
       "direct": {}
@@ -8267,7 +8328,9 @@
     "dyndns": {},
     "better-than": {},
     "on-the-web": {},
-    "worse-than": {}
+    "worse-than": {},
+    "from": {},
+    "sakura": {}
   },
   "tw": {
     "edu": {},
@@ -8382,6 +8445,7 @@
     "inf": {},
     "ltd": {},
     "cx": {},
+    "ie": {},
     "biz": {},
     "co": {},
     "pp": {},
@@ -9082,6 +9146,8 @@
     "loginline": {},
     "messerli": {},
     "netlify": {},
+    "ngrok": {},
+    "ngrok-free": {},
     "developer": {
       "*": {}
     },
@@ -9480,6 +9546,8 @@
     },
     "loginline": {},
     "mediatech": {},
+    "ngrok": {},
+    "ngrok-free": {},
     "platter-app": {},
     "shiftcrypto": {},
     "vercel": {},
@@ -10072,7 +10140,9 @@
   "ping": {},
   "pink": {},
   "pioneer": {},
-  "pizza": {},
+  "pizza": {
+    "ngrok": {}
+  },
   "place": {
     "co": {}
   },
