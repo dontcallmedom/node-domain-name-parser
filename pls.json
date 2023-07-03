@@ -978,6 +978,10 @@
         "dualstack": {
           "s3": {}
         },
+        "analytics-gateway": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -986,6 +990,10 @@
       "ap-northeast-1": {
         "dualstack": {
           "s3": {}
+        },
+        "analytics-gateway": {},
+        "aws-cloud9": {
+          "webview-assets": {}
         },
         "cloud9": {
           "vfs": {},
@@ -998,6 +1006,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1009,6 +1020,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1018,6 +1032,9 @@
         "dualstack": {
           "s3": {}
         },
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1026,6 +1043,9 @@
       "ap-southeast-2": {
         "dualstack": {
           "s3": {}
+        },
+        "aws-cloud9": {
+          "webview-assets": {}
         },
         "cloud9": {
           "vfs": {},
@@ -1038,6 +1058,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1049,6 +1072,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1057,6 +1083,10 @@
       "eu-west-1": {
         "dualstack": {
           "s3": {}
+        },
+        "analytics-gateway": {},
+        "aws-cloud9": {
+          "webview-assets": {}
         },
         "cloud9": {
           "vfs": {},
@@ -1069,6 +1099,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1080,6 +1113,9 @@
         },
         "s3": {},
         "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1115,6 +1151,9 @@
         "dualstack": {
           "s3": {}
         },
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
@@ -1126,54 +1165,83 @@
         },
         "s3": {},
         "s3-website": {},
-        "cloud9": {
-          "vfs": {},
+        "analytics-gateway": {},
+        "aws-cloud9": {
           "webview-assets": {}
-        }
-      },
-      "af-south-1": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "ap-east-1": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "ap-northeast-3": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "eu-north-1": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "eu-south-1": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "me-south-1": {
-        "cloud9": {
-          "vfs": {},
-          "webview-assets": {}
-        }
-      },
-      "us-west-1": {
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
         }
       },
       "us-west-2": {
+        "analytics-gateway": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "af-south-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "ap-east-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "ap-northeast-3": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "eu-north-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "eu-south-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "me-south-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {},
+          "webview-assets": {}
+        }
+      },
+      "us-west-1": {
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
