@@ -531,11 +531,6 @@
     "cnt": {},
     "com": {
       "blogspot": {},
-      "virtualcloud": {
-        "scale": {
-          "users": {}
-        }
-      },
       "simplesite": {}
     },
     "contagem": {},
@@ -1554,9 +1549,7 @@
     "wpmucdn": {},
     "pixolino": {},
     "amscompute": {},
-    "clicketcloud": {},
     "dopaas": {},
-    "hidora": {},
     "hosted-by-previder": {
       "paas": {}
     },
@@ -8754,6 +8747,7 @@
       "privatelink": {}
     },
     "streamlit": {},
+    "storipress": {},
     "telebit": {},
     "typedream": {},
     "vercel": {},
