@@ -2638,6 +2638,7 @@
     "upli": {},
     "wedeploy": {},
     "editorx": {},
+    "wixstudio": {},
     "basicserver": {},
     "virtualserver": {}
   },
@@ -8096,7 +8097,6 @@
       "lib": {}
     },
     "de": {
-      "k12": {},
       "cc": {},
       "lib": {}
     },
@@ -9821,7 +9821,8 @@
       "*": {}
     },
     "onporter": {},
-    "repl": {}
+    "repl": {},
+    "wix": {}
   },
   "rwe": {},
   "ryukyu": {},
