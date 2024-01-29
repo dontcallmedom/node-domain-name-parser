@@ -2063,9 +2063,6 @@
       "us-4": {}
     },
     "onfabrica": {},
-    "fbsbx": {
-      "apps": {}
-    },
     "fastly-edge": {},
     "fastly-terrarium": {},
     "fastvps-server": {},
@@ -2156,6 +2153,10 @@
     "barsyonline": {},
     "mazeplay": {},
     "miniserver": {},
+    "atmeta": {},
+    "fbsbx": {
+      "apps": {}
+    },
     "meteorapp": {
       "eu": {}
     },
@@ -2275,6 +2276,17 @@
       },
       "stg-builder": {
         "*": {}
+      }
+    },
+    "salesforce": {
+      "platform": {
+        "code-builder-stg": {
+          "test": {
+            "001": {
+              "*": {}
+            }
+          }
+        }
       }
     },
     "logoip": {},
@@ -9469,7 +9481,6 @@
   "baby": {},
   "baidu": {},
   "banamex": {},
-  "bananarepublic": {},
   "band": {},
   "bank": {},
   "bar": {},
@@ -10196,6 +10207,7 @@
   },
   "lipsy": {},
   "live": {
+    "aem": {},
     "hlx": {}
   },
   "living": {},
@@ -10327,7 +10339,6 @@
   "okinawa": {},
   "olayan": {},
   "olayangroup": {},
-  "oldnavy": {},
   "ollo": {},
   "omega": {},
   "one": {
@@ -10359,6 +10370,7 @@
     "nerdpol": {}
   },
   "page": {
+    "aem": {},
     "hlx": {},
     "hlx3": {},
     "translated": {},
