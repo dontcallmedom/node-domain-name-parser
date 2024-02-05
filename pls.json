@@ -995,6 +995,8 @@
     "supabase": {}
   },
   "com": {
+    "a2hosted": {},
+    "cpserver": {},
     "devcdnaccesso": {
       "*": {}
     },
@@ -1250,6 +1252,21 @@
           "webview-assets": {}
         }
       },
+      "ca-west-1": {
+        "execute-api": {},
+        "dualstack": {
+          "s3": {},
+          "s3-accesspoint": {},
+          "s3-accesspoint-fips": {},
+          "s3-fips": {},
+          "s3-website": {}
+        },
+        "s3": {},
+        "s3-accesspoint": {},
+        "s3-accesspoint-fips": {},
+        "s3-fips": {},
+        "s3-website": {}
+      },
       "eu-central-1": {
         "execute-api": {},
         "emrappui-prod": {},
@@ -1414,7 +1431,13 @@
         "s3": {},
         "s3-accesspoint": {},
         "s3-object-lambda": {},
-        "s3-website": {}
+        "s3-website": {},
+        "aws-cloud9": {
+          "webview-assets": {}
+        },
+        "cloud9": {
+          "vfs": {}
+        }
       },
       "me-central-1": {
         "execute-api": {},
@@ -2074,6 +2097,7 @@
     "freebox-os": {},
     "freeboxos": {},
     "freemyip": {},
+    "aliases121": {},
     "gentapps": {},
     "gentlentapis": {},
     "githubusercontent": {},
@@ -2160,6 +2184,11 @@
     "meteorapp": {
       "eu": {}
     },
+    "azure": {
+      "cloudapp": {
+        "*": {}
+      }
+    },
     "hostedpi": {},
     "mythic-beasts": {
       "customer": {},
@@ -2237,6 +2266,7 @@
       "*": {}
     },
     "gotpantheon": {},
+    "upsunapp": {},
     "platter-app": {},
     "pleskns": {},
     "postman-echo": {},
@@ -3085,6 +3115,11 @@
     "bitbucket": {},
     "bluebite": {},
     "boxfuse": {},
+    "brave": {
+      "s": {
+        "*": {}
+      }
+    },
     "browsersafetymark": {},
     "bigv": {
       "uk0": {}
@@ -3646,6 +3681,7 @@
     "vs": {},
     "vt": {},
     "vv": {},
+    "12chars": {},
     "blogspot": {},
     "ibxos": {},
     "iliadboxos": {},
@@ -5721,7 +5757,6 @@
     "edu": {},
     "gov": {},
     "mil": {},
-    "blog": {},
     "io": {},
     "jp": {},
     "tv": {},
@@ -6338,9 +6373,11 @@
     "krellian": {},
     "barsy": {},
     "memset": {},
+    "azure-api": {},
+    "azureedge": {},
+    "azurefd": {},
     "azurewebsites": {},
     "azure-mobile": {},
-    "cloudapp": {},
     "azurestaticapps": {
       "1": {},
       "2": {},
@@ -6354,6 +6391,14 @@
       "eastus2": {},
       "westeurope": {},
       "westus2": {}
+    },
+    "cloudapp": {},
+    "trafficmanager": {},
+    "windows": {
+      "core": {
+        "blob": {}
+      },
+      "servicebus": {}
     },
     "dnsup": {},
     "hicam": {},
@@ -7870,6 +7915,7 @@
     "law": {},
     "med": {},
     "recht": {},
+    "12chars": {},
     "cloudns": {},
     "dnstrace": {
       "bci": {}
@@ -8138,7 +8184,6 @@
     "bip": {},
     "hashbang": {},
     "platform": {
-      "bc": {},
       "ent": {},
       "eu": {},
       "us": {}
@@ -9300,9 +9345,10 @@
     "edgecompute": {},
     "fireweb": {},
     "onflashdrive": {},
+    "flutterflow": {},
     "framer": {},
     "run": {
-      "a": {}
+      "*": {}
     },
     "web": {},
     "hasura": {},
@@ -9316,6 +9362,9 @@
     },
     "noop": {},
     "northflank": {
+      "*": {}
+    },
+    "upsun": {
       "*": {}
     },
     "snowflake": {
@@ -9395,7 +9444,12 @@
       },
       "ca-central-1": {
         "notebook": {},
+        "notebook-fips": {},
         "studio": {}
+      },
+      "ca-west-1": {
+        "notebook": {},
+        "notebook-fips": {}
       },
       "eu-central-1": {
         "notebook": {},
@@ -9473,6 +9527,11 @@
         "notebook": {},
         "notebook-fips": {},
         "studio": {}
+      }
+    },
+    "repost": {
+      "private": {
+        "*": {}
       }
     }
   },
@@ -9680,6 +9739,7 @@
         "nl-ams-1": {}
       },
       "fr-par": {
+        "cockpit": {},
         "fnc": {
           "functions": {}
         },
@@ -9696,6 +9756,7 @@
       },
       "k8s": {},
       "nl-ams": {
+        "cockpit": {},
         "k8s": {
           "nodes": {}
         },
@@ -9704,6 +9765,7 @@
         "whm": {}
       },
       "pl-waw": {
+        "cockpit": {},
         "k8s": {
           "nodes": {}
         },
@@ -9718,7 +9780,8 @@
     },
     "trafficplex": {},
     "urown": {},
-    "voorloper": {}
+    "voorloper": {},
+    "zap": {}
   },
   "club": {
     "cloudns": {},
@@ -9799,6 +9862,8 @@
     "bss": {}
   },
   "dev": {
+    "12chars": {},
+    "panel": {},
     "autocode": {},
     "lcl": {
       "*": {}
@@ -9981,10 +10046,14 @@
   "gallo": {},
   "gallup": {},
   "game": {},
-  "games": {},
+  "games": {
+    "pley": {}
+  },
   "gap": {},
   "garden": {},
-  "gay": {},
+  "gay": {
+    "pages": {}
+  },
   "gbiz": {},
   "gdn": {
     "cnpy": {}
@@ -10345,6 +10414,9 @@
     "onred": {
       "staging": {}
     },
+    "kin": {
+      "*": {}
+    },
     "service": {},
     "homelink": {}
   },
@@ -10445,6 +10517,12 @@
   "pru": {},
   "prudential": {},
   "pub": {
+    "id": {
+      "*": {}
+    },
+    "kin": {
+      "*": {}
+    },
     "barsy": {}
   },
   "pwc": {},
