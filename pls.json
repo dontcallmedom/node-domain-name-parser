@@ -1884,6 +1884,9 @@
     "cf-ipfs": {},
     "cloudflare-ipfs": {},
     "trycloudflare": {},
+    "cprapid": {
+      "*": {}
+    },
     "customer-oci": {
       "*": {},
       "oci": {
