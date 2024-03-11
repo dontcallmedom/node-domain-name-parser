@@ -958,6 +958,11 @@
     "mo": {},
     "tw": {},
     "canva-apps": {},
+    "canvasite": {
+      "my": {
+        "*": {}
+      }
+    },
     "instantcloud": {},
     "quickconnect": {
       "direct": {}
@@ -10743,6 +10748,11 @@
   "sina": {},
   "singles": {},
   "site": {
+    "canva": {
+      "my": {
+        "*": {}
+      }
+    },
     "cloudera": {
       "*": {}
     },
