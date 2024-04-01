@@ -2196,9 +2196,7 @@
       "eu": {}
     },
     "azure": {
-      "cloudapp": {
-        "*": {}
-      }
+      "cloudapp": {}
     },
     "hostedpi": {},
     "mythic-beasts": {
@@ -6005,6 +6003,7 @@
   },
   "md": {
     "blogspot": {},
+    "ir": {},
     "at": {},
     "de": {},
     "jp": {},
@@ -9902,6 +9901,7 @@
   "dentist": {},
   "desi": {},
   "design": {
+    "graphic": {},
     "bss": {}
   },
   "dev": {
@@ -10344,6 +10344,9 @@
   "lincoln": {},
   "link": {
     "cyon": {},
+    "nftstorage": {
+      "ipfs": {}
+    },
     "mypep": {},
     "dweb": {
       "*": {}
