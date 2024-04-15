@@ -130,7 +130,8 @@
     "com": {},
     "net": {},
     "org": {},
-    "uwu": {}
+    "uwu": {},
+    "framer": {}
   },
   "al": {
     "com": {},
@@ -191,7 +192,9 @@
     "gov": {}
   },
   "asia": {
-    "cloudns": {}
+    "cloudns": {},
+    "daemon": {},
+    "dix": {}
   },
   "at": {
     "ac": {
@@ -332,6 +335,7 @@
   },
   "be": {
     "ac": {},
+    "cloudns": {},
     "webhosting": {},
     "blogspot": {},
     "interhostsolutions": {
@@ -742,6 +746,7 @@
     "edu": {},
     "gov": {},
     "za": {},
+    "mydns": {},
     "gsj": {}
   },
   "ca": {
@@ -792,6 +797,16 @@
   "cg": {},
   "ch": {
     "square7": {},
+    "cloudscale": {
+      "cust": {},
+      "lpg": {
+        "objects": {}
+      },
+      "rma": {
+        "objects": {}
+      }
+    },
+    "cloudns": {},
     "blogspot": {},
     "flow": {
       "ae": {
@@ -843,6 +858,7 @@
     "gob": {},
     "gov": {},
     "mil": {},
+    "cloudns": {},
     "blogspot": {}
   },
   "cm": {
@@ -993,6 +1009,9 @@
     "lpages": {},
     "mypi": {},
     "n4t": {},
+    "xmit": {
+      "*": {}
+    },
     "firewalledreplit": {
       "id": {}
     },
@@ -1891,6 +1910,8 @@
     "cf-ipfs": {},
     "cloudflare-ipfs": {},
     "trycloudflare": {},
+    "cdn77-storage": {},
+    "dnsabr": {},
     "cprapid": {
       "*": {}
     },
@@ -2128,6 +2149,7 @@
     "withgoogle": {},
     "withyoutube": {},
     "blogspot": {},
+    "grayjayleagues": {},
     "awsmppl": {},
     "herokuapp": {},
     "herokussl": {},
@@ -2345,6 +2367,9 @@
     },
     "streamlitapp": {},
     "try-snowplow": {},
+    "w-corp-staticblitz": {},
+    "w-credentialless-staticblitz": {},
+    "w-staticblitz": {},
     "stackhero-network": {},
     "playstation-cloud": {},
     "myspreadshop": {},
@@ -2426,6 +2451,7 @@
   },
   "cx": {
     "gov": {},
+    "cloudns": {},
     "ath": {},
     "info": {},
     "assessments": {},
@@ -2457,6 +2483,9 @@
   },
   "cz": {
     "co": {},
+    "contentproxy9": {
+      "rsc": {}
+    },
     "realm": {},
     "e4": {},
     "blogspot": {},
@@ -2945,7 +2974,8 @@
     "edu": {},
     "rel": {},
     "gouv": {},
-    "perso": {}
+    "perso": {},
+    "rt": {}
   },
   "hu": {
     "2000": {},
@@ -3150,6 +3180,7 @@
     "dappnode": {
       "dyndns": {}
     },
+    "darklang": {},
     "dedyn": {},
     "drud": {},
     "definima": {},
@@ -3225,6 +3256,9 @@
     },
     "hzc": {},
     "sandcats": {},
+    "scrypted": {
+      "client": {}
+    },
     "shiftcrypto": {},
     "shiftedit": {},
     "mo-siemens": {},
@@ -5617,6 +5651,13 @@
     "kawaiishop": {},
     "supersale": {},
     "theshop": {},
+    "0am": {},
+    "0g0": {},
+    "0j0": {},
+    "0t0": {},
+    "mydns": {},
+    "pgw": {},
+    "wjg": {},
     "usercontent": {},
     "angry": {},
     "babyblue": {},
@@ -6031,7 +6072,6 @@
     "filegear-jp": {},
     "filegear-sg": {},
     "glitch": {},
-    "ravendb": {},
     "lohmus": {},
     "barsy": {},
     "mcpe": {},
@@ -6283,6 +6323,8 @@
     "cdn77": {
       "r": {}
     },
+    "dns-cloud": {},
+    "dns-dynamic": {},
     "feste-ip": {},
     "knx-server": {},
     "static-access": {},
@@ -6355,7 +6397,12 @@
     },
     "edgeapp": {},
     "flynnhosting": {},
+    "keyword-on": {},
+    "live-on": {},
+    "server-on": {},
     "cdn-edges": {},
+    "localcert": {},
+    "localhostcert": {},
     "heteml": {},
     "cloudfunctions": {},
     "moonscale": {},
@@ -7400,7 +7447,8 @@
     "net": {},
     "org": {},
     "parliament": {},
-    "school": {}
+    "school": {},
+    "cloudns": {}
   },
   "om": {
     "co": {},
@@ -7426,14 +7474,14 @@
     "ae": {},
     "us": {},
     "certmgr": {},
-    "cdn77": {
-      "c": {},
-      "rsc": {}
-    },
     "cdn77-secure": {
       "origin": {
         "ssl": {}
       }
+    },
+    "cdn77": {
+      "c": {},
+      "rsc": {}
     },
     "cloudns": {},
     "duckdns": {},
@@ -7591,6 +7639,7 @@
     "myftp": {},
     "no-ip": {},
     "zapto": {},
+    "is-local": {},
     "httpbin": {},
     "pubtls": {},
     "jpn": {},
@@ -7650,7 +7699,8 @@
     "edu": {},
     "ngo": {},
     "mil": {},
-    "i": {}
+    "i": {},
+    "cloudns": {}
   },
   "pk": {
     "com": {},
@@ -8008,7 +8058,8 @@
     "asso": {},
     "com": {},
     "nom": {},
-    "blogspot": {}
+    "blogspot": {},
+    "can": {}
   },
   "ro": {
     "arts": {},
@@ -8098,7 +8149,6 @@
     "net": {},
     "org": {},
     "pp": {},
-    "123sait": {},
     "lk3": {},
     "ras": {}
   },
@@ -8284,6 +8334,7 @@
     "principe": {},
     "saotome": {},
     "store": {},
+    "helioho": {},
     "kirara": {},
     "noho": {}
   },
@@ -8524,6 +8575,7 @@
     "組織": {},
     "商業": {},
     "url": {},
+    "mydns": {},
     "blogspot": {}
   },
   "tz": {
@@ -8696,7 +8748,8 @@
     "public-inquiry": {},
     "royal-commission": {},
     "pymnt": {},
-    "barsy": {}
+    "barsy": {},
+    "nimsite": {}
   },
   "us": {
     "dni": {},
@@ -8990,6 +9043,7 @@
     "is-by": {},
     "land-4-sale": {},
     "stuff-4-sale": {},
+    "heliohost": {},
     "enscaled": {
       "phx": {}
     },
@@ -8998,6 +9052,10 @@
     "golffan": {},
     "noip": {},
     "pointto": {},
+    "srv": {
+      "gh": {},
+      "gl": {}
+    },
     "platterp": {},
     "servername": {}
   },
@@ -9028,7 +9086,8 @@
     "gv": {
       "d": {}
     },
-    "0e": {}
+    "0e": {},
+    "mydns": {}
   },
   "ve": {
     "arts": {},
@@ -9372,6 +9431,9 @@
     "clerk": {},
     "clerkstage": {},
     "wnext": {},
+    "csb": {
+      "preview": {}
+    },
     "cyclic": {},
     "platform0": {},
     "deta": {},
@@ -9407,7 +9469,10 @@
       "id": {}
     },
     "snowflake": {
-      "privatelink": {}
+      "*": {},
+      "privatelink": {
+        "*": {}
+      }
     },
     "streamlit": {},
     "storipress": {},
@@ -9659,7 +9724,11 @@
   "calvinklein": {},
   "cam": {},
   "camera": {},
-  "camp": {},
+  "camp": {
+    "emf": {
+      "at": {}
+    }
+  },
   "canon": {},
   "capetown": {},
   "capital": {},
@@ -9821,6 +9890,7 @@
       "*": {}
     },
     "trafficplex": {},
+    "unison-services": {},
     "urown": {},
     "voorloper": {},
     "zap": {}
@@ -9931,7 +10001,9 @@
     "gateway": {
       "*": {}
     },
+    "is-a": {},
     "iserv": {},
+    "runcontainers": {},
     "localcert": {
       "user": {
         "*": {}
@@ -9942,6 +10014,9 @@
     "modx": {},
     "ngrok": {},
     "ngrok-free": {},
+    "is-cool": {},
+    "is-not-a": {},
+    "localplayer": {},
     "platter-app": {},
     "replit": {
       "archer": {},
@@ -10342,6 +10417,7 @@
   "limo": {},
   "lincoln": {},
   "link": {
+    "myfritz": {},
     "cyon": {},
     "nftstorage": {
       "ipfs": {}
@@ -10886,7 +10962,10 @@
   "tools": {},
   "top": {
     "now-dns": {},
-    "ntdll": {}
+    "ntdll": {},
+    "wadl": {
+      "*": {}
+    }
   },
   "toray": {},
   "toshiba": {},
@@ -10975,7 +11054,9 @@
   "wme": {},
   "wolterskluwer": {},
   "woodside": {},
-  "work": {},
+  "work": {
+    "corpnet": {}
+  },
   "works": {},
   "world": {},
   "wow": {},
