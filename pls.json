@@ -149,9 +149,7 @@
     "net": {},
     "org": {},
     "radio": {},
-    "blogspot": {},
-    "neko": {},
-    "nyaa": {}
+    "blogspot": {}
   },
   "ao": {
     "ed": {},
@@ -284,16 +282,7 @@
   "aw": {
     "com": {}
   },
-  "ax": {
-    "be": {},
-    "cat": {},
-    "es": {},
-    "eu": {},
-    "gg": {},
-    "mc": {},
-    "us": {},
-    "xy": {}
-  },
+  "ax": {},
   "az": {
     "com": {},
     "net": {},
@@ -846,8 +835,7 @@
     "presse": {},
     "md": {},
     "gouv": {},
-    "fin": {},
-    "nl": {}
+    "fin": {}
   },
   "ck": {
     "*": {},
@@ -980,6 +968,7 @@
       }
     },
     "instantcloud": {},
+    "myqnapcloud": {},
     "quickconnect": {
       "direct": {}
     }
@@ -2184,6 +2173,7 @@
       "lon": {},
       "ryd": {}
     },
+    "webadorsite": {},
     "joyent": {
       "cns": {
         "*": {}
@@ -2216,9 +2206,6 @@
     },
     "meteorapp": {
       "eu": {}
-    },
-    "azure": {
-      "cloudapp": {}
     },
     "hostedpi": {},
     "mythic-beasts": {
@@ -2311,8 +2298,10 @@
     "ladesk": {},
     "qbuser": {},
     "qa2": {},
-    "dev-myqnapcloud": {},
     "alpha-myqnapcloud": {},
+    "dev-myqnapcloud": {},
+    "mycloudnas": {},
+    "mynascloud": {},
     "myqnapcloud": {},
     "quipelements": {
       "*": {}
@@ -2847,8 +2836,7 @@
     "edu": {},
     "net": {},
     "org": {},
-    "biz": {},
-    "xx": {}
+    "biz": {}
   },
   "gm": {},
   "gn": {
@@ -2866,8 +2854,7 @@
     "mobi": {},
     "edu": {},
     "org": {},
-    "asso": {},
-    "app": {}
+    "asso": {}
   },
   "gq": {},
   "gr": {
@@ -2887,10 +2874,7 @@
     "ind": {},
     "mil": {},
     "net": {},
-    "org": {},
-    "blog": {},
-    "de": {},
-    "to": {}
+    "org": {}
   },
   "gu": {
     "com": {},
@@ -2909,8 +2893,7 @@
     "edu": {},
     "gov": {},
     "net": {},
-    "org": {},
-    "be": {}
+    "org": {}
   },
   "hk": {
     "com": {},
@@ -2946,8 +2929,7 @@
     "org": {},
     "net": {},
     "mil": {},
-    "gob": {},
-    "cc": {}
+    "gob": {}
   },
   "hr": {
     "iz": {},
@@ -5822,10 +5804,6 @@
     "edu": {},
     "gov": {},
     "mil": {},
-    "io": {},
-    "jp": {},
-    "tv": {},
-    "uk": {},
     "us": {}
   },
   "kh": {
@@ -5997,8 +5975,7 @@
     "info": {},
     "net": {},
     "org": {},
-    "sc": {},
-    "de": {}
+    "sc": {}
   },
   "lt": {
     "gov": {},
@@ -6044,11 +6021,7 @@
   },
   "md": {
     "blogspot": {},
-    "ir": {},
-    "at": {},
-    "de": {},
-    "jp": {},
-    "to": {}
+    "ir": {}
   },
   "me": {
     "co": {},
@@ -6502,9 +6475,6 @@
         "*": {}
       }
     },
-    "bar0": {},
-    "bar1": {},
-    "bar2": {},
     "myradweb": {},
     "rackmaze": {},
     "squares": {},
@@ -8270,7 +8240,6 @@
       "us": {}
     },
     "now": {},
-    "vxl": {},
     "wedeploy": {}
   },
   "si": {
@@ -8415,11 +8384,7 @@
     "ac": {},
     "org": {}
   },
-  "tc": {
-    "ch": {},
-    "me": {},
-    "we": {}
-  },
+  "tc": {},
   "td": {
     "blogspot": {}
   },
@@ -8495,13 +8460,11 @@
     "edu": {},
     "mil": {},
     "oya": {},
-    "rdv": {},
     "x0": {},
     "vpnplus": {},
     "quickconnect": {
       "direct": {}
-    },
-    "nyan": {}
+    }
   },
   "tr": {
     "av": {},
@@ -9111,9 +9074,7 @@
     "tec": {},
     "web": {}
   },
-  "vg": {
-    "at": {}
-  },
+  "vg": {},
   "vi": {
     "co": {},
     "com": {},
@@ -9207,10 +9168,7 @@
     "edu": {},
     "net": {},
     "org": {},
-    "cn": {},
-    "blog": {},
-    "dev": {},
-    "me": {}
+    "cn": {}
   },
   "wf": {
     "biz": {},
@@ -10655,9 +10613,7 @@
   "pohl": {},
   "poker": {},
   "politie": {},
-  "porn": {
-    "indie": {}
-  },
+  "porn": {},
   "pramerica": {},
   "praxi": {},
   "press": {},
@@ -10839,6 +10795,7 @@
     "folionetwork": {},
     "fastvps": {},
     "jele": {},
+    "jouwweb": {},
     "lelux": {},
     "loginline": {},
     "barsy": {},
