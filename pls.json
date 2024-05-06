@@ -1161,6 +1161,9 @@
       },
       "ap-south-2": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {}
@@ -1232,6 +1235,9 @@
       },
       "ap-southeast-4": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {}
@@ -1269,6 +1275,9 @@
       },
       "ca-west-1": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {},
@@ -1307,6 +1316,9 @@
       },
       "eu-central-2": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {}
@@ -1361,6 +1373,9 @@
       },
       "eu-south-2": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {}
@@ -1439,6 +1454,9 @@
       },
       "il-central-1": {
         "execute-api": {},
+        "emrappui-prod": {},
+        "emrnotebooks-prod": {},
+        "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {}
@@ -1663,6 +1681,12 @@
         "*": {}
       },
       "airflow": {
+        "af-south-1": {
+          "*": {}
+        },
+        "ap-east-1": {
+          "*": {}
+        },
         "ap-northeast-1": {
           "*": {}
         },
@@ -1687,6 +1711,9 @@
         "eu-north-1": {
           "*": {}
         },
+        "eu-south-1": {
+          "*": {}
+        },
         "eu-west-1": {
           "*": {}
         },
@@ -1696,6 +1723,9 @@
         "eu-west-3": {
           "*": {}
         },
+        "me-south-1": {
+          "*": {}
+        },
         "sa-east-1": {
           "*": {}
         },
@@ -1703,6 +1733,9 @@
           "*": {}
         },
         "us-east-2": {
+          "*": {}
+        },
+        "us-west-1": {
           "*": {}
         },
         "us-west-2": {
@@ -1768,6 +1801,9 @@
       "ap-south-1": {
         "auth": {}
       },
+      "ap-south-2": {
+        "auth": {}
+      },
       "ap-southeast-1": {
         "auth": {}
       },
@@ -1777,16 +1813,25 @@
       "ap-southeast-3": {
         "auth": {}
       },
+      "ap-southeast-4": {
+        "auth": {}
+      },
       "ca-central-1": {
         "auth": {}
       },
       "eu-central-1": {
         "auth": {}
       },
+      "eu-central-2": {
+        "auth": {}
+      },
       "eu-north-1": {
         "auth": {}
       },
       "eu-south-1": {
+        "auth": {}
+      },
+      "eu-south-2": {
         "auth": {}
       },
       "eu-west-1": {
@@ -1799,6 +1844,9 @@
         "auth": {}
       },
       "il-central-1": {
+        "auth": {}
+      },
+      "me-central-1": {
         "auth": {}
       },
       "me-south-1": {
@@ -1833,6 +1881,7 @@
     "awsapprunner": {
       "*": {}
     },
+    "awsapps": {},
     "elasticbeanstalk": {
       "af-south-1": {},
       "ap-east-1": {},
@@ -2181,9 +2230,6 @@
     },
     "ktistory": {},
     "lpusercontent": {},
-    "lmpm": {
-      "app": {}
-    },
     "linode": {
       "members": {},
       "nodebalancer": {
@@ -2936,6 +2982,9 @@
     "from": {},
     "name": {},
     "com": {},
+    "brendly": {
+      "shop": {}
+    },
     "blogspot": {},
     "free": {}
   },
@@ -3171,7 +3220,6 @@
     "forgerock": {
       "id": {}
     },
-    "ghost": {},
     "github": {},
     "gitlab": {},
     "lolipop": {},
@@ -7900,6 +7948,7 @@
     "zgorzelec": {},
     "beep": {},
     "ecommerce-shop": {},
+    "bielsko": {},
     "shoparena": {},
     "homesklep": {},
     "sdscloud": {},
@@ -9011,6 +9060,7 @@
       "phx": {}
     },
     "mircloud": {},
+    "ngo": {},
     "freeddns": {},
     "golffan": {},
     "noip": {},
@@ -9461,6 +9511,70 @@
   "autos": {},
   "aws": {
     "sagemaker": {
+      "ap-northeast-1": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "ap-northeast-2": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "ap-south-1": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "ap-southeast-1": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "ap-southeast-2": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "ca-central-1": {
+        "labeling": {},
+        "notebook": {},
+        "notebook-fips": {},
+        "studio": {}
+      },
+      "eu-central-1": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "eu-west-1": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "eu-west-2": {
+        "labeling": {},
+        "notebook": {},
+        "studio": {}
+      },
+      "us-east-1": {
+        "labeling": {},
+        "notebook": {},
+        "notebook-fips": {},
+        "studio": {}
+      },
+      "us-east-2": {
+        "labeling": {},
+        "notebook": {},
+        "notebook-fips": {},
+        "studio": {}
+      },
+      "us-west-2": {
+        "labeling": {},
+        "notebook": {},
+        "notebook-fips": {},
+        "studio": {}
+      },
       "af-south-1": {
         "notebook": {},
         "studio": {}
@@ -9469,32 +9583,12 @@
         "notebook": {},
         "studio": {}
       },
-      "ap-northeast-1": {
-        "notebook": {},
-        "studio": {}
-      },
-      "ap-northeast-2": {
-        "notebook": {},
-        "studio": {}
-      },
       "ap-northeast-3": {
-        "notebook": {},
-        "studio": {}
-      },
-      "ap-south-1": {
         "notebook": {},
         "studio": {}
       },
       "ap-south-2": {
         "notebook": {}
-      },
-      "ap-southeast-1": {
-        "notebook": {},
-        "studio": {}
-      },
-      "ap-southeast-2": {
-        "notebook": {},
-        "studio": {}
       },
       "ap-southeast-3": {
         "notebook": {},
@@ -9503,18 +9597,9 @@
       "ap-southeast-4": {
         "notebook": {}
       },
-      "ca-central-1": {
-        "notebook": {},
-        "notebook-fips": {},
-        "studio": {}
-      },
       "ca-west-1": {
         "notebook": {},
         "notebook-fips": {}
-      },
-      "eu-central-1": {
-        "notebook": {},
-        "studio": {}
       },
       "eu-central-2": {
         "notebook": {}
@@ -9528,13 +9613,6 @@
         "studio": {}
       },
       "eu-south-2": {
-        "notebook": {}
-      },
-      "eu-west-1": {
-        "notebook": {},
-        "studio": {}
-      },
-      "eu-west-2": {
         "notebook": {},
         "studio": {}
       },
@@ -9558,16 +9636,6 @@
         "notebook": {},
         "studio": {}
       },
-      "us-east-1": {
-        "notebook": {},
-        "notebook-fips": {},
-        "studio": {}
-      },
-      "us-east-2": {
-        "notebook": {},
-        "notebook-fips": {},
-        "studio": {}
-      },
       "us-gov-east-1": {
         "notebook": {},
         "notebook-fips": {},
@@ -9581,10 +9649,6 @@
         "studio-fips": {}
       },
       "us-west-1": {
-        "notebook": {},
-        "studio": {}
-      },
-      "us-west-2": {
         "notebook": {},
         "notebook-fips": {},
         "studio": {}
@@ -9975,6 +10039,7 @@
     "is-cool": {},
     "is-not-a": {},
     "localplayer": {},
+    "xmit": {},
     "platter-app": {},
     "replit": {
       "archer": {},
@@ -10561,9 +10626,9 @@
     "hlx3": {},
     "translated": {},
     "codeberg": {},
+    "prvcy": {},
     "pdns": {},
     "plesk": {},
-    "prvcy": {},
     "rocky": {},
     "magnet": {}
   },
@@ -10974,7 +11039,9 @@
   "viva": {},
   "vivo": {},
   "vlaanderen": {},
-  "vodka": {},
+  "vodka": {
+    "aaa": {}
+  },
   "volvo": {},
   "vote": {},
   "voting": {},
