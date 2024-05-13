@@ -761,10 +761,12 @@
     "co": {},
     "blogspot": {},
     "no-ip": {},
-    "myspreadshop": {}
+    "myspreadshop": {},
+    "box": {}
   },
   "cat": {},
   "cc": {
+    "cleverapps": {},
     "cloudns": {},
     "ftpaccess": {},
     "game-server": {},
@@ -1941,6 +1943,11 @@
     "africa": {},
     "gr": {},
     "co": {},
+    "clever-cloud": {
+      "services": {
+        "*": {}
+      }
+    },
     "jdevcloud": {},
     "wpdevcloud": {},
     "cloudcontrolled": {},
@@ -9487,7 +9494,8 @@
     "telebit": {},
     "typedream": {},
     "vercel": {},
-    "bookonline": {}
+    "bookonline": {},
+    "zeabur": {}
   },
   "apple": {},
   "aquarelle": {},
@@ -9857,6 +9865,7 @@
     "magentosite": {
       "*": {}
     },
+    "observablehq": {},
     "perspecta": {},
     "vapor": {},
     "on-rancher": {
@@ -10220,7 +10229,8 @@
   "gallup": {},
   "game": {},
   "games": {
-    "pley": {}
+    "pley": {},
+    "sheezy": {}
   },
   "gap": {},
   "garden": {},
@@ -10774,6 +10784,10 @@
     "onporter": {},
     "repl": {},
     "stackit": {},
+    "val": {
+      "express": {},
+      "web": {}
+    },
     "wix": {}
   },
   "rwe": {},
@@ -10865,6 +10879,7 @@
     "loginline": {},
     "barsy": {},
     "mintere": {},
+    "notion": {},
     "omniwe": {},
     "opensocial": {},
     "platformsh": {
@@ -10957,7 +10972,9 @@
     "discourse": {},
     "jelastic": {}
   },
-  "tech": {},
+  "tech": {
+    "cleverapps": {}
+  },
   "technology": {
     "co": {}
   },
