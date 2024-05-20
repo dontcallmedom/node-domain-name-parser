@@ -9455,11 +9455,17 @@
     "ondigitalocean": {},
     "easypanel": {},
     "encr": {},
+    "expo": {
+      "staging": {}
+    },
     "edgecompute": {},
     "fireweb": {},
     "onflashdrive": {},
     "flutterflow": {},
     "framer": {},
+    "hosted": {
+      "*": {}
+    },
     "run": {
       "*": {}
     },
