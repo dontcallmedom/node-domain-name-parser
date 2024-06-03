@@ -2447,12 +2447,13 @@
     "wiardweb": {
       "pages": {}
     },
+    "wixsite": {},
+    "wixstudio": {},
     "messwithdns": {},
     "woltlab-demo": {},
     "wpenginepowered": {
       "js": {}
     },
-    "wixsite": {},
     "xnbay": {
       "u2": {},
       "u2-local": {}
@@ -3232,6 +3233,7 @@
     "lolipop": {},
     "hasura-app": {},
     "hostyhosting": {},
+    "hypernode": {},
     "moonscale": {
       "*": {}
     },
