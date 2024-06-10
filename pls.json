@@ -6349,6 +6349,18 @@
     "in": {},
     "clickrising": {},
     "cloudaccess": {},
+    "cloudflareanycast": {
+      "cdn": {}
+    },
+    "cloudflarecn": {
+      "cdn": {}
+    },
+    "cloudflareglobal": {
+      "cdn": {}
+    },
+    "cloudflare": {
+      "cdn": {}
+    },
     "cdn77": {
       "r": {}
     },
