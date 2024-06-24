@@ -3114,8 +3114,7 @@
     "net": {},
     "org": {},
     "tt": {},
-    "tv": {},
-    "ro": {}
+    "tv": {}
   },
   "in": {
     "5g": {},
@@ -9245,8 +9244,7 @@
     "com": {},
     "edu": {},
     "net": {},
-    "org": {},
-    "cn": {}
+    "org": {}
   },
   "wf": {
     "biz": {},
@@ -9497,6 +9495,7 @@
     "hasura": {},
     "loginline": {},
     "messerli": {},
+    "netfy": {},
     "netlify": {},
     "ngrok": {},
     "ngrok-free": {},
@@ -10112,6 +10111,32 @@
       "wesley": {},
       "worf": {}
     },
+    "crm": {
+      "d": {
+        "*": {}
+      },
+      "w": {
+        "*": {}
+      },
+      "wa": {
+        "*": {}
+      },
+      "wb": {
+        "*": {}
+      },
+      "wc": {
+        "*": {}
+      },
+      "wd": {
+        "*": {}
+      },
+      "we": {
+        "*": {}
+      },
+      "wf": {
+        "*": {}
+      }
+    },
     "shiftcrypto": {},
     "vercel": {},
     "webhare": {
@@ -10363,6 +10388,7 @@
     "jele": {},
     "mircloud": {},
     "pcloud": {},
+    "wp2": {},
     "half": {}
   },
   "hosting": {
@@ -10645,7 +10671,9 @@
     "service": {},
     "homelink": {}
   },
-  "ong": {},
+  "ong": {
+    "obl": {}
+  },
   "onl": {},
   "online": {
     "eero": {},
@@ -10928,7 +10956,8 @@
     },
     "byen": {},
     "srht": {},
-    "novecore": {}
+    "novecore": {},
+    "wpsquared": {}
   },
   "ski": {},
   "skin": {},
