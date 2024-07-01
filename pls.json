@@ -971,7 +971,6 @@
         "*": {}
       }
     },
-    "instantcloud": {},
     "myqnapcloud": {},
     "quickconnect": {
       "direct": {}
@@ -1959,9 +1958,6 @@
     "trycloudflare": {},
     "cdn77-storage": {},
     "dnsabr": {},
-    "cprapid": {
-      "*": {}
-    },
     "customer-oci": {
       "*": {},
       "oci": {
@@ -1989,6 +1985,7 @@
     "discordsez": {},
     "drayddns": {},
     "dreamhosters": {},
+    "durumis": {},
     "mydrobo": {},
     "blogdns": {},
     "cechire": {},
@@ -2341,7 +2338,6 @@
     "gotpantheon": {},
     "upsunapp": {},
     "platter-app": {},
-    "pleskns": {},
     "postman-echo": {},
     "prgmr": {
       "xen": {}
@@ -2448,6 +2444,8 @@
     "wafflecell": {},
     "hotelwithflight": {},
     "reserve-online": {},
+    "cprapid": {},
+    "pleskns": {},
     "remotewd": {},
     "wiardweb": {
       "pages": {}
@@ -3278,6 +3276,10 @@
     },
     "protonet": {},
     "qoto": {},
+    "myrdbx": {},
+    "rb-hosting": {
+      "site": {}
+    },
     "qcx": {
       "sys": {
         "*": {}
@@ -10701,10 +10703,10 @@
     "translated": {},
     "codeberg": {},
     "prvcy": {},
-    "pdns": {},
-    "plesk": {},
     "rocky": {},
-    "magnet": {}
+    "magnet": {},
+    "pdns": {},
+    "plesk": {}
   },
   "panasonic": {},
   "paris": {},
