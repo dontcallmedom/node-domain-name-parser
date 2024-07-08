@@ -2195,6 +2195,8 @@
     "withyoutube": {},
     "grayjayleagues": {},
     "awsmppl": {},
+    "hatenablog": {},
+    "hatenadiary": {},
     "herokuapp": {},
     "herokussl": {},
     "impertrix": {},
@@ -3286,9 +3288,6 @@
       }
     },
     "vaporcloud": {},
-    "vbrplsbx": {
-      "g": {}
-    },
     "on-k3s": {
       "*": {}
     },
@@ -5811,6 +5810,9 @@
     "whitesnow": {},
     "zombie": {},
     "blogspot": {},
+    "hateblo": {},
+    "hatenablog": {},
+    "hatenadiary": {},
     "2-d": {},
     "bona": {},
     "crap": {},
@@ -6097,6 +6099,7 @@
     "its": {},
     "priv": {},
     "c66": {},
+    "craft": {},
     "daplie": {
       "localhost": {}
     },
@@ -7663,6 +7666,7 @@
       }
     },
     "freedesktop": {},
+    "hatenadiary": {},
     "hepforge": {},
     "in-dsl": {},
     "in-vpn": {},
@@ -7977,6 +7981,7 @@
     "beep": {},
     "ecommerce-shop": {},
     "bielsko": {},
+    "cfolks": {},
     "shoparena": {},
     "homesklep": {},
     "sdscloud": {},
