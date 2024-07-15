@@ -24,20 +24,19 @@
     "blogspot": {}
   },
   "aero": {
+    "airline": {},
+    "airport": {},
     "accident-investigation": {},
     "accident-prevention": {},
     "aerobatic": {},
     "aeroclub": {},
     "aerodrome": {},
     "agents": {},
-    "aircraft": {},
-    "airline": {},
-    "airport": {},
     "air-surveillance": {},
-    "airtraffic": {},
     "air-traffic-control": {},
+    "aircraft": {},
+    "airtraffic": {},
     "ambulance": {},
-    "amusement": {},
     "association": {},
     "author": {},
     "ballooning": {},
@@ -68,6 +67,7 @@
     "express": {},
     "federation": {},
     "flight": {},
+    "freight": {},
     "fuel": {},
     "gliding": {},
     "government": {},
@@ -82,6 +82,7 @@
     "logistics": {},
     "magazine": {},
     "maintenance": {},
+    "marketplace": {},
     "media": {},
     "microlight": {},
     "modelling": {},
@@ -104,6 +105,7 @@
     "skydiving": {},
     "software": {},
     "student": {},
+    "taxi": {},
     "trader": {},
     "trading": {},
     "trainer": {},
@@ -1696,7 +1698,13 @@
         "ap-northeast-2": {
           "*": {}
         },
+        "ap-northeast-3": {
+          "*": {}
+        },
         "ap-south-1": {
+          "*": {}
+        },
+        "ap-south-2": {
           "*": {}
         },
         "ap-southeast-1": {
@@ -1705,16 +1713,31 @@
         "ap-southeast-2": {
           "*": {}
         },
+        "ap-southeast-3": {
+          "*": {}
+        },
+        "ap-southeast-4": {
+          "*": {}
+        },
         "ca-central-1": {
           "*": {}
         },
+        "ca-west-1": {
+          "*": {}
+        },
         "eu-central-1": {
+          "*": {}
+        },
+        "eu-central-2": {
           "*": {}
         },
         "eu-north-1": {
           "*": {}
         },
         "eu-south-1": {
+          "*": {}
+        },
+        "eu-south-2": {
           "*": {}
         },
         "eu-west-1": {
@@ -1724,6 +1747,12 @@
           "*": {}
         },
         "eu-west-3": {
+          "*": {}
+        },
+        "il-central-1": {
+          "*": {}
+        },
+        "me-central-1": {
           "*": {}
         },
         "me-south-1": {
@@ -1792,6 +1821,9 @@
       "af-south-1": {
         "auth": {}
       },
+      "ap-east-1": {
+        "auth": {}
+      },
       "ap-northeast-1": {
         "auth": {}
       },
@@ -1820,6 +1852,9 @@
         "auth": {}
       },
       "ca-central-1": {
+        "auth": {}
+      },
+      "ca-west-1": {
         "auth": {}
       },
       "eu-central-1": {
@@ -1878,9 +1913,7 @@
         "auth-fips": {}
       }
     },
-    "amplifyapp": {
-      "*": {}
-    },
+    "amplifyapp": {},
     "awsapprunner": {
       "*": {}
     },
@@ -7982,6 +8015,9 @@
     "ecommerce-shop": {},
     "bielsko": {},
     "cfolks": {},
+    "dfirma": {},
+    "dkonto": {},
+    "you2": {},
     "shoparena": {},
     "homesklep": {},
     "sdscloud": {},
@@ -9696,6 +9732,9 @@
         "notebook": {},
         "notebook-fips": {},
         "studio": {}
+      },
+      "experiments": {
+        "*": {}
       }
     },
     "repost": {
@@ -10914,7 +10953,6 @@
   "sfr": {},
   "shangrila": {},
   "sharp": {},
-  "shaw": {},
   "shell": {},
   "shia": {},
   "shiksha": {},
