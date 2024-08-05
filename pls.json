@@ -2224,7 +2224,6 @@
     "withgoogle": {},
     "withyoutube": {},
     "grayjayleagues": {},
-    "awsmppl": {},
     "hatenablog": {},
     "hatenadiary": {},
     "herokuapp": {},
@@ -3395,7 +3394,6 @@
     "gov": {},
     "org": {},
     "int": {},
-    "cupcake": {},
     "blogspot": {}
   },
   "it": {
@@ -6462,7 +6460,6 @@
       "map": {}
     },
     "edgeapp": {},
-    "flynnhosting": {},
     "keyword-on": {},
     "live-on": {},
     "server-on": {},
@@ -7766,20 +7763,22 @@
     "cloudns": {}
   },
   "pk": {
-    "com": {},
-    "net": {},
-    "edu": {},
-    "org": {},
-    "fam": {},
+    "ac": {},
     "biz": {},
-    "web": {},
-    "gov": {},
+    "com": {},
+    "edu": {},
+    "fam": {},
+    "gkp": {},
     "gob": {},
+    "gog": {},
     "gok": {},
     "gon": {},
     "gop": {},
     "gos": {},
-    "info": {}
+    "gov": {},
+    "net": {},
+    "org": {},
+    "web": {}
   },
   "pl": {
     "com": {},
