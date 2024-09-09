@@ -1979,18 +1979,6 @@
     "cloudflare-ipfs": {},
     "trycloudflare": {},
     "co": {},
-    "customer-oci": {
-      "*": {},
-      "oci": {
-        "*": {}
-      },
-      "ocp": {
-        "*": {}
-      },
-      "ocs": {
-        "*": {}
-      }
-    },
     "builtwithdark": {},
     "datadetect": {
       "demo": {},
@@ -2210,7 +2198,6 @@
     "googleapis": {},
     "googlecode": {},
     "pagespeedmobilizer": {},
-    "publishproxy": {},
     "withgoogle": {},
     "withyoutube": {},
     "grayjayleagues": {},
@@ -2304,12 +2291,6 @@
     },
     "4u": {},
     "nfshost": {},
-    "ar": {},
-    "hu": {},
-    "kr": {},
-    "no": {},
-    "qc": {},
-    "uy": {},
     "3utilities": {},
     "blogsyte": {},
     "ciscofreak": {},
@@ -2356,6 +2337,24 @@
     "simplesite": {},
     "orsites": {},
     "operaunite": {},
+    "customer-oci": {
+      "*": {},
+      "oci": {
+        "*": {}
+      },
+      "ocp": {
+        "*": {}
+      },
+      "ocs": {
+        "*": {}
+      }
+    },
+    "oraclecloudapps": {
+      "*": {}
+    },
+    "oraclegovcloudapps": {
+      "*": {}
+    },
     "authgear-staging": {},
     "authgearapps": {},
     "skygearapp": {},
@@ -2508,10 +2507,12 @@
   "cu": {
     "com": {},
     "edu": {},
-    "org": {},
-    "net": {},
+    "gob": {},
     "gov": {},
-    "inf": {}
+    "inf": {},
+    "nat": {},
+    "net": {},
+    "org": {}
   },
   "cv": {
     "com": {},
@@ -3094,16 +3095,13 @@
     "go": {},
     "mil": {},
     "my": {
-      "rss": {
-        "*": {}
-      }
+      "rss": {}
     },
     "net": {},
     "or": {},
     "ponpes": {},
     "sch": {},
     "web": {},
-    "flap": {},
     "forte": {}
   },
   "ie": {
@@ -3819,10 +3817,10 @@
         }
       }
     },
+    "123homepage": {},
     "16-b": {},
     "32-b": {},
     "64-b": {},
-    "123homepage": {},
     "myspreadshop": {},
     "syncloud": {}
   },
@@ -6607,6 +6605,9 @@
       "pages": {}
     },
     "reserve-online": {},
+    "hrsn": {
+      "t": {}
+    },
     "community-pro": {},
     "meinforum": {},
     "yandexcloud": {
@@ -6640,11 +6641,19 @@
     "net": {},
     "org": {},
     "sch": {},
+    "biz": {
+      "co": {},
+      "dl": {},
+      "go": {},
+      "lg": {},
+      "on": {}
+    },
     "col": {},
     "firm": {},
     "gen": {},
     "ltd": {},
-    "ngo": {}
+    "ngo": {},
+    "plc": {}
   },
   "ni": {
     "ac": {},
@@ -7643,7 +7652,6 @@
       "lt": {},
       "lu": {},
       "lv": {},
-      "mc": {},
       "me": {},
       "mk": {},
       "mt": {},
@@ -8375,7 +8383,6 @@
     "me": {},
     "net": {},
     "org": {},
-    "sch": {},
     "surveys": {}
   },
   "sr": {},
@@ -8809,7 +8816,10 @@
     "royal-commission": {},
     "pymnt": {},
     "barsy": {},
-    "nimsite": {}
+    "nimsite": {},
+    "oraclegovcloudapps": {
+      "*": {}
+    }
   },
   "us": {
     "dni": {},
@@ -9500,7 +9510,6 @@
       "staging": {}
     },
     "edgecompute": {},
-    "fireweb": {},
     "flutterflow": {},
     "framer": {},
     "hosted": {
@@ -9530,6 +9539,7 @@
     "replit": {
       "id": {}
     },
+    "nyat": {},
     "snowflake": {
       "*": {},
       "privatelink": {
@@ -9542,7 +9552,9 @@
     "typedream": {},
     "vercel": {},
     "bookonline": {},
-    "wdh": {},
+    "wdh": {
+      "preview": {}
+    },
     "zeabur": {}
   },
   "apple": {},
@@ -10059,7 +10071,6 @@
   "dev": {
     "12chars": {},
     "panel": {},
-    "autocode": {},
     "lcl": {
       "*": {}
     },
@@ -10087,8 +10098,8 @@
     "gateway": {
       "*": {}
     },
-    "is-a": {},
     "is-a-good": {},
+    "is-a": {},
     "iserv": {},
     "runcontainers": {},
     "localcert": {
@@ -10198,14 +10209,7 @@
   "durban": {},
   "dvag": {},
   "dvr": {},
-  "earth": {
-    "dapps": {
-      "*": {},
-      "bzz": {
-        "*": {}
-      }
-    }
-  },
+  "earth": {},
   "eat": {},
   "eco": {},
   "edeka": {},
@@ -10729,7 +10733,6 @@
     "codeberg": {},
     "prvcy": {},
     "rocky": {},
-    "magnet": {},
     "pdns": {},
     "plesk": {}
   },
@@ -10912,7 +10915,6 @@
     "ybo": {}
   },
   "scot": {
-    "edu": {},
     "gov": {
       "service": {}
     }
@@ -10999,9 +11001,7 @@
   "sohu": {},
   "solar": {},
   "solutions": {
-    "diher": {
-      "*": {}
-    }
+    "diher": {}
   },
   "song": {},
   "sony": {},
