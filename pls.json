@@ -3094,8 +3094,7 @@
     "or": {},
     "ponpes": {},
     "sch": {},
-    "web": {},
-    "forte": {}
+    "web": {}
   },
   "ie": {
     "gov": {},
@@ -3284,7 +3283,6 @@
       "stage": {}
     },
     "pantheonsite": {},
-    "dyn53": {},
     "pstmn": {
       "mock": {}
     },
@@ -6095,9 +6093,6 @@
     "priv": {},
     "c66": {},
     "craft": {},
-    "daplie": {
-      "localhost": {}
-    },
     "edgestack": {},
     "filegear": {},
     "glitch": {},
@@ -7529,7 +7524,6 @@
       }
     },
     "ae": {},
-    "certmgr": {},
     "cloudns": {},
     "ddnss": {},
     "duckdns": {},
@@ -10013,7 +10007,6 @@
   "cuisinella": {},
   "cymru": {},
   "cyou": {},
-  "dabur": {},
   "dad": {},
   "dance": {},
   "data": {},
@@ -10919,7 +10912,8 @@
     "base": {},
     "hoplix": {},
     "barsy": {},
-    "barsyonline": {}
+    "barsyonline": {},
+    "shopware": {}
   },
   "shopping": {},
   "shouji": {},
@@ -10985,6 +10979,9 @@
   "space": {
     "myfast": {},
     "heiyu": {},
+    "hf": {
+      "static": {}
+    },
     "app-ionos": {},
     "uber": {},
     "xs4all": {}
