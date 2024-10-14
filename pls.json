@@ -1170,7 +1170,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1230,7 +1231,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1244,10 +1246,24 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
+        "s3-object-lambda": {},
+        "s3-website": {}
+      },
+      "ap-southeast-5": {
+        "execute-api": {},
+        "dualstack": {
+          "s3": {},
+          "s3-accesspoint": {},
+          "s3-website": {}
+        },
+        "s3": {},
+        "s3-accesspoint": {},
+        "s3-deprecated": {},
         "s3-object-lambda": {},
         "s3-website": {}
       },
@@ -1293,6 +1309,7 @@
         "s3-accesspoint": {},
         "s3-accesspoint-fips": {},
         "s3-fips": {},
+        "s3-object-lambda": {},
         "s3-website": {}
       },
       "eu-central-1": {
@@ -1325,7 +1342,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1382,7 +1400,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1463,7 +1482,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1483,7 +1503,8 @@
         "emrstudio-prod": {},
         "dualstack": {
           "s3": {},
-          "s3-accesspoint": {}
+          "s3-accesspoint": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1570,7 +1591,8 @@
           "s3": {},
           "s3-accesspoint": {},
           "s3-accesspoint-fips": {},
-          "s3-fips": {}
+          "s3-fips": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -3373,7 +3395,8 @@
     "org": {},
     "sch": {},
     "ایران": {},
-    "ايران": {}
+    "ايران": {},
+    "arvanedge": {}
   },
   "is": {
     "net": {},
@@ -6182,8 +6205,7 @@
   },
   "mq": {},
   "mr": {
-    "gov": {},
-    "blogspot": {}
+    "gov": {}
   },
   "ms": {
     "com": {},
@@ -7633,10 +7655,8 @@
       "nl": {},
       "no": {},
       "nz": {},
-      "paris": {},
       "pl": {},
       "pt": {},
-      "q-a": {},
       "ro": {},
       "ru": {},
       "se": {},
