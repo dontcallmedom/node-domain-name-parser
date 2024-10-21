@@ -155,8 +155,11 @@
   },
   "ao": {
     "ed": {},
+    "edu": {},
+    "gov": {},
     "gv": {},
     "og": {},
+    "org": {},
     "co": {},
     "pb": {},
     "it": {}
@@ -2011,7 +2014,6 @@
     "dattorelay": {},
     "dattoweb": {},
     "mydatto": {},
-    "ddns5": {},
     "digitaloceanspaces": {
       "*": {}
     },
@@ -2477,7 +2479,6 @@
     },
     "reservd": {},
     "thingdustdata": {},
-    "bloxcms": {},
     "townnews-staging": {},
     "typeform": {
       "pro": {}
@@ -3241,12 +3242,6 @@
     },
     "apigee": {},
     "b-data": {},
-    "banzaicloud": {
-      "app": {},
-      "backyards": {
-        "*": {}
-      }
-    },
     "beagleboard": {},
     "bitbucket": {},
     "bluebite": {},
@@ -6259,7 +6254,6 @@
     "edu": {},
     "gov": {},
     "int": {},
-    "museum": {},
     "net": {},
     "org": {}
   },
@@ -6293,22 +6287,11 @@
     "org": {}
   },
   "na": {
-    "info": {},
-    "pro": {},
-    "name": {},
-    "school": {},
-    "or": {},
-    "dr": {},
-    "us": {},
-    "mx": {},
-    "ca": {},
-    "in": {},
-    "cc": {},
-    "tv": {},
-    "ws": {},
-    "mobi": {},
+    "alt": {},
     "co": {},
     "com": {},
+    "gov": {},
+    "net": {},
     "org": {}
   },
   "name": {
@@ -6463,9 +6446,6 @@
     "localhostcert": {},
     "heteml": {},
     "cloudfunctions": {},
-    "hrsn": {
-      "t": {}
-    },
     "iobb": {},
     "moonscale": {},
     "in-dsl": {},
@@ -6590,9 +6570,6 @@
     "supabase": {},
     "dsmynas": {},
     "familyds": {},
-    "tailscale": {
-      "beta": {}
-    },
     "ts": {
       "c": {
         "*": {}
@@ -8098,7 +8075,6 @@
   },
   "pw": {
     "co": {},
-    "ne": {},
     "or": {},
     "ed": {},
     "go": {},
@@ -8377,6 +8353,7 @@
   "sr": {},
   "ss": {
     "biz": {},
+    "co": {},
     "com": {},
     "edu": {},
     "gov": {},
@@ -9508,11 +9485,10 @@
       "*": {}
     },
     "web": {},
-    "wdh": {
-      "preview": {}
-    },
+    "wdh": {},
     "hasura": {},
     "loginline": {},
+    "medusajs": {},
     "messerli": {},
     "netfy": {},
     "netlify": {},
@@ -9866,9 +9842,6 @@
   "clinique": {},
   "clothing": {},
   "cloud": {
-    "banzai": {
-      "*": {}
-    },
     "elementor": {},
     "encoway": {
       "eu": {}
@@ -10085,9 +10058,7 @@
     "gateway": {
       "*": {}
     },
-    "hrsn": {
-      "t": {}
-    },
+    "hrsn": {},
     "is-a-good": {},
     "is-a": {},
     "iserv": {},
@@ -10250,9 +10221,7 @@
   "fage": {},
   "fail": {},
   "fairwinds": {},
-  "faith": {
-    "ybo": {}
-  },
+  "faith": {},
   "family": {},
   "fan": {},
   "fans": {},
@@ -10689,8 +10658,7 @@
     "kin": {
       "*": {}
     },
-    "service": {},
-    "homelink": {}
+    "service": {}
   },
   "ong": {
     "obl": {}
@@ -10732,9 +10700,7 @@
   "pars": {},
   "partners": {},
   "parts": {},
-  "party": {
-    "ybo": {}
-  },
+  "party": {},
   "pay": {},
   "pccw": {},
   "pet": {},
@@ -10824,9 +10790,7 @@
   "republican": {},
   "rest": {},
   "restaurant": {},
-  "review": {
-    "ybo": {}
-  },
+  "review": {},
   "reviews": {},
   "rexroth": {},
   "rich": {},
@@ -10902,9 +10866,7 @@
   "school": {},
   "schule": {},
   "schwarz": {},
-  "science": {
-    "ybo": {}
-  },
+  "science": {},
   "scot": {
     "gov": {
       "service": {}
@@ -11104,9 +11066,7 @@
   "town": {},
   "toyota": {},
   "toys": {},
-  "trade": {
-    "ybo": {}
-  },
+  "trade": {},
   "trading": {},
   "training": {},
   "travel": {},
