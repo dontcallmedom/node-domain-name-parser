@@ -403,6 +403,7 @@
   },
   "biz": {
     "activetrail": {},
+    "cloud-ip": {},
     "cloudns": {},
     "jozi": {},
     "dyndns": {},
@@ -840,8 +841,6 @@
     "asso": {},
     "aéroport": {},
     "int": {},
-    "presse": {},
-    "md": {},
     "gouv": {},
     "fin": {}
   },
@@ -2524,7 +2523,6 @@
     "com": {},
     "edu": {},
     "gob": {},
-    "gov": {},
     "inf": {},
     "nat": {},
     "net": {},
@@ -3236,7 +3234,14 @@
   },
   "io": {
     "2038": {},
+    "co": {},
     "com": {},
+    "edu": {},
+    "gov": {},
+    "mil": {},
+    "net": {},
+    "nom": {},
+    "org": {},
     "on-acorn": {
       "*": {}
     },
@@ -7527,6 +7532,7 @@
     },
     "ae": {},
     "cloudns": {},
+    "ip-dynamic": {},
     "ddnss": {},
     "duckdns": {},
     "tunk": {},
@@ -10814,7 +10820,6 @@
   "rugby": {},
   "ruhr": {},
   "run": {
-    "hs": {},
     "development": {},
     "ravendb": {},
     "servers": {},
@@ -11280,7 +11285,6 @@
   "zip": {},
   "zone": {
     "cloud66": {},
-    "hs": {},
     "triton": {
       "*": {}
     },
