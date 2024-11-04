@@ -185,6 +185,7 @@
   },
   "arpa": {
     "e164": {},
+    "home": {},
     "in-addr": {},
     "ip6": {},
     "iris": {},
@@ -1998,6 +1999,7 @@
       }
     },
     "dnsabr": {},
+    "ip-ddns": {},
     "jdevcloud": {},
     "wpdevcloud": {},
     "cf-ipfs": {},
@@ -2473,6 +2475,7 @@
     "dsmynas": {},
     "familyds": {},
     "mytabit": {},
+    "taveusercontent": {},
     "tb-hosting": {
       "site": {}
     },
@@ -6357,6 +6360,7 @@
     "se": {},
     "uk": {},
     "clickrising": {},
+    "ddns-ip": {},
     "dns-cloud": {},
     "dns-dynamic": {},
     "cloudaccess": {},
@@ -6451,6 +6455,7 @@
     "localhostcert": {},
     "heteml": {},
     "cloudfunctions": {},
+    "grafana-dev": {},
     "iobb": {},
     "moonscale": {},
     "in-dsl": {},
