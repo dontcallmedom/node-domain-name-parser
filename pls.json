@@ -8057,9 +8057,6 @@
     "recht": {},
     "12chars": {},
     "cloudns": {},
-    "dnstrace": {
-      "bci": {}
-    },
     "barsy": {},
     "ngrok": {}
   },
@@ -10663,9 +10660,6 @@
   "ollo": {},
   "omega": {},
   "one": {
-    "onred": {
-      "staging": {}
-    },
     "kin": {
       "*": {}
     },
