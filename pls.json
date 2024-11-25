@@ -10,9 +10,7 @@
     "feedback": {},
     "forms": {}
   },
-  "ad": {
-    "nom": {}
-  },
+  "ad": {},
   "ae": {
     "co": {},
     "net": {},
@@ -114,11 +112,11 @@
     "works": {}
   },
   "af": {
-    "gov": {},
     "com": {},
-    "org": {},
+    "edu": {},
+    "gov": {},
     "net": {},
-    "edu": {}
+    "org": {}
   },
   "ag": {
     "com": {},
@@ -273,7 +271,6 @@
     },
     "asn": {},
     "id": {},
-    "info": {},
     "conf": {},
     "oz": {},
     "act": {},
@@ -290,18 +287,18 @@
   },
   "ax": {},
   "az": {
+    "biz": {},
     "com": {},
-    "net": {},
-    "int": {},
-    "gov": {},
-    "org": {},
     "edu": {},
+    "gov": {},
     "info": {},
-    "pp": {},
+    "int": {},
     "mil": {},
     "name": {},
-    "pro": {},
-    "biz": {}
+    "net": {},
+    "org": {},
+    "pp": {},
+    "pro": {}
   },
   "ba": {
     "com": {},
@@ -463,9 +460,9 @@
     "edu": {},
     "gob": {},
     "int": {},
-    "org": {},
-    "net": {},
     "mil": {},
+    "net": {},
+    "org": {},
     "tv": {},
     "web": {},
     "academia": {},
@@ -490,9 +487,9 @@
     "nombre": {},
     "noticias": {},
     "patria": {},
+    "plurinacional": {},
     "politica": {},
     "profesional": {},
-    "plurinacional": {},
     "pueblo": {},
     "revista": {},
     "salud": {},
@@ -984,21 +981,15 @@
     }
   },
   "co": {
-    "arts": {},
     "com": {
       "blogspot": {}
     },
     "edu": {},
-    "firm": {},
     "gov": {},
-    "info": {},
-    "int": {},
     "mil": {},
     "net": {},
     "nom": {},
     "org": {},
-    "rec": {},
-    "web": {},
     "carrd": {},
     "crd": {},
     "otap": {
@@ -1977,7 +1968,6 @@
     "on-aptible": {},
     "myasustor": {},
     "balena-devices": {},
-    "betainabox": {},
     "boutir": {},
     "bplaced": {},
     "cafjs": {},
@@ -2703,11 +2693,12 @@
     "myspreadshop": {}
   },
   "dm": {
+    "co": {},
     "com": {},
-    "net": {},
-    "org": {},
     "edu": {},
-    "gov": {}
+    "gov": {},
+    "net": {},
+    "org": {}
   },
   "do": {
     "art": {},
@@ -2906,10 +2897,10 @@
     "com": {},
     "edu": {},
     "gov": {},
-    "org": {},
-    "mil": {},
     "net": {},
-    "pvt": {}
+    "org": {},
+    "pvt": {},
+    "school": {}
   },
   "gf": {},
   "gg": {
@@ -3404,12 +3395,6 @@
     "arvanedge": {}
   },
   "is": {
-    "net": {},
-    "com": {},
-    "edu": {},
-    "gov": {},
-    "org": {},
-    "int": {},
     "blogspot": {}
   },
   "it": {
@@ -3843,14 +3828,20 @@
     "*": {}
   },
   "jo": {
+    "agri": {},
+    "ai": {},
     "com": {},
-    "org": {},
-    "net": {},
     "edu": {},
-    "sch": {},
+    "eng": {},
+    "fm": {},
     "gov": {},
     "mil": {},
-    "name": {}
+    "net": {},
+    "org": {},
+    "per": {},
+    "phd": {},
+    "sch": {},
+    "tv": {}
   },
   "jobs": {},
   "jp": {
@@ -6154,15 +6145,14 @@
     "nohost": {}
   },
   "mg": {
-    "org": {},
-    "nom": {},
-    "gov": {},
-    "prd": {},
-    "tm": {},
-    "edu": {},
-    "mil": {},
+    "co": {},
     "com": {},
-    "co": {}
+    "edu": {},
+    "gov": {},
+    "mil": {},
+    "nom": {},
+    "org": {},
+    "prd": {}
   },
   "mh": {},
   "mil": {},
@@ -7779,8 +7769,8 @@
     "com": {},
     "net": {},
     "org": {},
-    "aid": {},
     "agro": {},
+    "aid": {},
     "atm": {},
     "auto": {},
     "biz": {},
@@ -7789,8 +7779,8 @@
     "gsm": {},
     "info": {},
     "mail": {},
-    "miasta": {},
     "media": {},
+    "miasta": {},
     "mil": {},
     "nieruchomosci": {},
     "nom": {},
@@ -7892,11 +7882,11 @@
     "jelenia-gora": {},
     "jgora": {},
     "kalisz": {},
-    "kazimierz-dolny": {},
     "karpacz": {},
     "kartuzy": {},
     "kaszuby": {},
     "katowice": {},
+    "kazimierz-dolny": {},
     "kepno": {},
     "ketrzyn": {},
     "klodzko": {},
@@ -7939,8 +7929,8 @@
     "podhale": {},
     "podlasie": {},
     "polkowice": {},
-    "pomorze": {},
     "pomorskie": {},
+    "pomorze": {},
     "prochowice": {},
     "pruszkow": {},
     "przeworsk": {},
@@ -7951,11 +7941,11 @@
     "rzeszow": {},
     "sanok": {},
     "sejny": {},
+    "skoczow": {},
     "slask": {},
     "slupsk": {},
     "sosnowiec": {},
     "stalowa-wola": {},
-    "skoczow": {},
     "starachowice": {},
     "stargard": {},
     "suwalki": {},
@@ -8121,7 +8111,6 @@
   "re": {
     "asso": {},
     "com": {},
-    "nom": {},
     "blogspot": {},
     "can": {}
   },
@@ -8311,7 +8300,6 @@
     "org": {},
     "gov": {},
     "edu": {},
-    "per": {},
     "blogspot": {},
     "enscaled": {}
   },
@@ -8513,14 +8501,14 @@
     "gov": {}
   },
   "tm": {
-    "com": {},
     "co": {},
-    "org": {},
-    "net": {},
-    "nom": {},
+    "com": {},
+    "edu": {},
     "gov": {},
     "mil": {},
-    "edu": {}
+    "net": {},
+    "nom": {},
+    "org": {}
   },
   "tn": {
     "com": {},
@@ -8582,23 +8570,17 @@
     }
   },
   "tt": {
+    "biz": {},
     "co": {},
     "com": {},
-    "org": {},
-    "net": {},
-    "biz": {},
-    "info": {},
-    "pro": {},
-    "int": {},
-    "coop": {},
-    "jobs": {},
-    "mobi": {},
-    "travel": {},
-    "museum": {},
-    "aero": {},
-    "name": {},
+    "edu": {},
     "gov": {},
-    "edu": {}
+    "info": {},
+    "mil": {},
+    "name": {},
+    "net": {},
+    "org": {},
+    "pro": {}
   },
   "tv": {
     "better-than": {},
@@ -10703,6 +10685,7 @@
     "hlx3": {},
     "translated": {},
     "codeberg": {},
+    "heyflow": {},
     "prvcy": {},
     "rocky": {},
     "pdns": {},
@@ -10932,6 +10915,7 @@
     "fnwk": {},
     "folionetwork": {},
     "fastvps": {},
+    "heyflow": {},
     "jele": {},
     "jouwweb": {},
     "lelux": {},
