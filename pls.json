@@ -2301,7 +2301,9 @@
       "yali": {}
     },
     "nospamproxy": {
-      "cloud": {}
+      "cloud": {
+        "o365": {}
+      }
     },
     "4u": {},
     "nfshost": {},
@@ -3380,7 +3382,6 @@
       }
     },
     "tickets": {},
-    "upli": {},
     "webflow": {},
     "webflowtest": {},
     "editorx": {},
@@ -9130,7 +9131,9 @@
     "gv": {
       "d": {}
     },
-    "0e": {},
+    "0e": {
+      "*": {}
+    },
     "mydns": {}
   },
   "ve": {
