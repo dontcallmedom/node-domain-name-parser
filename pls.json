@@ -3226,6 +3226,7 @@
       "uk0": {}
     },
     "cleverapps": {},
+    "cloudbeesusercontent": {},
     "dappnode": {
       "dyndns": {}
     },
@@ -9052,7 +9053,9 @@
     "tec": {},
     "web": {}
   },
-  "vg": {},
+  "vg": {
+    "edu": {}
+  },
   "vi": {
     "co": {},
     "com": {},
@@ -9539,7 +9542,8 @@
         "notebook-fips": {}
       },
       "eu-central-2": {
-        "notebook": {}
+        "notebook": {},
+        "studio": {}
       },
       "eu-north-1": {
         "notebook": {},
@@ -9597,6 +9601,35 @@
     "repost": {
       "private": {
         "*": {}
+      }
+    },
+    "on": {
+      "ap-northeast-1": {
+        "transfer-webapp": {}
+      },
+      "ap-southeast-1": {
+        "transfer-webapp": {}
+      },
+      "ap-southeast-2": {
+        "transfer-webapp": {}
+      },
+      "eu-central-1": {
+        "transfer-webapp": {}
+      },
+      "eu-north-1": {
+        "transfer-webapp": {}
+      },
+      "eu-west-1": {
+        "transfer-webapp": {}
+      },
+      "us-east-1": {
+        "transfer-webapp": {}
+      },
+      "us-east-2": {
+        "transfer-webapp": {}
+      },
+      "us-west-2": {
+        "transfer-webapp": {}
       }
     }
   },
@@ -9962,7 +9995,19 @@
     "gateway": {
       "*": {}
     },
-    "hrsn": {},
+    "hrsn": {
+      "psl": {
+        "sub": {},
+        "wc": {
+          "*": {},
+          "!ignored": {},
+          "sub": {
+            "*": {},
+            "!ignored": {}
+          }
+        }
+      }
+    },
     "botdash": {},
     "is-a-good": {},
     "is-a": {},
@@ -10719,6 +10764,9 @@
   "run": {
     "development": {},
     "ravendb": {},
+    "liara": {
+      "iran": {}
+    },
     "servers": {},
     "build": {
       "*": {}
