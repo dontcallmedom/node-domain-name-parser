@@ -122,7 +122,8 @@
     "com": {},
     "net": {},
     "nom": {},
-    "org": {}
+    "org": {},
+    "obj": {}
   },
   "ai": {
     "com": {},
@@ -2249,6 +2250,7 @@
     "linodeusercontent": {
       "ip": {}
     },
+    "localtonet": {},
     "barsycenter": {},
     "barsyonline": {},
     "modelscape": {},
@@ -6437,6 +6439,9 @@
     "ggff": {},
     "localcert": {},
     "localhostcert": {},
+    "localto": {
+      "*": {}
+    },
     "barsy": {},
     "memset": {},
     "azure-api": {},
@@ -9375,6 +9380,11 @@
     "aiven": {},
     "beget": {
       "*": {}
+    },
+    "brave": {
+      "s": {
+        "*": {}
+      }
     },
     "clerk": {},
     "clerkstage": {},
