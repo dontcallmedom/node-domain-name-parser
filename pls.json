@@ -3226,6 +3226,10 @@
       }
     },
     "browsersafetymark": {},
+    "bubble": {
+      "cdn": {}
+    },
+    "bubbleapps": {},
     "bigv": {
       "uk0": {}
     },
@@ -9847,6 +9851,7 @@
     },
     "jotelulu": {},
     "kuleuven": {},
+    "laravel": {},
     "linkyard": {},
     "magentosite": {
       "*": {}
