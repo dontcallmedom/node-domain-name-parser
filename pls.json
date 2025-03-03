@@ -3087,7 +3087,8 @@
     "or": {},
     "ponpes": {},
     "sch": {},
-    "web": {}
+    "web": {},
+    "zone": {}
   },
   "ie": {
     "gov": {},
@@ -9061,6 +9062,7 @@
     "com": {},
     "e12": {},
     "edu": {},
+    "emprende": {},
     "firm": {},
     "gob": {},
     "gov": {},
@@ -9456,7 +9458,10 @@
     "vercel": {},
     "bookonline": {},
     "wdh": {},
-    "zeabur": {}
+    "zeabur": {},
+    "zerops": {
+      "*": {}
+    }
   },
   "apple": {},
   "aquarelle": {},
@@ -10426,7 +10431,6 @@
   "kaufen": {},
   "kddi": {},
   "kerryhotels": {},
-  "kerrylogistics": {},
   "kerryproperties": {},
   "kfh": {},
   "kia": {},
@@ -10489,7 +10493,6 @@
     },
     "mypep": {}
   },
-  "lipsy": {},
   "live": {
     "aem": {},
     "hlx": {},
@@ -10887,6 +10890,7 @@
   "sina": {},
   "singles": {},
   "site": {
+    "square": {},
     "canva": {
       "my": {
         "*": {}
@@ -10916,6 +10920,7 @@
     "byen": {},
     "srht": {},
     "novecore": {},
+    "cpanel": {},
     "wpsquared": {}
   },
   "ski": {},
