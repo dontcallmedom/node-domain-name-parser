@@ -5909,11 +5909,15 @@
   },
   "kr": {
     "ac": {},
+    "ai": {},
     "co": {},
     "es": {},
     "go": {},
     "hs": {},
+    "io": {},
+    "it": {},
     "kg": {},
+    "me": {},
     "mil": {},
     "ms": {},
     "ne": {},
@@ -5936,7 +5940,9 @@
     "jeonbuk": {},
     "jeonnam": {},
     "seoul": {},
-    "ulsan": {}
+    "ulsan": {},
+    "c01": {},
+    "eliv-dns": {}
   },
   "kw": {
     "com": {},
@@ -10047,6 +10053,9 @@
       }
     },
     "botdash": {},
+    "inbrowser": {
+      "*": {}
+    },
     "is-a-good": {},
     "is-a": {},
     "iserv": {},
@@ -10489,6 +10498,9 @@
     "myfritz": {},
     "cyon": {},
     "dweb": {
+      "*": {}
+    },
+    "inbrowser": {
       "*": {}
     },
     "nftstorage": {
