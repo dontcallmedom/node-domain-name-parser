@@ -1979,6 +1979,9 @@
     "cloudflare-ipfs": {},
     "trycloudflare": {},
     "co": {},
+    "devinapps": {
+      "staging": {}
+    },
     "builtwithdark": {},
     "datadetect": {
       "demo": {},
@@ -7500,6 +7503,7 @@
     "cloudns": {},
     "ip-dynamic": {},
     "ddnss": {},
+    "dpdns": {},
     "duckdns": {},
     "tunk": {},
     "blogdns": {},
@@ -10541,9 +10545,7 @@
   "maison": {},
   "makeup": {},
   "man": {},
-  "management": {
-    "router": {}
-  },
+  "management": {},
   "mango": {},
   "map": {},
   "market": {},
