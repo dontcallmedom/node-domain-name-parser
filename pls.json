@@ -10307,7 +10307,9 @@
   "giving": {},
   "glass": {},
   "gle": {},
-  "global": {},
+  "global": {
+    "appwrite": {}
+  },
   "globo": {},
   "gmail": {},
   "gmbh": {},
@@ -10510,7 +10512,13 @@
     "nftstorage": {
       "ipfs": {}
     },
-    "mypep": {}
+    "mypep": {},
+    "storacha": {
+      "ipfs": {}
+    },
+    "w3s": {
+      "ipfs": {}
+    }
   },
   "live": {
     "aem": {},
@@ -10812,6 +10820,9 @@
   "rugby": {},
   "ruhr": {},
   "run": {
+    "appwrite": {
+      "*": {}
+    },
     "development": {},
     "ravendb": {},
     "liara": {
