@@ -6474,7 +6474,6 @@
     "krellian": {},
     "ggff": {},
     "localcert": {},
-    "localhostcert": {},
     "localto": {
       "*": {}
     },
@@ -10066,19 +10065,6 @@
     "gateway": {
       "*": {}
     },
-    "hrsn": {
-      "psl": {
-        "sub": {},
-        "wc": {
-          "*": {},
-          "!ignored": {},
-          "sub": {
-            "*": {},
-            "!ignored": {}
-          }
-        }
-      }
-    },
     "botdash": {},
     "inbrowser": {
       "*": {}
@@ -10161,7 +10147,8 @@
     "vercel": {},
     "webhare": {
       "*": {}
-    }
+    },
+    "hrsn": {}
   },
   "dhl": {},
   "diamonds": {},
