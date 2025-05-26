@@ -961,9 +961,7 @@
     "zj": {},
     "canva-apps": {},
     "canvasite": {
-      "my": {
-        "*": {}
-      }
+      "my": {}
     },
     "myqnapcloud": {},
     "quickconnect": {
@@ -2732,18 +2730,57 @@
     "tm": {}
   },
   "ec": {
+    "abg": {},
+    "adm": {},
+    "agron": {},
+    "arqt": {},
+    "art": {},
+    "bar": {},
+    "chef": {},
     "com": {},
+    "cont": {},
+    "cpa": {},
+    "cue": {},
+    "dent": {},
+    "dgn": {},
+    "disco": {},
+    "doc": {},
     "edu": {},
+    "eng": {},
+    "esm": {},
     "fin": {},
+    "fot": {},
+    "gal": {},
     "gob": {},
     "gov": {},
+    "gye": {},
+    "ibr": {},
     "info": {},
     "k12": {},
+    "lat": {},
+    "loj": {},
     "med": {},
     "mil": {},
+    "mktg": {},
+    "mon": {},
     "net": {},
+    "ntr": {},
+    "odont": {},
     "org": {},
     "pro": {},
+    "prof": {},
+    "psic": {},
+    "psiq": {},
+    "pub": {},
+    "rio": {},
+    "rrpp": {},
+    "sal": {},
+    "tech": {},
+    "tul": {},
+    "tur": {},
+    "uio": {},
+    "vet": {},
+    "xxx": {},
     "base": {},
     "official": {}
   },
@@ -2919,10 +2956,12 @@
     }
   },
   "gh": {
+    "biz": {},
     "com": {},
     "edu": {},
     "gov": {},
     "mil": {},
+    "net": {},
     "org": {}
   },
   "gi": {
@@ -5962,6 +6001,7 @@
     "seoul": {},
     "ulsan": {},
     "c01": {},
+    "eliv-cdn": {},
     "eliv-dns": {},
     "mmv": {},
     "vki": {}
@@ -9435,7 +9475,9 @@
     "deta": {},
     "ondigitalocean": {},
     "easypanel": {},
-    "encr": {},
+    "encr": {
+      "frontend": {}
+    },
     "evervault": {
       "relay": {}
     },
@@ -9447,6 +9489,7 @@
     "flutterflow": {},
     "e2b": {},
     "framer": {},
+    "github": {},
     "hosted": {
       "*": {}
     },
@@ -10058,7 +10101,10 @@
     "deno": {},
     "deno-staging": {},
     "deta": {},
-    "lp": {},
+    "lp": {
+      "api": {},
+      "objects": {}
+    },
     "evervault": {
       "relay": {}
     },
@@ -10395,6 +10441,7 @@
     "myfast": {},
     "tempurl": {},
     "wpmudev": {},
+    "iserv": {},
     "jele": {},
     "mircloud": {},
     "wp2": {},
@@ -10929,9 +10976,7 @@
   "site": {
     "square": {},
     "canva": {
-      "my": {
-        "*": {}
-      }
+      "my": {}
     },
     "cloudera": {
       "*": {}
@@ -11300,7 +11345,6 @@
   "zero": {},
   "zip": {},
   "zone": {
-    "cloud66": {},
     "triton": {
       "*": {}
     },
