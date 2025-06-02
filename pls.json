@@ -131,6 +131,8 @@
     "off": {},
     "org": {},
     "uwu": {},
+    "caffeine": {},
+    "id": {},
     "framer": {}
   },
   "al": {
@@ -2638,6 +2640,7 @@
     "in-vpn": {},
     "iservschule": {},
     "mein-iserv": {},
+    "schuldock": {},
     "schulplattform": {},
     "schulserver": {},
     "test-iserv": {},
@@ -3139,6 +3142,7 @@
     "co": {},
     "desa": {},
     "go": {},
+    "kop": {},
     "mil": {},
     "my": {},
     "net": {},
@@ -3301,6 +3305,17 @@
     "darklang": {},
     "definima": {},
     "dedyn": {},
+    "icp-api": {},
+    "icp0": {
+      "raw": {
+        "*": {}
+      }
+    },
+    "icp1": {
+      "raw": {
+        "*": {}
+      }
+    },
     "qzz": {},
     "fh-muenster": {},
     "shw": {},
@@ -10650,9 +10665,7 @@
   "moda": {},
   "moe": {},
   "moi": {},
-  "mom": {
-    "ind": {}
-  },
+  "mom": {},
   "monash": {},
   "money": {},
   "monster": {},
@@ -10983,6 +10996,7 @@
     },
     "convex": {},
     "cyon": {},
+    "caffeine": {},
     "fastvps": {},
     "figma": {},
     "preview": {},
