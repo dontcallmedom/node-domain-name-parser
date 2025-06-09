@@ -694,7 +694,8 @@
     "vix": {},
     "vlog": {},
     "wiki": {},
-    "zlg": {}
+    "zlg": {},
+    "tche": {}
   },
   "bs": {
     "com": {},
@@ -2225,6 +2226,7 @@
     "pixolino": {},
     "apps-1and1": {},
     "live-website": {},
+    "webspace-host": {},
     "dopaas": {},
     "hosted-by-previder": {
       "paas": {}
@@ -2270,6 +2272,9 @@
     "lovableproject": {},
     "barsycenter": {},
     "barsyonline": {},
+    "lutrausercontent": {
+      "*": {}
+    },
     "modelscape": {},
     "mwcloudnonprod": {},
     "polyspace": {},
@@ -9509,7 +9514,10 @@
       "*": {}
     },
     "run": {
-      "*": {}
+      "*": {},
+      "mtls": {
+        "*": {}
+      }
     },
     "web": {},
     "hasura": {},
@@ -10466,6 +10474,7 @@
     "opencraft": {}
   },
   "hot": {},
+  "hotel": {},
   "hotels": {},
   "hotmail": {},
   "house": {},
@@ -10917,6 +10926,7 @@
     "val": {
       "web": {}
     },
+    "vercel": {},
     "wix": {}
   },
   "rwe": {},
