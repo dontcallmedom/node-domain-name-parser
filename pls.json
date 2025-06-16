@@ -198,6 +198,7 @@
     "dix": {}
   },
   "at": {
+    "4": {},
     "ac": {
       "sth": {}
     },
@@ -230,6 +231,7 @@
     "info": {},
     "123webseite": {},
     "priv": {},
+    "my": {},
     "myspreadshop": {},
     "12hp": {},
     "2ix": {},
@@ -2667,6 +2669,7 @@
     "my-gateway": {},
     "my-router": {},
     "spdns": {},
+    "my": {},
     "speedpartner": {
       "customer": {}
     },
@@ -2855,6 +2858,9 @@
     },
     "barsy": {},
     "spdns": {},
+    "nxa": {
+      "*": {}
+    },
     "transurl": {
       "*": {}
     },
@@ -3036,7 +3042,9 @@
     "org": {},
     "web": {}
   },
-  "gw": {},
+  "gw": {
+    "nx": {}
+  },
   "gy": {
     "co": {},
     "com": {},
@@ -10697,6 +10705,7 @@
   "netbank": {},
   "netflix": {},
   "network": {
+    "aem": {},
     "alces": {
       "*": {}
     },
@@ -10772,7 +10781,6 @@
   "page": {
     "aem": {},
     "hlx": {},
-    "hlx3": {},
     "translated": {},
     "codeberg": {},
     "heyflow": {},
@@ -10876,7 +10884,9 @@
   "rest": {},
   "restaurant": {},
   "review": {},
-  "reviews": {},
+  "reviews": {
+    "aem": {}
+  },
   "rexroth": {},
   "rich": {},
   "richardli": {},
