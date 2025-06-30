@@ -9989,14 +9989,21 @@
       },
       "fr-par": {
         "cockpit": {},
+        "ddl": {},
+        "dtwh": {},
         "fnc": {
           "functions": {}
         },
+        "ifr": {},
         "k8s": {
           "nodes": {}
         },
+        "kafk": {},
+        "mgdb": {},
+        "rdb": {},
         "s3": {},
         "s3-website": {},
+        "scbl": {},
         "whm": {}
       },
       "instances": {
@@ -10006,20 +10013,34 @@
       "k8s": {},
       "nl-ams": {
         "cockpit": {},
+        "ddl": {},
+        "dtwh": {},
+        "ifr": {},
         "k8s": {
           "nodes": {}
         },
+        "kafk": {},
+        "mgdb": {},
+        "rdb": {},
         "s3": {},
         "s3-website": {},
+        "scbl": {},
         "whm": {}
       },
       "pl-waw": {
         "cockpit": {},
+        "ddl": {},
+        "dtwh": {},
+        "ifr": {},
         "k8s": {
           "nodes": {}
         },
+        "kafk": {},
+        "mgdb": {},
+        "rdb": {},
         "s3": {},
-        "s3-website": {}
+        "s3-website": {},
+        "scbl": {}
       },
       "scalebook": {},
       "smartlabeling": {}
