@@ -2354,6 +2354,9 @@
       "static": {}
     },
     "simplesite": {},
+    "oaiusercontent": {
+      "*": {}
+    },
     "orsites": {},
     "operaunite": {},
     "customer-oci": {
