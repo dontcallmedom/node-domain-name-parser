@@ -909,6 +909,22 @@
           "*": {}
         }
       },
+      "amazonwebservices": {
+        "on": {
+          "cn-north-1": {
+            "airflow": {
+              "*": {}
+            },
+            "transfer-webapp": {}
+          },
+          "cn-northwest-1": {
+            "airflow": {
+              "*": {}
+            },
+            "transfer-webapp": {}
+          }
+        }
+      },
       "sagemaker": {
         "cn-north-1": {
           "notebook": {},
@@ -1726,6 +1742,9 @@
         "ap-southeast-4": {
           "*": {}
         },
+        "ap-southeast-5": {
+          "*": {}
+        },
         "ca-central-1": {
           "*": {}
         },
@@ -1861,6 +1880,9 @@
       "ap-southeast-5": {
         "auth": {}
       },
+      "ap-southeast-7": {
+        "auth": {}
+      },
       "ca-central-1": {
         "auth": {}
       },
@@ -1898,6 +1920,9 @@
         "auth": {}
       },
       "me-south-1": {
+        "auth": {}
+      },
+      "mx-central-1": {
         "auth": {}
       },
       "sa-east-1": {
@@ -2693,9 +2718,6 @@
     "syno-ds": {},
     "synology-diskstation": {},
     "synology-ds": {},
-    "uberspace": {
-      "*": {}
-    },
     "virtual-user": {},
     "virtualuser": {},
     "community-pro": {},
@@ -7765,7 +7787,9 @@
     "hk": {},
     "us": {},
     "toolforge": {},
-    "wmcloud": {},
+    "wmcloud": {
+      "beta": {}
+    },
     "wmflabs": {},
     "za": {}
   },
@@ -9597,6 +9621,196 @@
   "auto": {},
   "autos": {},
   "aws": {
+    "on": {
+      "af-south-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-east-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-northeast-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-northeast-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-northeast-3": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-south-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-south-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-southeast-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-southeast-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-southeast-3": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-southeast-4": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ap-southeast-5": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ca-central-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "ca-west-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-central-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-central-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-north-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-south-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-south-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-west-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-west-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "eu-west-3": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "il-central-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "me-central-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "me-south-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "sa-east-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "us-east-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "us-east-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "us-west-1": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "us-west-2": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
+      "us-gov-east-1": {
+        "transfer-webapp": {},
+        "transfer-webapp-fips": {}
+      },
+      "us-gov-west-1": {
+        "transfer-webapp": {},
+        "transfer-webapp-fips": {}
+      }
+    },
     "sagemaker": {
       "ap-northeast-1": {
         "labeling": {},
@@ -9748,35 +9962,6 @@
     "repost": {
       "private": {
         "*": {}
-      }
-    },
-    "on": {
-      "ap-northeast-1": {
-        "transfer-webapp": {}
-      },
-      "ap-southeast-1": {
-        "transfer-webapp": {}
-      },
-      "ap-southeast-2": {
-        "transfer-webapp": {}
-      },
-      "eu-central-1": {
-        "transfer-webapp": {}
-      },
-      "eu-north-1": {
-        "transfer-webapp": {}
-      },
-      "eu-west-1": {
-        "transfer-webapp": {}
-      },
-      "us-east-1": {
-        "transfer-webapp": {}
-      },
-      "us-east-2": {
-        "transfer-webapp": {}
-      },
-      "us-west-2": {
-        "transfer-webapp": {}
       }
     }
   },
