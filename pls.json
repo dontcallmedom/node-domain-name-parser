@@ -131,8 +131,6 @@
     "off": {},
     "org": {},
     "uwu": {},
-    "caffeine": {},
-    "id": {},
     "framer": {}
   },
   "al": {
@@ -1002,6 +1000,7 @@
     "otap": {
       "*": {}
     },
+    "hidns": {},
     "leadpages": {},
     "lpages": {},
     "mypi": {},
@@ -3017,8 +3016,7 @@
     "com": {},
     "edu": {},
     "net": {},
-    "org": {},
-    "biz": {}
+    "org": {}
   },
   "gm": {},
   "gn": {
@@ -3344,7 +3342,6 @@
     "darklang": {},
     "definima": {},
     "dedyn": {},
-    "icp-api": {},
     "icp0": {
       "raw": {
         "*": {}
@@ -11416,7 +11413,9 @@
   "viking": {},
   "villas": {},
   "vin": {},
-  "vip": {},
+  "vip": {
+    "hidns": {}
+  },
   "virgin": {},
   "visa": {},
   "vision": {},
