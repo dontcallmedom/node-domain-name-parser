@@ -2281,6 +2281,8 @@
         "*": {}
       }
     },
+    "on-forge": {},
+    "on-vapor": {},
     "lpusercontent": {},
     "linode": {
       "members": {},
@@ -2431,6 +2433,12 @@
     "myqnapcloud": {},
     "qualifioapp": {},
     "ladesk": {},
+    "qualyhqpartner": {
+      "*": {}
+    },
+    "qualyhqportal": {
+      "*": {}
+    },
     "qbuser": {},
     "quipelements": {
       "*": {}
@@ -2607,6 +2615,7 @@
     "tm": {}
   },
   "cz": {
+    "gov": {},
     "contentproxy9": {
       "rsc": {}
     },
@@ -6462,6 +6471,9 @@
     "debian": {},
     "definima": {},
     "deno": {},
+    "icp": {
+      "*": {}
+    },
     "at-band-camp": {},
     "blogdns": {},
     "broke-it": {},
@@ -6677,7 +6689,8 @@
       "storage": {},
       "website": {}
     },
-    "za": {}
+    "za": {},
+    "zabc": {}
   },
   "nf": {
     "arts": {},
@@ -9576,6 +9589,9 @@
     "upsun": {
       "*": {}
     },
+    "railway": {
+      "up": {}
+    },
     "replit": {
       "id": {}
     },
@@ -10431,6 +10447,9 @@
       "wf": {
         "*": {}
       }
+    },
+    "erp": {
+      "web": {}
     },
     "vercel": {},
     "webhare": {
