@@ -247,9 +247,7 @@
     "edu": {
       "act": {},
       "catholic": {},
-      "nsw": {
-        "schools": {}
-      },
+      "nsw": {},
       "nt": {},
       "qld": {},
       "sa": {},
@@ -276,7 +274,10 @@
     "sa": {},
     "tas": {},
     "vic": {},
-    "wa": {}
+    "wa": {},
+    "hrsn": {
+      "vps": {}
+    }
   },
   "aw": {
     "com": {}
@@ -2316,6 +2317,8 @@
       "eu": {}
     },
     "routingthecloud": {},
+    "same-app": {},
+    "same-preview": {},
     "mydbserver": {},
     "hostedpi": {},
     "mythic-beasts": {
@@ -6210,7 +6213,6 @@
     "craft": {},
     "edgestack": {},
     "filegear": {},
-    "glitch": {},
     "filegear-sg": {},
     "lohmus": {},
     "barsy": {},
@@ -11268,7 +11270,8 @@
     "srht": {},
     "novecore": {},
     "cpanel": {},
-    "wpsquared": {}
+    "wpsquared": {},
+    "sourcecraft": {}
   },
   "ski": {},
   "skin": {},
