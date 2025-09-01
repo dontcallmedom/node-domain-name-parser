@@ -502,6 +502,7 @@
     "am": {},
     "anani": {},
     "aparecida": {},
+    "api": {},
     "app": {},
     "arq": {},
     "art": {},
@@ -589,6 +590,7 @@
       "to": {}
     },
     "gru": {},
+    "ia": {},
     "imb": {},
     "ind": {},
     "inf": {},
@@ -679,6 +681,7 @@
     "sjc": {},
     "slg": {},
     "slz": {},
+    "social": {},
     "sorocaba": {},
     "srv": {},
     "taxi": {},
@@ -695,6 +698,7 @@
     "vix": {},
     "vlog": {},
     "wiki": {},
+    "xyz": {},
     "zlg": {},
     "tche": {}
   },
@@ -1014,7 +1018,10 @@
     "repl": {
       "id": {}
     },
-    "supabase": {}
+    "supabase": {
+      "realtime": {},
+      "storage": {}
+    }
   },
   "com": {
     "a2hosted": {},
@@ -8911,8 +8918,7 @@
       "lib": {}
     },
     "de": {
-      "cc": {},
-      "lib": {}
+      "cc": {}
     },
     "fl": {
       "k12": {},
@@ -9609,6 +9615,7 @@
     "telebit": {},
     "typedream": {},
     "vercel": {},
+    "wal": {},
     "bookonline": {},
     "wdh": {},
     "windsurf": {},
@@ -10172,6 +10179,7 @@
       "ch": {},
       "de": {}
     },
+    "jote": {},
     "jotelulu": {},
     "kuleuven": {},
     "laravel": {},
@@ -11098,7 +11106,6 @@
   "realty": {},
   "recipes": {},
   "red": {},
-  "redstone": {},
   "redumbrella": {},
   "rehab": {},
   "reise": {},
