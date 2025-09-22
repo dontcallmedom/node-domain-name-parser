@@ -2285,6 +2285,8 @@
       "jed": {},
       "ryd": {}
     },
+    "jote-dr-lt1": {},
+    "jote-rd-lt1": {},
     "webadorsite": {},
     "joyent": {
       "cns": {
@@ -11268,6 +11270,7 @@
     "omniwe": {},
     "opensocial": {},
     "madethis": {},
+    "support": {},
     "platformsh": {
       "*": {}
     },
