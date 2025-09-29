@@ -1035,8 +1035,6 @@
       }
     },
     "africa": {},
-    "airkitapps": {},
-    "airkitapps-au": {},
     "aivencloud": {},
     "alibabacloudcs": {},
     "kasserver": {},
@@ -2004,6 +2002,7 @@
     "bplaced": {},
     "cafjs": {},
     "canva-apps": {},
+    "rice-labs": {},
     "cdn77-storage": {},
     "br": {},
     "cn": {},
@@ -2744,7 +2743,10 @@
     "virtual-user": {},
     "virtualuser": {},
     "community-pro": {},
-    "diskussionsbereich": {}
+    "diskussionsbereich": {},
+    "xenonconnect": {
+      "*": {}
+    }
   },
   "dj": {},
   "dk": {
@@ -2899,7 +2901,6 @@
     "org": {}
   },
   "eu": {
-    "airkitapps": {},
     "cloudns": {},
     "dogado": {
       "jelastic": {}
@@ -3210,6 +3211,7 @@
     "ponpes": {},
     "sch": {},
     "web": {},
+    "e": {},
     "zone": {}
   },
   "ie": {
@@ -8413,6 +8415,7 @@
       "eu": {},
       "us": {}
     },
+    "teleport": {},
     "now": {}
   },
   "si": {
@@ -11153,6 +11156,7 @@
     "appwrite": {
       "*": {}
     },
+    "canva": {},
     "development": {},
     "ravendb": {},
     "liara": {
