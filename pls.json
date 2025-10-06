@@ -775,6 +775,7 @@
   "cat": {},
   "cc": {
     "cleverapps": {},
+    "cloud-ip": {},
     "cloudns": {},
     "ftpaccess": {},
     "game-server": {},
@@ -2020,6 +2021,7 @@
         "*": {}
       }
     },
+    "abrdns": {},
     "dnsabr": {},
     "ip-ddns": {},
     "jdevcloud": {},
@@ -9585,6 +9587,7 @@
     "hackclub": {},
     "hasura": {},
     "botdash": {},
+    "leapcell": {},
     "loginline": {},
     "lovable": {},
     "luyani": {},
@@ -10393,6 +10396,7 @@
     "is-a-good": {},
     "is-a": {},
     "iserv": {},
+    "leapcell": {},
     "runcontainers": {},
     "localcert": {
       "user": {
@@ -10720,6 +10724,7 @@
     "iserv": {},
     "jele": {},
     "mircloud": {},
+    "bolt": {},
     "wp2": {},
     "half": {}
   },
@@ -11007,6 +11012,7 @@
     "eero": {},
     "eero-stage": {},
     "websitebuilder": {},
+    "leapcell": {},
     "barsy": {}
   },
   "ooo": {},
