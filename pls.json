@@ -6596,7 +6596,6 @@
     "uni5": {},
     "krellian": {},
     "ggff": {},
-    "localcert": {},
     "localto": {
       "*": {}
     },
@@ -6700,6 +6699,7 @@
     },
     "vusercontent": {},
     "reserve-online": {},
+    "localcert": {},
     "community-pro": {},
     "meinforum": {},
     "yandexcloud": {
@@ -10394,7 +10394,6 @@
       "*": {}
     },
     "is-a-good": {},
-    "is-a": {},
     "iserv": {},
     "leapcell": {},
     "runcontainers": {},
@@ -10476,7 +10475,8 @@
     "webhare": {
       "*": {}
     },
-    "hrsn": {}
+    "hrsn": {},
+    "is-a": {}
   },
   "dhl": {},
   "diamonds": {},
