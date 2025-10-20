@@ -2003,6 +2003,8 @@
     "bplaced": {},
     "cafjs": {},
     "canva-apps": {},
+    "canva-hosted-embed": {},
+    "canvacode": {},
     "rice-labs": {},
     "cdn77-storage": {},
     "br": {},
@@ -2286,8 +2288,9 @@
       "jed": {},
       "ryd": {}
     },
-    "jote-dr-lt1": {},
-    "jote-rd-lt1": {},
+    "eu1-plenit": {},
+    "la1-plenit": {},
+    "us1-plenit": {},
     "webadorsite": {},
     "joyent": {
       "cns": {
@@ -11002,7 +11005,8 @@
     "kin": {
       "*": {}
     },
-    "service": {}
+    "service": {},
+    "website": {}
   },
   "ong": {
     "obl": {}
@@ -11614,6 +11618,7 @@
   "广东": {},
   "政务": {},
   "xyz": {
+    "caffeine": {},
     "botdash": {},
     "telebit": {
       "*": {}
