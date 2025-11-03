@@ -323,7 +323,20 @@
     "tv": {}
   },
   "bd": {
-    "*": {}
+    "ac": {},
+    "ai": {},
+    "co": {},
+    "com": {},
+    "edu": {},
+    "gov": {},
+    "id": {},
+    "info": {},
+    "it": {},
+    "mil": {},
+    "net": {},
+    "org": {},
+    "sch": {},
+    "tv": {}
   },
   "be": {
     "ac": {},
@@ -2915,6 +2928,7 @@
     "nxa": {
       "*": {}
     },
+    "directwp": {},
     "transurl": {
       "*": {}
     },
@@ -3388,6 +3402,7 @@
     "forgerock": {
       "id": {}
     },
+    "gitbook": {},
     "github": {},
     "gitlab": {},
     "lolipop": {},
@@ -9224,6 +9239,7 @@
     "firm": {},
     "gob": {},
     "gov": {},
+    "ia": {},
     "info": {},
     "int": {},
     "mil": {},
@@ -9554,6 +9570,7 @@
     },
     "clerk": {},
     "clerkstage": {},
+    "cloudflare": {},
     "wnext": {},
     "csb": {
       "preview": {}
@@ -9629,6 +9646,7 @@
     "typedream": {},
     "vercel": {},
     "wal": {},
+    "wasmer": {},
     "bookonline": {},
     "wdh": {},
     "windsurf": {},
@@ -11041,6 +11059,7 @@
     "heyflow": {},
     "prvcy": {},
     "rocky": {},
+    "statichost": {},
     "pdns": {},
     "plesk": {}
   },
