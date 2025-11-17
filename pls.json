@@ -885,6 +885,9 @@
           "emrappui-prod": {},
           "emrnotebooks-prod": {},
           "emrstudio-prod": {},
+          "rds": {
+            "*": {}
+          },
           "dualstack": {
             "s3": {},
             "s3-accesspoint": {},
@@ -901,6 +904,9 @@
           "emrappui-prod": {},
           "emrnotebooks-prod": {},
           "emrstudio-prod": {},
+          "rds": {
+            "*": {}
+          },
           "dualstack": {
             "s3": {},
             "s3-accesspoint": {}
@@ -1038,7 +1044,8 @@
     "supabase": {
       "realtime": {},
       "storage": {}
-    }
+    },
+    "umso": {}
   },
   "com": {
     "a2hosted": {},
@@ -1767,6 +1774,9 @@
         "ap-southeast-5": {
           "*": {}
         },
+        "ap-southeast-7": {
+          "*": {}
+        },
         "ca-central-1": {
           "*": {}
         },
@@ -1813,6 +1823,110 @@
           "*": {}
         },
         "us-east-2": {
+          "*": {}
+        },
+        "us-west-1": {
+          "*": {}
+        },
+        "us-west-2": {
+          "*": {}
+        }
+      },
+      "rds": {
+        "af-south-1": {
+          "*": {}
+        },
+        "ap-east-1": {
+          "*": {}
+        },
+        "ap-east-2": {
+          "*": {}
+        },
+        "ap-northeast-1": {
+          "*": {}
+        },
+        "ap-northeast-2": {
+          "*": {}
+        },
+        "ap-northeast-3": {
+          "*": {}
+        },
+        "ap-south-1": {
+          "*": {}
+        },
+        "ap-south-2": {
+          "*": {}
+        },
+        "ap-southeast-1": {
+          "*": {}
+        },
+        "ap-southeast-2": {
+          "*": {}
+        },
+        "ap-southeast-3": {
+          "*": {}
+        },
+        "ap-southeast-4": {
+          "*": {}
+        },
+        "ap-southeast-5": {
+          "*": {}
+        },
+        "ap-southeast-6": {
+          "*": {}
+        },
+        "ap-southeast-7": {
+          "*": {}
+        },
+        "ca-central-1": {
+          "*": {}
+        },
+        "ca-west-1": {
+          "*": {}
+        },
+        "eu-central-1": {
+          "*": {}
+        },
+        "eu-central-2": {
+          "*": {}
+        },
+        "eu-west-1": {
+          "*": {}
+        },
+        "eu-west-2": {
+          "*": {}
+        },
+        "eu-west-3": {
+          "*": {}
+        },
+        "il-central-1": {
+          "*": {}
+        },
+        "me-central-1": {
+          "*": {}
+        },
+        "me-south-1": {
+          "*": {}
+        },
+        "mx-central-1": {
+          "*": {}
+        },
+        "sa-east-1": {
+          "*": {}
+        },
+        "us-east-1": {
+          "*": {}
+        },
+        "us-east-2": {
+          "*": {}
+        },
+        "us-gov-east-1": {
+          "*": {}
+        },
+        "us-gov-west-1": {
+          "*": {}
+        },
+        "us-northeast-1": {
           "*": {}
         },
         "us-west-1": {
@@ -1988,14 +2102,18 @@
       "ap-southeast-1": {},
       "ap-southeast-2": {},
       "ap-southeast-3": {},
+      "ap-southeast-5": {},
+      "ap-southeast-7": {},
       "ca-central-1": {},
       "eu-central-1": {},
       "eu-north-1": {},
       "eu-south-1": {},
+      "eu-south-2": {},
       "eu-west-1": {},
       "eu-west-2": {},
       "eu-west-3": {},
       "il-central-1": {},
+      "me-central-1": {},
       "me-south-1": {},
       "sa-east-1": {},
       "us-east-1": {},
@@ -2348,6 +2466,7 @@
     "same-app": {},
     "same-preview": {},
     "mydbserver": {},
+    "mochausercontent": {},
     "hostedpi": {},
     "mythic-beasts": {
       "caracal": {},
@@ -2954,7 +3073,9 @@
     "ac": {},
     "biz": {},
     "com": {},
+    "edu": {},
     "gov": {},
+    "id": {},
     "info": {},
     "mil": {},
     "name": {},
@@ -3030,6 +3151,12 @@
     "co": {},
     "net": {},
     "org": {},
+    "ply": {
+      "at": {
+        "*": {}
+      },
+      "d6": {}
+    },
     "botdash": {},
     "kaas": {},
     "stackit": {},
@@ -6428,7 +6555,8 @@
     },
     "his": {
       "forgot": {}
-    }
+    },
+    "ispmanager": {}
   },
   "nc": {
     "asso": {},
@@ -6511,6 +6639,7 @@
     "icp": {
       "*": {}
     },
+    "de5": {},
     "at-band-camp": {},
     "blogdns": {},
     "broke-it": {},
@@ -6717,6 +6846,7 @@
     "torproject": {
       "pages": {}
     },
+    "tunnelmole": {},
     "vusercontent": {},
     "reserve-online": {},
     "localcert": {},
@@ -7007,8 +7137,6 @@
     "bievát": {},
     "bindal": {},
     "birkenes": {},
-    "bjarkoy": {},
-    "bjarkøy": {},
     "bjerkreim": {},
     "bjugn": {},
     "bodo": {},
@@ -7295,7 +7423,6 @@
     },
     "moskenes": {},
     "moss": {},
-    "mosvik": {},
     "muosat": {},
     "muosát": {},
     "naamesjevuemie": {},
@@ -9615,7 +9742,7 @@
     "luyani": {},
     "medusajs": {},
     "messerli": {},
-    "netfy": {},
+    "mocha": {},
     "netlify": {},
     "ngrok": {},
     "ngrok-free": {},
@@ -9683,36 +9810,42 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-east-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-northeast-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-northeast-2": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-northeast-3": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-south-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-south-2": {
@@ -9725,18 +9858,21 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-southeast-2": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-southeast-3": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ap-southeast-4": {
@@ -9755,6 +9891,7 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "ca-west-1": {
@@ -9767,6 +9904,7 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "eu-central-2": {
@@ -9779,12 +9917,14 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "eu-south-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "eu-south-2": {
@@ -9797,18 +9937,21 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "eu-west-2": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "eu-west-3": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "il-central-1": {
@@ -9827,36 +9970,42 @@
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "sa-east-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "us-east-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "us-east-2": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "us-west-1": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "us-west-2": {
         "airflow": {
           "*": {}
         },
+        "lambda-url": {},
         "transfer-webapp": {}
       },
       "us-gov-east-1": {
@@ -10170,6 +10319,7 @@
   "cloud": {
     "convex": {},
     "elementor": {},
+    "emergent": {},
     "encoway": {
       "eu": {}
     },
@@ -10429,6 +10579,7 @@
     "loginline": {},
     "barsy": {},
     "mediatech": {},
+    "mocha-sandbox": {},
     "modx": {},
     "ngrok": {},
     "ngrok-free": {},
@@ -10740,6 +10891,7 @@
     "cloudaccess": {},
     "freesite": {},
     "easypanel": {},
+    "emergent": {},
     "fastvps": {},
     "myfast": {},
     "tempurl": {},
@@ -10866,6 +11018,7 @@
   "link": {
     "myfritz": {},
     "cyon": {},
+    "joinmc": {},
     "dweb": {
       "*": {}
     },
@@ -11104,7 +11257,14 @@
   "play": {},
   "playstation": {},
   "plumbing": {},
-  "plus": {},
+  "plus": {
+    "playit": {
+      "at": {
+        "*": {}
+      },
+      "with": {}
+    }
+  },
   "pnc": {},
   "pohl": {},
   "poker": {},
@@ -11296,12 +11456,14 @@
     "caffeine": {},
     "fastvps": {},
     "figma": {},
+    "figma-gov": {},
     "preview": {},
     "heyflow": {},
     "jele": {},
     "jouwweb": {},
     "loginline": {},
     "barsy": {},
+    "co": {},
     "notion": {},
     "omniwe": {},
     "opensocial": {},
