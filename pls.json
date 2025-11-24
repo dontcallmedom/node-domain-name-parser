@@ -3039,6 +3039,7 @@
   },
   "eu": {
     "cloudns": {},
+    "prvw": {},
     "dogado": {
       "jelastic": {}
     },
@@ -9777,7 +9778,6 @@
     "wal": {},
     "wasmer": {},
     "bookonline": {},
-    "wdh": {},
     "windsurf": {},
     "zeabur": {},
     "zerops": {
