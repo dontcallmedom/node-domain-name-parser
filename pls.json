@@ -1056,6 +1056,9 @@
       }
     },
     "africa": {},
+    "auiusercontent": {
+      "*": {}
+    },
     "aivencloud": {},
     "alibabacloudcs": {},
     "kasserver": {},
@@ -2696,6 +2699,7 @@
       "u2": {},
       "u2-local": {}
     },
+    "xtooldevice": {},
     "yolasite": {}
   },
   "coop": {},
@@ -3358,6 +3362,7 @@
     "ponpes": {},
     "sch": {},
     "web": {},
+    "ᬩᬮᬶ": {},
     "e": {},
     "zone": {}
   },
@@ -6773,6 +6778,10 @@
     "azurewebsites": {},
     "cloudapp": {},
     "trafficmanager": {},
+    "usgovcloudapi": {
+      "servicebus": {}
+    },
+    "usgovcloudapp": {},
     "windows": {
       "core": {
         "blob": {}
@@ -9316,6 +9325,8 @@
       "phx": {}
     },
     "mircloud": {},
+    "azure-api": {},
+    "azurewebsites": {},
     "ngo": {},
     "golffan": {},
     "noip": {},
@@ -9723,6 +9734,7 @@
     "flutterflow": {},
     "e2b": {},
     "framer": {},
+    "gadget": {},
     "github": {},
     "hosted": {
       "*": {}
@@ -10533,6 +10545,11 @@
     "myaddr": {},
     "panel": {},
     "bearblog": {},
+    "brave": {
+      "s": {
+        "*": {}
+      }
+    },
     "lcl": {
       "*": {}
     },
@@ -10563,6 +10580,7 @@
     "gateway": {
       "*": {}
     },
+    "grebedoc": {},
     "botdash": {},
     "inbrowser": {
       "*": {}
@@ -10894,6 +10912,7 @@
     "emergent": {},
     "fastvps": {},
     "myfast": {},
+    "gadget": {},
     "tempurl": {},
     "wpmudev": {},
     "iserv": {},
@@ -11181,9 +11200,7 @@
     "service": {},
     "website": {}
   },
-  "ong": {
-    "obl": {}
-  },
+  "ong": {},
   "onl": {},
   "online": {
     "eero": {},
