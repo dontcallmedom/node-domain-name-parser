@@ -1035,6 +1035,14 @@
     "xmit": {
       "*": {}
     },
+    "rdpa": {
+      "clusters": {
+        "*": {}
+      },
+      "srvrless": {
+        "*": {}
+      }
+    },
     "firewalledreplit": {
       "id": {}
     },
@@ -2344,6 +2352,9 @@
     "loseyourip": {},
     "ooguy": {},
     "theworkpc": {},
+    "emergentagent": {
+      "preview": {}
+    },
     "mytuleap": {},
     "tuleap-partners": {},
     "encoreapi": {},
@@ -8460,7 +8471,6 @@
     "net": {},
     "org": {},
     "pp": {},
-    "lk3": {},
     "ras": {}
   },
   "rw": {
