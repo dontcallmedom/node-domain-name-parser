@@ -790,6 +790,7 @@
     "cleverapps": {},
     "cloud-ip": {},
     "cloudns": {},
+    "ccwu": {},
     "ftpaccess": {},
     "game-server": {},
     "myphotos": {},
@@ -802,7 +803,8 @@
     }
   },
   "cd": {
-    "gov": {}
+    "gov": {},
+    "cc": {}
   },
   "cf": {},
   "cg": {},
@@ -857,7 +859,8 @@
     "int": {},
     "net": {},
     "or": {},
-    "org": {}
+    "org": {},
+    "us": {}
   },
   "ck": {
     "*": {},
@@ -1056,6 +1059,8 @@
     "umso": {}
   },
   "com": {
+    "hercules-app": {},
+    "hercules-dev": {},
     "a2hosted": {},
     "cpserver": {},
     "adobeaemcloud": {
@@ -2375,7 +2380,6 @@
     "mydobiss": {},
     "firebaseapp": {},
     "fldrv": {},
-    "forgeblocks": {},
     "framercanvas": {},
     "freebox-os": {},
     "freeboxos": {},
@@ -2464,6 +2468,7 @@
     "lutrausercontent": {
       "*": {}
     },
+    "magicpatternsapp": {},
     "modelscape": {},
     "mwcloudnonprod": {},
     "polyspace": {},
@@ -2578,6 +2583,7 @@
     "paywhirl": {
       "*": {}
     },
+    "forgeblocks": {},
     "upsunapp": {},
     "postman-echo": {},
     "prgmr": {
@@ -3124,7 +3130,6 @@
     "cci": {},
     "greta": {},
     "huissier-justice": {},
-    "en-root": {},
     "fbx-os": {},
     "fbxos": {},
     "freebox-os": {},
@@ -3262,6 +3267,106 @@
     "gov": {},
     "net": {},
     "org": {}
+  },
+  "app": {
+    "onhercules": {},
+    "adaptable": {},
+    "aiven": {},
+    "beget": {
+      "*": {}
+    },
+    "brave": {
+      "s": {
+        "*": {}
+      }
+    },
+    "clerk": {},
+    "clerkstage": {},
+    "cloudflare": {},
+    "wnext": {},
+    "csb": {
+      "preview": {}
+    },
+    "convex": {},
+    "deta": {},
+    "ondigitalocean": {},
+    "easypanel": {},
+    "encr": {
+      "frontend": {}
+    },
+    "evervault": {
+      "relay": {}
+    },
+    "expo": {
+      "staging": {}
+    },
+    "edgecompute": {},
+    "on-fleek": {},
+    "flutterflow": {},
+    "sprites": {},
+    "e2b": {},
+    "framer": {},
+    "gadget": {},
+    "github": {},
+    "hosted": {
+      "*": {}
+    },
+    "run": {
+      "*": {},
+      "mtls": {
+        "*": {}
+      }
+    },
+    "web": {},
+    "hackclub": {},
+    "hasura": {},
+    "botdash": {},
+    "leapcell": {},
+    "loginline": {},
+    "lovable": {},
+    "luyani": {},
+    "magicpatterns": {},
+    "medusajs": {},
+    "messerli": {},
+    "mocha": {},
+    "netlify": {},
+    "ngrok": {},
+    "ngrok-free": {},
+    "developer": {
+      "*": {}
+    },
+    "noop": {},
+    "northflank": {
+      "*": {}
+    },
+    "upsun": {
+      "*": {}
+    },
+    "railway": {
+      "up": {}
+    },
+    "replit": {
+      "id": {}
+    },
+    "nyat": {},
+    "snowflake": {
+      "*": {},
+      "privatelink": {
+        "*": {}
+      }
+    },
+    "streamlit": {},
+    "telebit": {},
+    "typedream": {},
+    "vercel": {},
+    "wal": {},
+    "wasmer": {},
+    "bookonline": {},
+    "windsurf": {},
+    "zeabur": {},
+    "zerops": {
+      "*": {}
+    }
   },
   "hk": {
     "com": {},
@@ -3458,6 +3563,7 @@
     "up": {},
     "us": {},
     "cloudns": {},
+    "indevs": {},
     "barsy": {},
     "web": {},
     "supabase": {}
@@ -3544,10 +3650,6 @@
     },
     "qzz": {},
     "fh-muenster": {},
-    "shw": {},
-    "forgerock": {
-      "id": {}
-    },
     "gitbook": {},
     "github": {},
     "gitlab": {},
@@ -3584,6 +3686,9 @@
       "stage": {}
     },
     "pantheonsite": {},
+    "forgerock": {
+      "id": {}
+    },
     "pstmn": {
       "mock": {}
     },
@@ -6716,7 +6821,6 @@
     "fastlylb": {
       "map": {}
     },
-    "edgeapp": {},
     "keyword-on": {},
     "live-on": {},
     "server-on": {},
@@ -8645,6 +8749,9 @@
     "saotome": {},
     "store": {},
     "helioho": {},
+    "cn": {
+      "*": {}
+    },
     "kirara": {},
     "noho": {}
   },
@@ -9346,7 +9453,6 @@
       "gh": {},
       "gl": {}
     },
-    "platterp": {},
     "servername": {}
   },
   "uy": {
@@ -9708,105 +9814,52 @@
   "anz": {},
   "aol": {},
   "apartments": {},
-  "app": {
-    "adaptable": {},
-    "aiven": {},
-    "beget": {
-      "*": {}
-    },
-    "brave": {
-      "s": {
-        "*": {}
+  "apple": {
+    "int": {
+      "cloud": {
+        "*": {},
+        "r": {
+          "*": {},
+          "ap-north-1": {
+            "*": {}
+          },
+          "ap-south-1": {
+            "*": {}
+          },
+          "ap-south-2": {
+            "*": {}
+          },
+          "eu-central-1": {
+            "*": {}
+          },
+          "eu-north-1": {
+            "*": {}
+          },
+          "us-central-1": {
+            "*": {}
+          },
+          "us-central-2": {
+            "*": {}
+          },
+          "us-east-1": {
+            "*": {}
+          },
+          "us-east-2": {
+            "*": {}
+          },
+          "us-west-1": {
+            "*": {}
+          },
+          "us-west-2": {
+            "*": {}
+          },
+          "us-west-3": {
+            "*": {}
+          }
+        }
       }
-    },
-    "clerk": {},
-    "clerkstage": {},
-    "cloudflare": {},
-    "wnext": {},
-    "csb": {
-      "preview": {}
-    },
-    "convex": {},
-    "deta": {},
-    "ondigitalocean": {},
-    "easypanel": {},
-    "encr": {
-      "frontend": {}
-    },
-    "evervault": {
-      "relay": {}
-    },
-    "expo": {
-      "staging": {}
-    },
-    "edgecompute": {},
-    "on-fleek": {},
-    "flutterflow": {},
-    "e2b": {},
-    "framer": {},
-    "gadget": {},
-    "github": {},
-    "hosted": {
-      "*": {}
-    },
-    "run": {
-      "*": {},
-      "mtls": {
-        "*": {}
-      }
-    },
-    "web": {},
-    "hackclub": {},
-    "hasura": {},
-    "botdash": {},
-    "leapcell": {},
-    "loginline": {},
-    "lovable": {},
-    "luyani": {},
-    "medusajs": {},
-    "messerli": {},
-    "mocha": {},
-    "netlify": {},
-    "ngrok": {},
-    "ngrok-free": {},
-    "developer": {
-      "*": {}
-    },
-    "noop": {},
-    "northflank": {
-      "*": {}
-    },
-    "upsun": {
-      "*": {}
-    },
-    "railway": {
-      "up": {}
-    },
-    "replit": {
-      "id": {}
-    },
-    "nyat": {},
-    "snowflake": {
-      "*": {},
-      "privatelink": {
-        "*": {}
-      }
-    },
-    "streamlit": {},
-    "storipress": {},
-    "telebit": {},
-    "typedream": {},
-    "vercel": {},
-    "wal": {},
-    "wasmer": {},
-    "bookonline": {},
-    "windsurf": {},
-    "zeabur": {},
-    "zerops": {
-      "*": {}
     }
   },
-  "apple": {},
   "aquarelle": {},
   "arab": {},
   "aramco": {},
@@ -10302,7 +10355,9 @@
       "ui": {}
     }
   },
-  "case": {},
+  "case": {
+    "sav": {}
+  },
   "cash": {},
   "casino": {},
   "catering": {},
@@ -10339,6 +10394,7 @@
   "clinique": {},
   "clothing": {},
   "cloud": {
+    "antagonist": {},
     "convex": {},
     "elementor": {},
     "emergent": {},
@@ -11164,6 +11220,7 @@
     "alces": {
       "*": {}
     },
+    "appwrite": {},
     "co": {},
     "arvo": {},
     "azimuth": {},
@@ -11720,7 +11777,9 @@
   "wme": {},
   "wolterskluwer": {},
   "woodside": {},
-  "work": {},
+  "work": {
+    "imagine-proxy": {}
+  },
   "works": {},
   "world": {},
   "wow": {},
