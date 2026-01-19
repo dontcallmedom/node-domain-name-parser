@@ -131,7 +131,8 @@
     "off": {},
     "org": {},
     "uwu": {},
-    "framer": {}
+    "framer": {},
+    "kiloapps": {}
   },
   "al": {
     "com": {},
@@ -2709,6 +2710,7 @@
     "wiardweb": {
       "pages": {}
     },
+    "base44-sandbox": {},
     "wixsite": {},
     "wixstudio": {},
     "messwithdns": {},
@@ -3563,6 +3565,7 @@
       "sekd1": {}
     },
     "jele": {},
+    "kiloapps": {},
     "webthings": {},
     "loginline": {},
     "barsy": {},
@@ -9808,6 +9811,7 @@
     "wasmer": {},
     "bookonline": {},
     "windsurf": {},
+    "base44": {},
     "zeabur": {},
     "zerops": {
       "*": {}
