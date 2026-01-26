@@ -1670,7 +1670,8 @@
           "s3": {},
           "s3-accesspoint": {},
           "s3-accesspoint-fips": {},
-          "s3-fips": {}
+          "s3-fips": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -1688,7 +1689,8 @@
           "s3": {},
           "s3-accesspoint": {},
           "s3-accesspoint-fips": {},
-          "s3-fips": {}
+          "s3-fips": {},
+          "s3-website": {}
         },
         "s3": {},
         "s3-accesspoint": {},
@@ -3057,6 +3059,15 @@
     "org": {}
   },
   "eu": {
+    "amazonwebservices": {
+      "on": {
+        "eusc-de-east-1": {
+          "cognito-idp": {
+            "auth": {}
+          }
+        }
+      }
+    },
     "cloudns": {},
     "prvw": {},
     "deuxfleurs": {},
@@ -9735,6 +9746,7 @@
       "preview": {}
     },
     "convex": {},
+    "corespeed": {},
     "deta": {},
     "ondigitalocean": {},
     "easypanel": {},
@@ -9769,6 +9781,7 @@
     "hasura": {},
     "onhercules": {},
     "botdash": {},
+    "shiptoday": {},
     "leapcell": {},
     "loginline": {},
     "lovable": {},
@@ -9776,6 +9789,7 @@
     "magicpatterns": {},
     "medusajs": {},
     "messerli": {},
+    "miren": {},
     "mocha": {},
     "netlify": {},
     "ngrok": {},
@@ -9804,6 +9818,7 @@
       }
     },
     "streamlit": {},
+    "spawnbase": {},
     "telebit": {},
     "typedream": {},
     "vercel": {},
@@ -10086,6 +10101,12 @@
         "lambda-url": {},
         "transfer-webapp": {}
       },
+      "ap-southeast-7": {
+        "transfer-webapp": {}
+      },
+      "mx-central-1": {
+        "transfer-webapp": {}
+      },
       "us-gov-east-1": {
         "transfer-webapp": {},
         "transfer-webapp-fips": {}
@@ -10318,6 +10339,7 @@
   "brother": {},
   "brussels": {},
   "build": {
+    "shiptoday": {},
     "v0": {},
     "windsurf": {}
   },
@@ -10755,7 +10777,9 @@
   "discount": {},
   "discover": {},
   "dish": {},
-  "diy": {},
+  "diy": {
+    "discourse": {}
+  },
   "dnp": {},
   "docs": {},
   "doctor": {},
@@ -11637,7 +11661,8 @@
   "swiss": {},
   "sydney": {},
   "systems": {
-    "knightpoint": {}
+    "knightpoint": {},
+    "miren": {}
   },
   "tab": {},
   "taipei": {},
