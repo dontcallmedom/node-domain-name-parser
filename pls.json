@@ -2355,14 +2355,21 @@
     "space-to-rent": {},
     "teaches-yoga": {},
     "writesthisblog": {},
+    "1cooldns": {},
+    "bumbleshrimp": {},
     "ddnsfree": {},
     "ddnsgeek": {},
+    "ddnsguru": {},
+    "dynuddns": {},
+    "dynuhosting": {},
     "giize": {},
     "gleeze": {},
     "kozow": {},
     "loseyourip": {},
     "ooguy": {},
+    "pivohosting": {},
     "theworkpc": {},
+    "wiredbladehosting": {},
     "emergentagent": {
       "preview": {}
     },
@@ -2449,11 +2456,6 @@
     "la1-plenit": {},
     "us1-plenit": {},
     "webadorsite": {},
-    "joyent": {
-      "cns": {
-        "*": {}
-      }
-    },
     "on-forge": {},
     "on-vapor": {},
     "lpusercontent": {},
@@ -4096,7 +4098,6 @@
     "vs": {},
     "vt": {},
     "vv": {},
-    "12chars": {},
     "ibxos": {},
     "iliadboxos": {},
     "neen": {
@@ -6712,6 +6713,10 @@
     "webhop": {},
     "casacam": {},
     "dynu": {},
+    "dynuddns": {},
+    "mysynology": {},
+    "opik": {},
+    "spryt": {},
     "dynv6": {},
     "twmail": {},
     "ru": {},
@@ -6807,12 +6812,20 @@
     "cloudapp": {},
     "trafficmanager": {},
     "usgovcloudapi": {
+      "core": {
+        "blob": {},
+        "file": {},
+        "web": {}
+      },
       "servicebus": {}
     },
     "usgovcloudapp": {},
+    "usgovtrafficmanager": {},
     "windows": {
       "core": {
-        "blob": {}
+        "blob": {},
+        "file": {},
+        "web": {}
       },
       "servicebus": {}
     },
@@ -7889,6 +7902,7 @@
     "camdvr": {},
     "freeddns": {},
     "mywire": {},
+    "roxa": {},
     "webredirect": {},
     "twmail": {},
     "eu": {
@@ -8351,7 +8365,6 @@
     "law": {},
     "med": {},
     "recht": {},
-    "12chars": {},
     "cloudns": {},
     "keenetic": {},
     "barsy": {},
@@ -10635,7 +10648,6 @@
     "bss": {}
   },
   "dev": {
-    "12chars": {},
     "myaddr": {},
     "panel": {},
     "bearblog": {},
@@ -10984,7 +10996,6 @@
   "gold": {},
   "goldpoint": {},
   "golf": {},
-  "goo": {},
   "goodyear": {},
   "goog": {
     "cloud": {},
