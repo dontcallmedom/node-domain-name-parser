@@ -6671,7 +6671,9 @@
     "mydatto": {},
     "debian": {},
     "definima": {},
-    "deno": {},
+    "deno": {
+      "sandbox": {}
+    },
     "icp": {
       "*": {}
     },
@@ -9493,6 +9495,7 @@
     "hatinh": {},
     "haugiang": {},
     "hoabinh": {},
+    "hue": {},
     "hungyen": {},
     "khanhhoa": {},
     "kiengiang": {},
@@ -10436,7 +10439,10 @@
   "clothing": {},
   "cloud": {
     "antagonist": {},
-    "convex": {},
+    "convex": {
+      "eu-west-1": {},
+      "us-east-1": {}
+    },
     "elementor": {},
     "emergent": {},
     "encoway": {
@@ -10832,7 +10838,8 @@
   "discover": {},
   "dish": {},
   "diy": {
-    "discourse": {}
+    "discourse": {},
+    "imagine": {}
   },
   "dnp": {},
   "docs": {},
@@ -11619,7 +11626,10 @@
     "cloudera": {
       "*": {}
     },
-    "convex": {},
+    "convex": {
+      "eu-west-1": {},
+      "us-east-1": {}
+    },
     "cyon": {},
     "caffeine": {},
     "fastvps": {},
