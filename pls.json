@@ -6186,7 +6186,11 @@
     "ae": {}
   },
   "kh": {
-    "*": {}
+    "com": {},
+    "edu": {},
+    "gov": {},
+    "net": {},
+    "org": {}
   },
   "ki": {
     "biz": {},
@@ -6413,6 +6417,7 @@
     "c66": {},
     "craft": {},
     "edgestack": {},
+    "mybox": {},
     "filegear": {},
     "filegear-sg": {},
     "lohmus": {},
@@ -10442,6 +10447,9 @@
   "clothing": {},
   "cloud": {
     "antagonist": {},
+    "begetcdn": {
+      "*": {}
+    },
     "convex": {
       "eu-west-1": {},
       "us-east-1": {}
@@ -10600,7 +10608,9 @@
     "ravendb": {},
     "myforum": {}
   },
-  "company": {},
+  "company": {
+    "mybox": {}
+  },
   "compare": {},
   "computer": {},
   "comsec": {},
@@ -10869,6 +10879,7 @@
     "crisp": {
       "on": {}
     },
+    "intouch": {},
     "tawk": {
       "p": {}
     },
@@ -11386,6 +11397,7 @@
     "hlx": {},
     "codeberg": {},
     "deuxfleurs": {},
+    "mybox": {},
     "heyflow": {},
     "prvcy": {},
     "rocky": {},
