@@ -349,6 +349,7 @@
     "kuleuven": {
       "ezproxy": {}
     },
+    "my": {},
     "123website": {},
     "myspreadshop": {},
     "transurl": {
@@ -2482,7 +2483,6 @@
     "modelscape": {},
     "mwcloudnonprod": {},
     "polyspace": {},
-    "mazeplay": {},
     "miniserver": {},
     "atmeta": {},
     "fbsbx": {
@@ -10971,7 +10971,9 @@
   "frontier": {},
   "ftr": {},
   "fujitsu": {},
-  "fun": {},
+  "fun": {
+    "ms": {}
+  },
   "fund": {},
   "furniture": {},
   "futbol": {},
@@ -11629,7 +11631,9 @@
   },
   "shopping": {},
   "shouji": {},
-  "show": {},
+  "show": {
+    "ms": {}
+  },
   "silk": {},
   "sina": {},
   "singles": {},
