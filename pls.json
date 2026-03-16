@@ -9784,7 +9784,10 @@
       "relay": {}
     },
     "expo": {
-      "staging": {}
+      "on": {},
+      "staging": {
+        "on": {}
+      }
     },
     "edgecompute": {},
     "on-fleek": {},
@@ -12023,11 +12026,11 @@
   "zero": {},
   "zip": {},
   "zone": {
+    "stackit": {},
+    "lima": {},
     "triton": {
       "*": {}
-    },
-    "stackit": {},
-    "lima": {}
+    }
   },
   "zuerich": {}
 }
