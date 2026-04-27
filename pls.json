@@ -2153,6 +2153,15 @@
     "appspaceusercontent": {},
     "on-aptible": {},
     "myasustor": {},
+    "atlassian-3p": {
+      "*": {}
+    },
+    "atlassian-3p-us-gov-mod": {
+      "*": {}
+    },
+    "atlassian-isolated-3p": {
+      "*": {}
+    },
     "balena-devices": {},
     "boutir": {},
     "bplaced": {},
@@ -2489,6 +2498,9 @@
     "atmeta": {},
     "fbsbx": {
       "apps": {}
+    },
+    "metaaiusercontent": {
+      "*": {}
     },
     "meteorapp": {
       "eu": {}
@@ -7974,6 +7986,7 @@
       "uk": {},
       "us": {}
     },
+    "fspages": {},
     "fedorainfracloud": {},
     "fedorapeople": {},
     "fedoraproject": {
@@ -9787,6 +9800,7 @@
   "app": {
     "adaptable": {},
     "aiven": {},
+    "claude": {},
     "beget": {
       "*": {}
     },
@@ -10889,11 +10903,7 @@
   "dhl": {},
   "diamonds": {},
   "diet": {},
-  "digital": {
-    "cloudapps": {
-      "london": {}
-    }
-  },
+  "digital": {},
   "direct": {
     "libp2p": {}
   },
@@ -11701,6 +11711,7 @@
       "us-east-1": {}
     },
     "cyon": {},
+    "piebox": {},
     "caffeine": {},
     "fastvps": {},
     "figma": {},
@@ -11751,6 +11762,7 @@
   "soy": {},
   "spa": {},
   "space": {
+    "deployagent": {},
     "myfast": {},
     "heiyu": {},
     "hf": {
