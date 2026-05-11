@@ -10937,9 +10937,6 @@
     "co": {}
   },
   "email": {
-    "crisp": {
-      "on": {}
-    },
     "intouch": {},
     "tawk": {
       "p": {}
@@ -12094,6 +12091,10 @@
     "stackit": {},
     "lima": {},
     "triton": {
+      "*": {}
+    },
+    "prg1-zerops": {},
+    "zerops": {
       "*": {}
     }
   },
