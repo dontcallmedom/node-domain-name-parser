@@ -1021,6 +1021,7 @@
     "canvasite": {
       "my": {}
     },
+    "khsj": {},
     "myqnapcloud": {},
     "quickconnect": {
       "direct": {}
@@ -2721,7 +2722,6 @@
     },
     "wafflecell": {},
     "hotelwithflight": {},
-    "reserve-online": {},
     "cprapid": {},
     "pleskns": {},
     "remotewd": {},
@@ -3393,6 +3393,7 @@
   },
   "id": {
     "ac": {},
+    "ai": {},
     "biz": {},
     "co": {},
     "desa": {},
@@ -9896,7 +9897,6 @@
     "vercel": {},
     "wal": {},
     "wasmer": {},
-    "bookonline": {},
     "windsurf": {},
     "base44": {},
     "zeabur": {},
@@ -11270,6 +11270,7 @@
   "lincoln": {},
   "link": {
     "myfritz": {},
+    "canva": {},
     "cyon": {},
     "joinmc": {},
     "dweb": {
@@ -11443,7 +11444,8 @@
     "eero-stage": {},
     "websitebuilder": {},
     "leapcell": {},
-    "barsy": {}
+    "barsy": {},
+    "book": {}
   },
   "ooo": {},
   "open": {},
