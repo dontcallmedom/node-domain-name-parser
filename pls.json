@@ -11732,6 +11732,7 @@
     "notion": {},
     "omniwe": {},
     "opensocial": {},
+    "chatgpt": {},
     "madethis": {},
     "support": {},
     "platformsh": {
@@ -11770,6 +11771,7 @@
   "space": {
     "deployagent": {},
     "myfast": {},
+    "vibehost": {},
     "heiyu": {},
     "hf": {
       "static": {}
