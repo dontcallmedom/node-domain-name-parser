@@ -204,6 +204,7 @@
     "co": {},
     "gv": {},
     "or": {},
+    "dnshome": {},
     "funkfeuer": {
       "wien": {}
     },
@@ -2855,7 +2856,11 @@
       "dyn": {}
     },
     "myhome-server": {},
+    "ddnssec": {},
     "dnshome": {},
+    "dyndnssec": {},
+    "heimdns": {},
+    "srvdns": {},
     "fuettertdasnetz": {},
     "isteingeek": {},
     "istmein": {},
@@ -3088,6 +3093,7 @@
     "cloudns": {},
     "prvw": {},
     "deuxfleurs": {},
+    "dnshome": {},
     "dogado": {
       "jelastic": {}
     },
@@ -4116,6 +4122,7 @@
     "vs": {},
     "vt": {},
     "vv": {},
+    "dnshome": {},
     "ibxos": {},
     "iliadboxos": {},
     "neen": {
@@ -9877,6 +9884,7 @@
     "upsun": {
       "*": {}
     },
+    "puter": {},
     "railway": {
       "up": {}
     },
@@ -10349,7 +10357,9 @@
   "banamex": {},
   "band": {},
   "bank": {},
-  "bar": {},
+  "bar": {
+    "resolve": {}
+  },
   "barcelona": {},
   "barclaycard": {},
   "barclays": {},
@@ -10370,7 +10380,9 @@
   "beats": {},
   "beauty": {},
   "beer": {},
-  "berlin": {},
+  "berlin": {
+    "ddns": {}
+  },
   "best": {},
   "bestbuy": {},
   "bet": {},
@@ -10499,6 +10511,7 @@
       "eu-west-1": {},
       "us-east-1": {}
     },
+    "dnshome": {},
     "elementor": {},
     "emergent": {},
     "encoway": {
@@ -10984,7 +10997,9 @@
   "fairwinds": {},
   "faith": {},
   "family": {},
-  "fan": {},
+  "fan": {
+    "mkm": {}
+  },
   "fans": {},
   "farm": {
     "storj": {}
@@ -11415,7 +11430,9 @@
   "nissay": {},
   "nokia": {},
   "norton": {},
-  "now": {},
+  "now": {
+    "dyn": {}
+  },
   "nowruz": {},
   "nowtv": {},
   "nra": {},
@@ -11442,6 +11459,7 @@
   "online": {
     "eero": {},
     "eero-stage": {},
+    "heimdns": {},
     "websitebuilder": {},
     "leapcell": {},
     "barsy": {},
@@ -11742,6 +11760,7 @@
       "*": {}
     },
     "byen": {},
+    "puter": {},
     "sol": {},
     "srht": {},
     "novecore": {},
@@ -11960,13 +11979,16 @@
   "wme": {},
   "woodside": {},
   "work": {
-    "imagine-proxy": {}
+    "imagine-proxy": {},
+    "puter": {}
   },
   "works": {},
   "world": {},
   "wow": {},
   "wtc": {},
-  "wtf": {},
+  "wtf": {
+    "ddns": {}
+  },
   "xbox": {},
   "xerox": {},
   "xihuan": {},
