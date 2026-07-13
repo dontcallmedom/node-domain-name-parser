@@ -7,6 +7,7 @@
     "net": {},
     "org": {},
     "drr": {},
+    "sch": {},
     "feedback": {},
     "forms": {}
   },
@@ -227,8 +228,6 @@
         "*": {}
       }
     },
-    "biz": {},
-    "info": {},
     "123webseite": {},
     "priv": {},
     "my": {},
@@ -2772,7 +2771,9 @@
     "net": {},
     "nome": {},
     "org": {},
-    "publ": {}
+    "publ": {},
+    "dev": {},
+    "store": {}
   },
   "cw": {
     "com": {},
@@ -6466,6 +6467,7 @@
     "transip": {
       "site": {}
     },
+    "grok": {},
     "nohost": {}
   },
   "mg": {
