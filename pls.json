@@ -2399,7 +2399,6 @@
       "us-3": {},
       "us-4": {}
     },
-    "onfabrica": {},
     "fastly-edge": {},
     "fastly-terrarium": {},
     "fastvps-server": {},
@@ -2690,9 +2689,6 @@
     "w-credentialless-staticblitz": {},
     "w-staticblitz": {},
     "stackhero-network": {},
-    "stdlib": {
-      "api": {}
-    },
     "strapiapp": {
       "media": {}
     },
@@ -3552,9 +3548,6 @@
     "net": {},
     "nom": {},
     "org": {},
-    "on-acorn": {
-      "*": {}
-    },
     "myaddr": {},
     "apigee": {},
     "b-data": {},
@@ -3572,9 +3565,6 @@
       "cdn": {}
     },
     "bubbleapps": {},
-    "bigv": {
-      "uk0": {}
-    },
     "cleverapps": {},
     "cloudbeesusercontent": {},
     "dappnode": {
@@ -3639,7 +3629,6 @@
     "pstmn": {
       "mock": {}
     },
-    "protonet": {},
     "qcx": {
       "sys": {
         "*": {}
@@ -3662,7 +3651,6 @@
     "resinstaging": {
       "devices": {}
     },
-    "hzc": {},
     "sandcats": {},
     "scrypted": {
       "client": {}
@@ -3787,7 +3775,6 @@
     "trentin-südtirol": {},
     "trentin-sued-tirol": {},
     "trentin-suedtirol": {},
-    "trentino": {},
     "trentino-a-adige": {},
     "trentino-aadige": {},
     "trentino-alto-adige": {},
@@ -3808,7 +3795,6 @@
     "trentinostirol": {},
     "trentinosud-tirol": {},
     "trentinosüd-tirol": {},
-    "trentinosudtirol": {},
     "trentinosüdtirol": {},
     "trentinosued-tirol": {},
     "trentinosuedtirol": {},
@@ -3824,7 +3810,6 @@
     "val-d-aosta": {},
     "val-daosta": {},
     "vald-aosta": {},
-    "valdaosta": {},
     "valle-aosta": {},
     "valle-d-aosta": {},
     "valle-daosta": {},
@@ -3860,7 +3845,6 @@
     "aoste": {},
     "ap": {},
     "aq": {},
-    "aquila": {},
     "ar": {},
     "arezzo": {},
     "ascoli-piceno": {},
@@ -4084,6 +4068,9 @@
     "sp": {},
     "sr": {},
     "ss": {},
+    "su": {},
+    "sud-sardegna": {},
+    "sudsardegna": {},
     "südtirol": {},
     "suedtirol": {},
     "sv": {},
@@ -4104,6 +4091,7 @@
     "traniandriabarletta": {},
     "tranibarlettaandria": {},
     "trapani": {},
+    "trentino": {},
     "trento": {},
     "treviso": {},
     "trieste": {},
@@ -4122,6 +4110,7 @@
     "venezia": {},
     "venice": {},
     "verbania": {},
+    "verbano-cusio-ossola": {},
     "vercelli": {},
     "verona": {},
     "vi": {},
@@ -6709,9 +6698,6 @@
     "feste-ip": {},
     "knx-server": {},
     "static-access": {},
-    "cryptonomic": {
-      "*": {}
-    },
     "dattolocal": {},
     "mydatto": {},
     "debian": {},
@@ -9077,10 +9063,6 @@
   "uk": {
     "ac": {},
     "co": {
-      "bytemark": {
-        "dh": {},
-        "vm": {}
-      },
       "layershift": {
         "j": {}
       },
@@ -9841,7 +9823,6 @@
     },
     "convex": {},
     "corespeed": {},
-    "deta": {},
     "ondigitalocean": {},
     "easypanel": {},
     "encr": {
@@ -10784,7 +10765,6 @@
     "workers": {},
     "deno": {},
     "deno-staging": {},
-    "deta": {},
     "lp": {
       "api": {},
       "objects": {}
@@ -11019,9 +10999,7 @@
     "mkm": {}
   },
   "fans": {},
-  "farm": {
-    "storj": {}
-  },
+  "farm": {},
   "farmers": {},
   "fashion": {},
   "fast": {},
@@ -11778,6 +11756,7 @@
     "tst": {
       "*": {}
     },
+    "playcode": {},
     "byen": {},
     "puter": {},
     "sol": {},
@@ -11976,6 +11955,7 @@
   "watches": {},
   "weather": {},
   "weatherchannel": {},
+  "web": {},
   "webcam": {},
   "weber": {},
   "website": {
