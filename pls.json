@@ -275,10 +275,7 @@
     "sa": {},
     "tas": {},
     "vic": {},
-    "wa": {},
-    "hrsn": {
-      "vps": {}
-    }
+    "wa": {}
   },
   "aw": {
     "com": {}
@@ -6934,6 +6931,9 @@
     "tunnelmole": {},
     "vusercontent": {},
     "reserve-online": {},
+    "hrsn": {
+      "vps": {}
+    },
     "localcert": {},
     "community-pro": {},
     "meinforum": {},
