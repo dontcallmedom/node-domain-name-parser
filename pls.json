@@ -1076,7 +1076,9 @@
     "auiusercontent": {
       "*": {}
     },
-    "aivencloud": {},
+    "aivencloud": {
+      "*": {}
+    },
     "alibabacloudcs": {},
     "kasserver": {},
     "amazonaws": {
@@ -2146,6 +2148,12 @@
       "us-west-2": {}
     },
     "awsglobalaccelerator": {},
+    "claudeusercontent": {
+      "frame": {}
+    },
+    "cursorusercontent": {
+      "*": {}
+    },
     "siiites": {},
     "appspacehosted": {},
     "appspaceusercontent": {},
@@ -9803,7 +9811,6 @@
   "aol": {},
   "apartments": {},
   "app": {
-    "adaptable": {},
     "aiven": {},
     "claude": {},
     "beget": {
@@ -9818,6 +9825,7 @@
     "clerkstage": {},
     "cloudflare": {},
     "wnext": {},
+    "codepen": {},
     "csb": {
       "preview": {}
     },
@@ -10521,6 +10529,7 @@
     },
     "ravendb": {},
     "hstgr": {},
+    "online-server": {},
     "axarnet": {
       "es-1": {}
     },
@@ -10763,6 +10772,7 @@
     "pages": {},
     "r2": {},
     "workers": {},
+    "codepen": {},
     "deno": {},
     "deno-staging": {},
     "lp": {
@@ -11427,7 +11437,8 @@
   "nokia": {},
   "norton": {},
   "now": {
-    "dyn": {}
+    "dyn": {},
+    "here": {}
   },
   "nowruz": {},
   "nowtv": {},
@@ -11759,6 +11770,10 @@
     "playcode": {},
     "byen": {},
     "puter": {},
+    "scw": {
+      "ams": {},
+      "waw": {}
+    },
     "sol": {},
     "srht": {},
     "novecore": {},
