@@ -486,6 +486,7 @@
     "ecologia": {},
     "economia": {},
     "empresa": {},
+    "ia": {},
     "indigena": {},
     "industria": {},
     "info": {},
@@ -1015,6 +1016,7 @@
     "yn": {},
     "zj": {},
     "canva-apps": {},
+    "canva-code": {},
     "canvasite": {
       "my": {}
     },
@@ -2738,10 +2740,6 @@
     "wpenginepowered": {
       "js": {}
     },
-    "xnbay": {
-      "u2": {},
-      "u2-local": {}
-    },
     "xtooldevice": {},
     "yolasite": {}
   },
@@ -3118,10 +3116,6 @@
     "iki": {},
     "cloudplatform": {
       "fi": {}
-    },
-    "datacenter": {
-      "demo": {},
-      "paas": {}
     },
     "kapsi": {},
     "123kotisivu": {},
@@ -6444,6 +6438,7 @@
     "c66": {},
     "craft": {},
     "edgestack": {},
+    "opencloud": {},
     "mybox": {},
     "filegear": {},
     "hooc": {
@@ -6847,7 +6842,82 @@
       "westeurope": {},
       "westus2": {}
     },
-    "azurewebsites": {},
+    "azurewebsites": {
+      "australiacentral-01": {},
+      "australiacentral2-01": {},
+      "australiaeast-01": {},
+      "australiasoutheast-01": {},
+      "austriaeast-01": {},
+      "belgiumcentral-01": {},
+      "brazilsouth-01": {},
+      "brazilsoutheast-01": {},
+      "canadacentral-01": {},
+      "canadaeast-01": {},
+      "centralindia-01": {},
+      "centralus-01": {},
+      "centraluseuap-01": {},
+      "chilecentral-01": {},
+      "denmarkeast-01": {},
+      "eastasia-01": {},
+      "eastasiastage-01": {},
+      "eastus-01": {},
+      "eastus2-01": {},
+      "eastus2euap-01": {},
+      "eastus3-01": {},
+      "francecentral-01": {},
+      "francesouth-01": {},
+      "germanynorth-01": {},
+      "germanywestcentral-01": {},
+      "indiasouthcentral-01": {},
+      "indonesiacentral-01": {},
+      "israelcentral-01": {},
+      "israelnorthwest-01": {},
+      "italynorth-01": {},
+      "japaneast-01": {},
+      "japanwest-01": {},
+      "jioindiacentral-01": {},
+      "jioindiawest-01": {},
+      "koreacentral-01": {},
+      "koreasouth-01": {},
+      "malaysiawest-01": {},
+      "mexicocentral-01": {},
+      "newzealandnorth-01": {},
+      "northcentralus-01": {},
+      "northcentralusstage-01": {},
+      "northeastus5-01": {},
+      "northeurope-01": {},
+      "norwayeast-01": {},
+      "norwaywest-01": {},
+      "p": {
+        "*": {}
+      },
+      "polandcentral-01": {},
+      "qatarcentral-01": {},
+      "southafricanorth-01": {},
+      "southafricawest-01": {},
+      "southcentralus-01": {},
+      "southcentralus2-01": {},
+      "southeastasia-01": {},
+      "southeastus5-01": {},
+      "southindia-01": {},
+      "spaincentral-01": {},
+      "swedencentral-01": {},
+      "swedensouth-01": {},
+      "switzerlandnorth-01": {},
+      "switzerlandwest-01": {},
+      "taiwannorth-01": {},
+      "taiwannorthwest-01": {},
+      "uaecentral-01": {},
+      "uaenorth-01": {},
+      "uksouth-01": {},
+      "ukwest-01": {},
+      "westcentralus-01": {},
+      "westeurope-01": {},
+      "westindia-01": {},
+      "westus-01": {},
+      "westus2-01": {},
+      "westus3-01": {}
+    },
     "cloudapp": {},
     "trafficmanager": {},
     "usgovcloudapi": {
@@ -8388,9 +8458,11 @@
   },
   "post": {},
   "pr": {
+    "ac": {},
     "biz": {},
     "com": {},
     "edu": {},
+    "est": {},
     "gov": {},
     "info": {},
     "isla": {},
@@ -8398,8 +8470,6 @@
     "net": {},
     "org": {},
     "pro": {},
-    "ac": {},
-    "est": {},
     "prof": {}
   },
   "pro": {
@@ -9898,6 +9968,7 @@
     "replit": {
       "id": {}
     },
+    "rocketpreview": {},
     "nyat": {},
     "snowflake": {
       "*": {},
@@ -11287,7 +11358,11 @@
   "like": {},
   "lilly": {},
   "limited": {},
-  "limo": {},
+  "limo": {
+    "eth": {
+      "*": {}
+    }
+  },
   "lincoln": {},
   "link": {
     "myfritz": {},
@@ -11301,6 +11376,9 @@
       "*": {}
     },
     "keenetic": {},
+    "eth": {
+      "*": {}
+    },
     "nftstorage": {
       "ipfs": {}
     },
@@ -11418,7 +11496,11 @@
     "tlon": {}
   },
   "neustar": {},
-  "new": {},
+  "new": {
+    "builtwithrocket": {
+      "*": {}
+    }
+  },
   "news": {
     "noticeable": {}
   },
@@ -11438,7 +11520,8 @@
   "norton": {},
   "now": {
     "dyn": {},
-    "here": {}
+    "here": {},
+    "tmp": {}
   },
   "nowruz": {},
   "nowtv": {},
