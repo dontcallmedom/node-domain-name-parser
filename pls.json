@@ -11712,6 +11712,7 @@
       "*": {}
     },
     "canva": {},
+    "cloud": {},
     "development": {},
     "ravendb": {},
     "liara": {
@@ -11915,7 +11916,9 @@
     "storebase": {}
   },
   "stream": {},
-  "studio": {},
+  "studio": {
+    "ai": {}
+  },
   "study": {},
   "style": {},
   "sucks": {},
