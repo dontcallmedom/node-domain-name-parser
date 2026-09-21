@@ -2410,6 +2410,7 @@
     "fastly-terrarium": {},
     "fastvps-server": {},
     "mydobiss": {},
+    "hosted-by-files": {},
     "firebaseapp": {},
     "fldrv": {},
     "framercanvas": {},
@@ -2440,7 +2441,11 @@
     "hatenadiary": {},
     "hercules-app": {},
     "hercules-dev": {},
-    "herokuapp": {},
+    "herokuapp": {
+      "compute": {
+        "*": {}
+      }
+    },
     "gr": {},
     "smushcdn": {},
     "wphostedmail": {},
@@ -2625,8 +2630,6 @@
       "eu": {}
     },
     "qa2": {},
-    "alpha-myqnapcloud": {},
-    "dev-myqnapcloud": {},
     "mycloudnas": {},
     "mynascloud": {},
     "myqnapcloud": {},
@@ -8733,6 +8736,7 @@
       "eu": {},
       "us": {}
     },
+    "surge": {},
     "teleport": {},
     "now": {}
   },
