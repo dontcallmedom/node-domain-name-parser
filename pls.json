@@ -339,7 +339,9 @@
   "be": {
     "ac": {},
     "cloudns": {},
-    "webhosting": {},
+    "webhosting": {
+      "site": {}
+    },
     "interhostsolutions": {
       "cloud": {}
     },
@@ -2208,6 +2210,13 @@
       "*": {}
     },
     "builtwithdark": {},
+    "databricksapps": {
+      "aws": {},
+      "azure": {
+        "*": {}
+      },
+      "gcp": {}
+    },
     "datadetect": {
       "demo": {},
       "instance": {}
@@ -7080,7 +7089,9 @@
   },
   "nl": {
     "co": {},
-    "hosting-cluster": {},
+    "hosting-cluster": {
+      "site": {}
+    },
     "gov": {},
     "khplay": {},
     "123website": {},
@@ -8423,6 +8434,7 @@
     "you2": {},
     "shoparena": {},
     "homesklep": {},
+    "iqhs": {},
     "sdscloud": {},
     "unicloud": {},
     "lodz": {},
@@ -9502,6 +9514,9 @@
       "lib": {}
     },
     "cloudns": {},
+    "databricksapps": {
+      "aws-gov": {}
+    },
     "is-by": {},
     "land-4-sale": {},
     "stuff-4-sale": {},
@@ -9927,6 +9942,7 @@
     "framer": {},
     "gadget": {},
     "github": {},
+    "glideos": {},
     "hosted": {
       "*": {}
     },
