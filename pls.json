@@ -1131,6 +1131,9 @@
       },
       "ap-northeast-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1154,6 +1157,9 @@
       },
       "ap-northeast-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1199,6 +1205,9 @@
       },
       "ap-south-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1222,6 +1231,9 @@
       },
       "ap-south-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1237,6 +1249,9 @@
       },
       "ap-southeast-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1260,6 +1275,9 @@
       },
       "ap-southeast-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1313,6 +1331,9 @@
       },
       "ap-southeast-5": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "dualstack": {
           "s3": {},
           "s3-accesspoint": {},
@@ -1326,6 +1347,9 @@
       },
       "ca-central-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1371,6 +1395,9 @@
       },
       "eu-central-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1409,6 +1436,9 @@
       },
       "eu-north-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1430,6 +1460,9 @@
       },
       "eu-south-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1452,6 +1485,9 @@
       },
       "eu-south-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1467,6 +1503,9 @@
       },
       "eu-west-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1491,6 +1530,9 @@
       },
       "eu-west-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1512,6 +1554,9 @@
       },
       "eu-west-3": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1591,6 +1636,9 @@
       },
       "sa-east-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1613,6 +1661,9 @@
       },
       "us-east-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1641,6 +1692,9 @@
       },
       "us-east-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1688,6 +1742,9 @@
       },
       "us-gov-west-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1707,6 +1764,9 @@
       },
       "us-west-1": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1733,6 +1793,9 @@
       },
       "us-west-2": {
         "execute-api": {},
+        "bedrock-agentcore": {
+          "consent-portal": {}
+        },
         "emrappui-prod": {},
         "emrnotebooks-prod": {},
         "emrstudio-prod": {},
@@ -1757,6 +1820,11 @@
         "cloud9": {
           "vfs": {},
           "webview-assets": {}
+        }
+      },
+      "ap-southeast-7": {
+        "bedrock-agentcore": {
+          "consent-portal": {}
         }
       },
       "compute": {
@@ -2617,6 +2685,98 @@
       "x": {},
       "yali": {}
     },
+    "fin-ncloudstorage": {
+      "object": {
+        "kr": {
+          "s3-website": {}
+        }
+      },
+      "private": {
+        "object": {
+          "kr": {}
+        }
+      }
+    },
+    "gov-ncloudstorage": {
+      "kr": {},
+      "kr-private": {},
+      "object": {
+        "kr": {
+          "s3-website": {}
+        },
+        "krs": {
+          "s3-website": {}
+        }
+      },
+      "private": {
+        "object": {
+          "kr": {},
+          "krs": {}
+        }
+      }
+    },
+    "ncloud": {
+      "objectstorage": {
+        "kr": {},
+        "sg": {}
+      }
+    },
+    "ncloudstorage": {
+      "kr": {},
+      "kr-naver": {},
+      "kr-naver-dev": {},
+      "kr-private": {},
+      "object": {
+        "de": {
+          "s3-website": {}
+        },
+        "kr": {
+          "s3-website": {}
+        },
+        "sg": {
+          "s3-website": {}
+        },
+        "us": {
+          "s3-website": {}
+        }
+      },
+      "private": {
+        "object": {
+          "kr": {},
+          "sg": {}
+        }
+      },
+      "website": {
+        "kr": {},
+        "kr-naver": {},
+        "kr-naver-dev": {}
+      }
+    },
+    "ncpstorage": {
+      "object": {
+        "jp": {},
+        "jp4": {
+          "jp": {}
+        },
+        "jp5": {
+          "jp": {}
+        },
+        "kr": {},
+        "s3-website-jp": {}
+      },
+      "private": {
+        "object": {
+          "jp": {},
+          "jp4": {
+            "jp": {}
+          },
+          "jp5": {
+            "jp": {}
+          },
+          "kr": {}
+        }
+      }
+    },
     "nospamproxy": {
       "cloud": {
         "o365": {}
@@ -3172,7 +3332,8 @@
         "eusc-de-east-1": {
           "cognito-idp": {
             "auth": {}
-          }
+          },
+          "transfer-webapp": {}
         }
       }
     },
@@ -8826,7 +8987,6 @@
   },
   "si": {
     "f5": {},
-    "gitapp": {},
     "gitpage": {}
   },
   "sj": {},
@@ -10231,6 +10391,12 @@
         },
         "transfer-webapp": {}
       },
+      "ap-southeast-7": {
+        "airflow": {
+          "*": {}
+        },
+        "transfer-webapp": {}
+      },
       "ca-central-1": {
         "airflow": {
           "*": {}
@@ -10352,7 +10518,10 @@
         "lambda-url": {},
         "transfer-webapp": {}
       },
-      "ap-southeast-7": {
+      "ap-east-2": {
+        "transfer-webapp": {}
+      },
+      "ap-southeast-6": {
         "transfer-webapp": {}
       },
       "mx-central-1": {
@@ -10754,7 +10923,6 @@
     },
     "matlab": {},
     "observablehq": {},
-    "perspecta": {},
     "vapor": {},
     "on-rancher": {
       "*": {}
@@ -12004,7 +12172,6 @@
   "swiss": {},
   "sydney": {},
   "systems": {
-    "knightpoint": {},
     "miren": {}
   },
   "tab": {},
