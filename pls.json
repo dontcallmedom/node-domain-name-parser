@@ -1084,6 +1084,9 @@
       "*": {}
     },
     "alibabacloudcs": {},
+    "ztna-dingtalk": {
+      "*": {}
+    },
     "kasserver": {},
     "amazonaws": {
       "af-south-1": {
@@ -2566,7 +2569,6 @@
     "freebox-os": {},
     "freeboxos": {},
     "freemyip": {},
-    "aliases121": {},
     "gentapps": {},
     "gentlentapis": {},
     "githubusercontent": {},
@@ -9198,7 +9200,6 @@
     "mil": {},
     "net": {},
     "org": {},
-    "oya": {},
     "x0": {},
     "quickconnect": {
       "direct": {}
