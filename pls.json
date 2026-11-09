@@ -2298,9 +2298,6 @@
     "claudeusercontent": {
       "frame": {}
     },
-    "cursorusercontent": {
-      "*": {}
-    },
     "siiites": {},
     "appspacehosted": {},
     "appspaceusercontent": {},
@@ -2937,6 +2934,9 @@
     "streamlitapp": {},
     "try-snowplow": {},
     "playstation-cloud": {},
+    "cursorusercontent": {
+      "*": {}
+    },
     "myspreadshop": {},
     "w-corp-staticblitz": {},
     "w-credentialless-staticblitz": {},
@@ -6705,6 +6705,7 @@
     "soundcast": {},
     "tcp4": {},
     "vp4": {},
+    "grok": {},
     "diskstation": {},
     "dscloud": {},
     "i234": {},
@@ -6713,7 +6714,6 @@
     "transip": {
       "site": {}
     },
-    "grok": {},
     "nohost": {}
   },
   "mg": {
@@ -9838,7 +9838,9 @@
   },
   "vn": {
     "ac": {},
+    "ad": {},
     "ai": {},
+    "ap": {},
     "biz": {},
     "com": {},
     "edu": {},
@@ -9850,6 +9852,7 @@
     "io": {},
     "name": {},
     "net": {},
+    "on": {},
     "org": {},
     "pro": {},
     "angiang": {},
@@ -10193,7 +10196,9 @@
     "shiptoday": {},
     "leapcell": {},
     "loginline": {},
-    "lovable": {},
+    "lovable": {
+      "auth": {}
+    },
     "luyani": {},
     "magicpatterns": {},
     "medusajs": {},
@@ -10224,6 +10229,7 @@
     "retool": {},
     "rocketpreview": {},
     "nyat": {},
+    "sliplane": {},
     "snowflake": {
       "*": {},
       "privatelink": {
@@ -10754,7 +10760,16 @@
   "bosch": {},
   "bostik": {},
   "boston": {},
-  "bot": {},
+  "bot": {
+    "grok": {
+      "apps": {
+        "*": {}
+      },
+      "pages": {
+        "*": {}
+      }
+    }
+  },
   "boutique": {},
   "box": {},
   "bradesco": {},
@@ -11146,6 +11161,7 @@
     "is-cool": {},
     "is-not-a": {},
     "localplayer": {},
+    "pagelemon": {},
     "xmit": {},
     "platter-app": {},
     "replit": {
@@ -11814,6 +11830,7 @@
     "deuxfleurs": {},
     "mybox": {},
     "heyflow": {},
+    "linkyhost": {},
     "prvcy": {},
     "rocky": {},
     "statichost": {},
@@ -11972,6 +11989,7 @@
     },
     "onporter": {},
     "repl": {},
+    "sanity": {},
     "stackit": {},
     "val": {
       "web": {}
@@ -12067,6 +12085,7 @@
     "cyon": {},
     "piebox": {},
     "caffeine": {},
+    "docsflowy": {},
     "fastvps": {},
     "figma": {},
     "figma-gov": {},
@@ -12123,6 +12142,7 @@
   "soy": {},
   "spa": {},
   "space": {
+    "manus": {},
     "deployagent": {},
     "myfast": {},
     "vibehost": {},
@@ -12155,7 +12175,8 @@
   },
   "stream": {},
   "studio": {
-    "ai": {}
+    "ai": {},
+    "sanity": {}
   },
   "study": {},
   "style": {},
